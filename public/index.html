@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AndzTV</title>
+<link rel="icon" href="favicon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="AndzTV">
+<meta name="theme-color" content="#14151f">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#" data-tab-link="collections" aria-label="AndzTV home">
+    <img class="brand-mark" src="logo-mark.png" alt="">
+    <span class="wordmark"><b>ANDZ</b><i>tv</i></span>
+  </a>
+  <nav class="tabs" id="tabs" aria-label="Sections">
+    <button data-tab="collections">Collections</button>
+    <button data-tab="next">Up Next <span class="count o" data-count="next"></span></button>
+    <button data-tab="failed">Failed <span class="count r" data-count="failed"></span></button>
+    <button data-tab="requests">Requests <span class="count p" data-count="req"></span></button>
+    <button data-tab="library">Masterlist</button>
+  </nav>
+  <div class="top-actions">
+    <span id="save-state" class="save-state"></span>
+    <button class="icon-btn top-icon" id="theme-btn" title="Light / dark" aria-label="Toggle light or dark">
+      <svg class="i" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 0 0 16z" fill="currentColor"/></svg>
+    </button>
+    <button class="btn primary add-btn" id="add-btn" aria-label="Add title">
+      <svg class="i" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg><span>Add</span>
+    </button>
+  </div>
+</header>
+
+<section class="stats" id="stats"></section>
+
+<main>
+  <div class="navrow">
+    <h1 class="page-title" id="page-title"></h1>
+    <div class="filters" id="filters"></div>
+  </div>
+  <div id="view"></div>
+</main>
+
+<nav class="bottomnav" id="bottomnav" aria-label="Sections">
+  <button data-tab="collections"><svg class="i" viewBox="0 0 24 24"><path d="m12 3 9 5-9 5-9-5 9-5z"/><path d="m3 13 9 5 9-5"/></svg><span>Collections</span></button>
+  <button data-tab="next"><svg class="i" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m10 8.5 5 3.5-5 3.5z" fill="currentColor"/></svg><span>Up Next</span><span class="count o" data-count="next"></span></button>
+  <button data-tab="failed"><svg class="i" viewBox="0 0 24 24"><path d="M12 3 2.5 20h19L12 3z"/><path d="M12 10v4M12 17v.5"/></svg><span>Failed</span><span class="count r" data-count="failed"></span></button>
+  <button data-tab="requests"><svg class="i" viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9L12 3z"/></svg><span>Requests</span><span class="count p" data-count="req"></span></button>
+  <button data-tab="library"><svg class="i" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="9" rx="1"/><rect x="14" y="3" width="7" height="9" rx="1"/><rect x="3" y="15" width="7" height="6" rx="1"/><rect x="14" y="15" width="7" height="6" rx="1"/></svg><span>Library</span></button>
+</nav>
+
+<div class="modal-backdrop" id="modal" hidden>
+  <div class="modal" role="dialog" aria-modal="true">
+    <button class="modal-close" id="modal-close" aria-label="Close">×</button>
+    <div id="modal-body"></div>
+  </div>
+</div>
+<div id="menu" class="menu" hidden></div>
+<div id="toast" class="toast" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>

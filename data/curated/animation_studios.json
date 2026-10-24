@@ -1,0 +1,2634 @@
+{
+  "collections": [
+    {
+      "id": "cur-pixar",
+      "name": "Pixar",
+      "kind": "Studio",
+      "items": [
+        {
+          "title": "Toy Story",
+          "year": 1995,
+          "type": "movie",
+          "wiki": "Toy Story"
+        },
+        {
+          "title": "A Bug's Life",
+          "year": 1998,
+          "type": "movie",
+          "wiki": "A Bug's Life"
+        },
+        {
+          "title": "Toy Story 2",
+          "year": 1999,
+          "type": "movie",
+          "wiki": "Toy Story 2"
+        },
+        {
+          "title": "Buzz Lightyear of Star Command: The Adventure Begins",
+          "year": 2000,
+          "type": "movie",
+          "wiki": "Buzz Lightyear of Star Command: The Adventure Begins",
+          "format": "Direct-to-video film (Disney Television Animation spin-off)"
+        },
+        {
+          "title": "Buzz Lightyear of Star Command",
+          "year": 2000,
+          "type": "tv",
+          "wiki": "Buzz Lightyear of Star Command",
+          "format": "TV series (Disney Television Animation spin-off)"
+        },
+        {
+          "title": "Monsters, Inc.",
+          "year": 2001,
+          "type": "movie",
+          "wiki": "Monsters, Inc."
+        },
+        {
+          "title": "Finding Nemo",
+          "year": 2003,
+          "type": "movie",
+          "wiki": "Finding Nemo"
+        },
+        {
+          "title": "The Incredibles",
+          "year": 2004,
+          "type": "movie",
+          "wiki": "The Incredibles"
+        },
+        {
+          "title": "Cars",
+          "year": 2006,
+          "type": "movie",
+          "wiki": "Cars (film)"
+        },
+        {
+          "title": "Ratatouille",
+          "year": 2007,
+          "type": "movie",
+          "wiki": "Ratatouille (film)"
+        },
+        {
+          "title": "WALL·E",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "WALL-E",
+          "aka": [
+            "WALL-E"
+          ]
+        },
+        {
+          "title": "Mater's Tall Tales",
+          "year": 2008,
+          "type": "tv",
+          "wiki": "Cars Toons",
+          "format": "Short-form series (Cars Toons)",
+          "aka": [
+            "Cars Toons: Mater's Tall Tales"
+          ]
+        },
+        {
+          "title": "Up",
+          "year": 2009,
+          "type": "movie",
+          "wiki": "Up (2009 film)"
+        },
+        {
+          "title": "Toy Story 3",
+          "year": 2010,
+          "type": "movie",
+          "wiki": "Toy Story 3"
+        },
+        {
+          "title": "Cars 2",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Cars 2"
+        },
+        {
+          "title": "Brave",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "Brave (2012 film)"
+        },
+        {
+          "title": "Monsters University",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Monsters University"
+        },
+        {
+          "title": "Tales from Radiator Springs",
+          "year": 2013,
+          "type": "tv",
+          "wiki": "Cars Toons",
+          "format": "Short-form series (Cars Toons)",
+          "aka": [
+            "Cars Toons: Tales from Radiator Springs"
+          ]
+        },
+        {
+          "title": "Toy Story of Terror!",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Toy Story of Terror!",
+          "format": "TV special"
+        },
+        {
+          "title": "Toy Story That Time Forgot",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "Toy Story That Time Forgot",
+          "format": "TV special"
+        },
+        {
+          "title": "Inside Out",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Inside Out"
+        },
+        {
+          "title": "The Good Dinosaur",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "The Good Dinosaur"
+        },
+        {
+          "title": "Finding Dory",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Finding Dory"
+        },
+        {
+          "title": "Cars 3",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "Cars 3"
+        },
+        {
+          "title": "Coco",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "Coco (2017 film)"
+        },
+        {
+          "title": "Incredibles 2",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Incredibles 2"
+        },
+        {
+          "title": "Toy Story 4",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "Toy Story 4"
+        },
+        {
+          "title": "Forky Asks a Question",
+          "year": 2019,
+          "type": "tv",
+          "wiki": "Forky Asks a Question",
+          "format": "Disney+ short-form series"
+        },
+        {
+          "title": "Lamp Life",
+          "year": 2020,
+          "type": "movie",
+          "format": "Disney+ short"
+        },
+        {
+          "title": "Onward",
+          "year": 2020,
+          "type": "movie",
+          "wiki": "Onward (film)"
+        },
+        {
+          "title": "Soul",
+          "year": 2020,
+          "type": "movie",
+          "wiki": "Soul (2020 film)"
+        },
+        {
+          "title": "Luca",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Luca (2021 film)"
+        },
+        {
+          "title": "Monsters at Work",
+          "year": 2021,
+          "type": "tv",
+          "wiki": "Monsters at Work",
+          "format": "Disney+ series (Disney Television Animation spin-off)"
+        },
+        {
+          "title": "Dug Days",
+          "year": 2021,
+          "type": "tv",
+          "wiki": "Dug Days",
+          "format": "Disney+ short-form series"
+        },
+        {
+          "title": "Turning Red",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Turning Red"
+        },
+        {
+          "title": "Lightyear",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Lightyear (film)"
+        },
+        {
+          "title": "Cars on the Road",
+          "year": 2022,
+          "type": "tv",
+          "wiki": "Cars on the Road",
+          "format": "Disney+ series"
+        },
+        {
+          "title": "Elemental",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "Elemental (2023 film)"
+        },
+        {
+          "title": "Inside Out 2",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Inside Out 2"
+        },
+        {
+          "title": "Dream Productions",
+          "year": 2024,
+          "type": "tv",
+          "wiki": "Dream Productions",
+          "format": "Disney+ miniseries (Inside Out spin-off)"
+        },
+        {
+          "title": "Win or Lose",
+          "year": 2025,
+          "type": "tv",
+          "wiki": "Win or Lose (miniseries)",
+          "format": "Disney+ miniseries"
+        },
+        {
+          "title": "Elio",
+          "year": 2025,
+          "type": "movie",
+          "wiki": "Elio (film)"
+        },
+        {
+          "title": "Hoppers",
+          "year": 2026,
+          "type": "movie",
+          "wiki": "Hoppers (film)"
+        },
+        {
+          "title": "Toy Story 5",
+          "year": 2026,
+          "type": "movie",
+          "wiki": "Toy Story 5"
+        }
+      ]
+    },
+    {
+      "id": "cur-dreamworks-animation",
+      "name": "DreamWorks Animation",
+      "kind": "Studio",
+      "items": [
+        {
+          "title": "Antz",
+          "year": 1998,
+          "type": "movie",
+          "wiki": "Antz"
+        },
+        {
+          "title": "The Prince of Egypt",
+          "year": 1998,
+          "type": "movie",
+          "wiki": "The Prince of Egypt"
+        },
+        {
+          "title": "The Road to El Dorado",
+          "year": 2000,
+          "type": "movie",
+          "wiki": "The Road to El Dorado"
+        },
+        {
+          "title": "Chicken Run",
+          "year": 2000,
+          "type": "movie",
+          "wiki": "Chicken Run",
+          "format": "Co-production with Aardman"
+        },
+        {
+          "title": "Joseph: King of Dreams",
+          "year": 2000,
+          "type": "movie",
+          "wiki": "Joseph: King of Dreams",
+          "format": "Direct-to-video film"
+        },
+        {
+          "title": "Shrek",
+          "year": 2001,
+          "type": "movie",
+          "wiki": "Shrek"
+        },
+        {
+          "title": "Spirit: Stallion of the Cimarron",
+          "year": 2002,
+          "type": "movie",
+          "wiki": "Spirit: Stallion of the Cimarron"
+        },
+        {
+          "title": "Sinbad: Legend of the Seven Seas",
+          "year": 2003,
+          "type": "movie",
+          "wiki": "Sinbad: Legend of the Seven Seas"
+        },
+        {
+          "title": "Shrek 4-D",
+          "year": 2003,
+          "type": "movie",
+          "wiki": "Shrek 4-D",
+          "format": "Theme-park short",
+          "aka": [
+            "The Ghost of Lord Farquaad"
+          ]
+        },
+        {
+          "title": "Shrek 2",
+          "year": 2004,
+          "type": "movie",
+          "wiki": "Shrek 2"
+        },
+        {
+          "title": "Shark Tale",
+          "year": 2004,
+          "type": "movie",
+          "wiki": "Shark Tale"
+        },
+        {
+          "title": "Madagascar",
+          "year": 2005,
+          "type": "movie",
+          "wiki": "Madagascar (2005 film)"
+        },
+        {
+          "title": "The Madagascar Penguins in a Christmas Caper",
+          "year": 2005,
+          "type": "movie",
+          "wiki": "The Madagascar Penguins in a Christmas Caper",
+          "format": "Short film"
+        },
+        {
+          "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+          "year": 2005,
+          "type": "movie",
+          "wiki": "Wallace & Gromit: The Curse of the Were-Rabbit",
+          "format": "Co-production with Aardman"
+        },
+        {
+          "title": "Over the Hedge",
+          "year": 2006,
+          "type": "movie",
+          "wiki": "Over the Hedge"
+        },
+        {
+          "title": "Hammy's Boomerang Adventure",
+          "year": 2006,
+          "type": "movie",
+          "format": "Short film"
+        },
+        {
+          "title": "Flushed Away",
+          "year": 2006,
+          "type": "movie",
+          "wiki": "Flushed Away",
+          "format": "Co-production with Aardman"
+        },
+        {
+          "title": "Shrek the Third",
+          "year": 2007,
+          "type": "movie",
+          "wiki": "Shrek the Third"
+        },
+        {
+          "title": "Bee Movie",
+          "year": 2007,
+          "type": "movie",
+          "wiki": "Bee Movie"
+        },
+        {
+          "title": "Shrek the Halls",
+          "year": 2007,
+          "type": "movie",
+          "wiki": "Shrek the Halls",
+          "format": "TV special"
+        },
+        {
+          "title": "Kung Fu Panda",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "Kung Fu Panda (film)"
+        },
+        {
+          "title": "Madagascar: Escape 2 Africa",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "Madagascar: Escape 2 Africa"
+        },
+        {
+          "title": "The Penguins of Madagascar",
+          "year": 2008,
+          "type": "tv",
+          "wiki": "The Penguins of Madagascar",
+          "format": "TV series"
+        },
+        {
+          "title": "Secrets of the Furious Five",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "Secrets of the Furious Five",
+          "format": "TV special / short"
+        },
+        {
+          "title": "Monsters vs. Aliens",
+          "year": 2009,
+          "type": "movie",
+          "wiki": "Monsters vs. Aliens"
+        },
+        {
+          "title": "B.O.B.'s Big Break",
+          "year": 2009,
+          "type": "movie",
+          "format": "Short film"
+        },
+        {
+          "title": "Monsters vs. Aliens: Mutant Pumpkins from Outer Space",
+          "year": 2009,
+          "type": "movie",
+          "wiki": "Monsters vs. Aliens: Mutant Pumpkins from Outer Space",
+          "format": "TV special"
+        },
+        {
+          "title": "Merry Madagascar",
+          "year": 2009,
+          "type": "movie",
+          "wiki": "Merry Madagascar",
+          "format": "TV special"
+        },
+        {
+          "title": "How to Train Your Dragon",
+          "year": 2010,
+          "type": "movie",
+          "wiki": "How to Train Your Dragon (2010 film)"
+        },
+        {
+          "title": "Shrek Forever After",
+          "year": 2010,
+          "type": "movie",
+          "wiki": "Shrek Forever After"
+        },
+        {
+          "title": "Legend of the Boneknapper Dragon",
+          "year": 2010,
+          "type": "movie",
+          "format": "Short film"
+        },
+        {
+          "title": "Scared Shrekless",
+          "year": 2010,
+          "type": "movie",
+          "wiki": "Scared Shrekless",
+          "format": "TV special"
+        },
+        {
+          "title": "Megamind",
+          "year": 2010,
+          "type": "movie",
+          "wiki": "Megamind"
+        },
+        {
+          "title": "Kung Fu Panda Holiday",
+          "year": 2010,
+          "type": "movie",
+          "wiki": "Kung Fu Panda Holiday",
+          "format": "TV special"
+        },
+        {
+          "title": "Donkey's Caroling Christmas-tacular",
+          "year": 2010,
+          "type": "movie",
+          "format": "Short film"
+        },
+        {
+          "title": "Megamind: The Button of Doom",
+          "year": 2011,
+          "type": "movie",
+          "format": "Short film"
+        },
+        {
+          "title": "Kung Fu Panda 2",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Kung Fu Panda 2"
+        },
+        {
+          "title": "Kung Fu Panda: Legends of Awesomeness",
+          "year": 2011,
+          "type": "tv",
+          "wiki": "Kung Fu Panda: Legends of Awesomeness",
+          "format": "TV series"
+        },
+        {
+          "title": "Thriller Night",
+          "year": 2011,
+          "type": "movie",
+          "format": "Short film"
+        },
+        {
+          "title": "Puss in Boots",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Puss in Boots (2011 film)"
+        },
+        {
+          "title": "Night of the Living Carrots",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Night of the Living Carrots",
+          "format": "Short film"
+        },
+        {
+          "title": "Book of Dragons",
+          "year": 2011,
+          "type": "movie",
+          "format": "Short film"
+        },
+        {
+          "title": "Dragons: Gift of the Night Fury",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Dragons: Gift of the Night Fury",
+          "format": "TV special"
+        },
+        {
+          "title": "Kung Fu Panda: Secrets of the Masters",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Kung Fu Panda: Secrets of the Masters",
+          "format": "Short film"
+        },
+        {
+          "title": "Puss in Boots: The Three Diablos",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "Puss in Boots: The Three Diablos",
+          "format": "Short film"
+        },
+        {
+          "title": "Madagascar 3: Europe's Most Wanted",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "Madagascar 3: Europe's Most Wanted"
+        },
+        {
+          "title": "DreamWorks Dragons",
+          "year": 2012,
+          "type": "tv",
+          "wiki": "DreamWorks Dragons",
+          "format": "TV series",
+          "aka": [
+            "Dragons: Riders of Berk",
+            "Dragons: Defenders of Berk",
+            "Dragons: Race to the Edge"
+          ]
+        },
+        {
+          "title": "Rise of the Guardians",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "Rise of the Guardians"
+        },
+        {
+          "title": "Madly Madagascar",
+          "year": 2013,
+          "type": "movie",
+          "format": "Direct-to-video special"
+        },
+        {
+          "title": "The Croods",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "The Croods"
+        },
+        {
+          "title": "Monsters vs. Aliens",
+          "year": 2013,
+          "type": "tv",
+          "wiki": "Monsters vs. Aliens (TV series)",
+          "format": "TV series"
+        },
+        {
+          "title": "Turbo",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Turbo (2013 film)"
+        },
+        {
+          "title": "Turbo Fast",
+          "year": 2013,
+          "type": "tv",
+          "wiki": "Turbo Fast",
+          "format": "TV series"
+        },
+        {
+          "title": "Shrek the Musical",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Shrek the Musical",
+          "format": "Filmed Broadway stage production"
+        },
+        {
+          "title": "Mr. Peabody & Sherman",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "Mr. Peabody & Sherman"
+        },
+        {
+          "title": "How to Train Your Dragon 2",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "How to Train Your Dragon 2"
+        },
+        {
+          "title": "Dawn of the Dragon Racers",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "Dawn of the Dragon Racers",
+          "format": "Short film"
+        },
+        {
+          "title": "All Hail King Julien",
+          "year": 2014,
+          "type": "tv",
+          "wiki": "All Hail King Julien",
+          "format": "TV series"
+        },
+        {
+          "title": "Penguins of Madagascar",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "Penguins of Madagascar"
+        },
+        {
+          "title": "Home",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Home (2015 film)"
+        },
+        {
+          "title": "The Adventures of Puss in Boots",
+          "year": 2015,
+          "type": "tv",
+          "wiki": "The Adventures of Puss in Boots",
+          "format": "TV series"
+        },
+        {
+          "title": "The Mr. Peabody & Sherman Show",
+          "year": 2015,
+          "type": "tv",
+          "wiki": "The Mr. Peabody & Sherman Show",
+          "format": "TV series"
+        },
+        {
+          "title": "Dawn of the Croods",
+          "year": 2015,
+          "type": "tv",
+          "wiki": "Dawn of the Croods",
+          "format": "TV series"
+        },
+        {
+          "title": "Kung Fu Panda: Secrets of the Scroll",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Kung Fu Panda: Secrets of the Scroll",
+          "format": "Short film"
+        },
+        {
+          "title": "Kung Fu Panda 3",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Kung Fu Panda 3"
+        },
+        {
+          "title": "Home: Adventures with Tip & Oh",
+          "year": 2016,
+          "type": "tv",
+          "wiki": "Home: Adventures with Tip & Oh",
+          "format": "TV series"
+        },
+        {
+          "title": "Panda Paws",
+          "year": 2016,
+          "type": "movie",
+          "format": "Short film"
+        },
+        {
+          "title": "Trolls",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Trolls (film)"
+        },
+        {
+          "title": "The Boss Baby",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "The Boss Baby"
+        },
+        {
+          "title": "Spirit Riding Free",
+          "year": 2017,
+          "type": "tv",
+          "wiki": "Spirit Riding Free",
+          "format": "TV series"
+        },
+        {
+          "title": "Captain Underpants: The First Epic Movie",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "Captain Underpants: The First Epic Movie"
+        },
+        {
+          "title": "Trolls Holiday",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "Trolls Holiday",
+          "format": "TV special"
+        },
+        {
+          "title": "Trolls: The Beat Goes On!",
+          "year": 2018,
+          "type": "tv",
+          "wiki": "Trolls: The Beat Goes On!",
+          "format": "TV series"
+        },
+        {
+          "title": "The Boss Baby: Back in Business",
+          "year": 2018,
+          "type": "tv",
+          "wiki": "The Boss Baby: Back in Business",
+          "format": "TV series"
+        },
+        {
+          "title": "The Epic Tales of Captain Underpants",
+          "year": 2018,
+          "type": "tv",
+          "wiki": "The Epic Tales of Captain Underpants",
+          "format": "TV series"
+        },
+        {
+          "title": "Kung Fu Panda: The Paws of Destiny",
+          "year": 2018,
+          "type": "tv",
+          "wiki": "Kung Fu Panda: The Paws of Destiny",
+          "format": "TV series"
+        },
+        {
+          "title": "How to Train Your Dragon: The Hidden World",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "How to Train Your Dragon: The Hidden World"
+        },
+        {
+          "title": "Abominable",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "Abominable (2019 film)"
+        },
+        {
+          "title": "DreamWorks Dragons: Rescue Riders",
+          "year": 2019,
+          "type": "tv",
+          "wiki": "DreamWorks Dragons: Rescue Riders",
+          "format": "TV series"
+        },
+        {
+          "title": "How to Train Your Dragon: Homecoming",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "How to Train Your Dragon: Homecoming",
+          "format": "TV special"
+        },
+        {
+          "title": "Trolls World Tour",
+          "year": 2020,
+          "type": "movie",
+          "wiki": "Trolls World Tour"
+        },
+        {
+          "title": "Madagascar: A Little Wild",
+          "year": 2020,
+          "type": "tv",
+          "wiki": "Madagascar: A Little Wild",
+          "format": "TV series"
+        },
+        {
+          "title": "Trolls: TrollsTopia",
+          "year": 2020,
+          "type": "tv",
+          "wiki": "Trolls: TrollsTopia",
+          "format": "TV series"
+        },
+        {
+          "title": "The Croods: A New Age",
+          "year": 2020,
+          "type": "movie",
+          "wiki": "The Croods: A New Age"
+        },
+        {
+          "title": "The Croods: Family Tree",
+          "year": 2021,
+          "type": "tv",
+          "wiki": "The Croods: Family Tree",
+          "format": "TV series"
+        },
+        {
+          "title": "Spirit Untamed",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Spirit Untamed"
+        },
+        {
+          "title": "The Boss Baby: Family Business",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "The Boss Baby: Family Business"
+        },
+        {
+          "title": "DreamWorks Dragons: The Nine Realms",
+          "year": 2021,
+          "type": "tv",
+          "wiki": "DreamWorks Dragons: The Nine Realms",
+          "format": "TV series"
+        },
+        {
+          "title": "Trolls: Holiday in Harmony",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Trolls: Holiday in Harmony",
+          "format": "TV special"
+        },
+        {
+          "title": "The Bad Guys",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "The Bad Guys (film)"
+        },
+        {
+          "title": "The Boss Baby: Back in the Crib",
+          "year": 2022,
+          "type": "tv",
+          "wiki": "The Boss Baby: Back in the Crib",
+          "format": "TV series"
+        },
+        {
+          "title": "Kung Fu Panda: The Dragon Knight",
+          "year": 2022,
+          "type": "tv",
+          "wiki": "Kung Fu Panda: The Dragon Knight",
+          "format": "TV series"
+        },
+        {
+          "title": "Abominable and the Invisible City",
+          "year": 2022,
+          "type": "tv",
+          "wiki": "Abominable and the Invisible City",
+          "format": "TV series"
+        },
+        {
+          "title": "Puss in Boots: The Last Wish",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Puss in Boots: The Last Wish"
+        },
+        {
+          "title": "Ruby Gillman, Teenage Kraken",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "Ruby Gillman, Teenage Kraken"
+        },
+        {
+          "title": "Trolls Band Together",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "Trolls Band Together"
+        },
+        {
+          "title": "The Bad Guys: A Very Bad Holiday",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "The Bad Guys: A Very Bad Holiday",
+          "format": "Netflix special"
+        },
+        {
+          "title": "Orion and the Dark",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Orion and the Dark",
+          "format": "Netflix film"
+        },
+        {
+          "title": "Megamind vs. the Doom Syndicate",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Megamind vs. the Doom Syndicate",
+          "format": "Peacock TV film"
+        },
+        {
+          "title": "Megamind Rules!",
+          "year": 2024,
+          "type": "tv",
+          "wiki": "Megamind Rules!",
+          "format": "TV series"
+        },
+        {
+          "title": "Kung Fu Panda 4",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Kung Fu Panda 4"
+        },
+        {
+          "title": "The Wild Robot",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "The Wild Robot"
+        },
+        {
+          "title": "The Bad Guys: Haunted Heist",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "The Bad Guys: Haunted Heist",
+          "format": "Netflix special"
+        },
+        {
+          "title": "Dog Man",
+          "year": 2025,
+          "type": "movie",
+          "wiki": "Dog Man (film)"
+        },
+        {
+          "title": "The Bad Guys: The Series",
+          "year": 2025,
+          "type": "tv",
+          "wiki": "The Bad Guys: The Series",
+          "format": "TV series"
+        },
+        {
+          "title": "How to Train Your Dragon",
+          "year": 2025,
+          "type": "movie",
+          "wiki": "How to Train Your Dragon (2025 film)",
+          "format": "Live-action remake"
+        },
+        {
+          "title": "The Bad Guys 2",
+          "year": 2025,
+          "type": "movie",
+          "wiki": "The Bad Guys 2"
+        },
+        {
+          "title": "Gabby's Dollhouse: The Movie",
+          "year": 2025,
+          "type": "movie",
+          "wiki": "Gabby's Dollhouse: The Movie",
+          "format": "Live-action/animation hybrid"
+        },
+        {
+          "title": "Forgotten Island",
+          "year": 2026,
+          "type": "movie",
+          "wiki": "Forgotten Island"
+        }
+      ]
+    },
+    {
+      "id": "cur-illumination",
+      "name": "Illumination",
+      "kind": "Studio",
+      "items": [
+        {
+          "title": "Despicable Me",
+          "year": 2010,
+          "type": "movie",
+          "wiki": "Despicable Me (film)"
+        },
+        {
+          "title": "Hop",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Hop (film)",
+          "format": "Live-action/animation hybrid"
+        },
+        {
+          "title": "The Lorax",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "The Lorax (film)"
+        },
+        {
+          "title": "Despicable Me 2",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Despicable Me 2"
+        },
+        {
+          "title": "Minions",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Minions (film)"
+        },
+        {
+          "title": "The Secret Life of Pets",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "The Secret Life of Pets"
+        },
+        {
+          "title": "Sing",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Sing (2016 American film)"
+        },
+        {
+          "title": "Despicable Me 3",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "Despicable Me 3"
+        },
+        {
+          "title": "The Grinch",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "The Grinch (film)",
+          "aka": [
+            "Dr. Seuss' The Grinch"
+          ]
+        },
+        {
+          "title": "The Secret Life of Pets 2",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "The Secret Life of Pets 2"
+        },
+        {
+          "title": "Minions Holiday Special",
+          "year": 2020,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "Sing 2",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Sing 2"
+        },
+        {
+          "title": "Minions: The Rise of Gru",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Minions: The Rise of Gru"
+        },
+        {
+          "title": "The Super Mario Bros. Movie",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "The Super Mario Bros. Movie"
+        },
+        {
+          "title": "Mooned",
+          "year": 2023,
+          "type": "movie",
+          "format": "Theatrical short (with Migration)"
+        },
+        {
+          "title": "Migration",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "Migration (2023 film)"
+        },
+        {
+          "title": "Despicable Me 4",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Despicable Me 4"
+        },
+        {
+          "title": "Sing: Thriller",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Sing: Thriller",
+          "format": "Netflix short"
+        },
+        {
+          "title": "The Super Mario Galaxy Movie",
+          "year": 2026,
+          "type": "movie",
+          "wiki": "The Super Mario Galaxy Movie"
+        },
+        {
+          "title": "Minions & Monsters",
+          "year": 2026,
+          "type": "movie",
+          "wiki": "Minions & Monsters",
+          "aka": [
+            "Minions 3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cur-sony-pictures-animation",
+      "name": "Sony Pictures Animation",
+      "kind": "Studio",
+      "items": [
+        {
+          "title": "The ChubbChubbs!",
+          "year": 2002,
+          "type": "movie",
+          "wiki": "The ChubbChubbs!",
+          "format": "Short film"
+        },
+        {
+          "title": "Open Season",
+          "year": 2006,
+          "type": "movie",
+          "wiki": "Open Season (2006 film)"
+        },
+        {
+          "title": "Surf's Up",
+          "year": 2007,
+          "type": "movie",
+          "wiki": "Surf's Up (film)"
+        },
+        {
+          "title": "Open Season 2",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "Open Season 2",
+          "format": "Direct-to-video film"
+        },
+        {
+          "title": "Cloudy With A Chance Of Meatballs",
+          "year": 2009,
+          "type": "movie",
+          "wiki": "Cloudy with a Chance of Meatballs (film)",
+          "aka": [
+            "Cloudy with a Chance of Meatballs"
+          ]
+        },
+        {
+          "title": "Open Season 3",
+          "year": 2010,
+          "type": "movie",
+          "wiki": "Open Season 3",
+          "format": "Direct-to-video film"
+        },
+        {
+          "title": "The Smurfs",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "The Smurfs (film)",
+          "format": "Live-action/animation hybrid"
+        },
+        {
+          "title": "Arthur Christmas",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Arthur Christmas",
+          "format": "Co-production with Aardman"
+        },
+        {
+          "title": "The Smurfs: A Christmas Carol",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "The Smurfs: A Christmas Carol",
+          "format": "Short special"
+        },
+        {
+          "title": "The Pirates! Band of Misfits",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "The Pirates! In an Adventure with Scientists!",
+          "format": "Co-production with Aardman",
+          "aka": [
+            "The Pirates! In an Adventure with Scientists!"
+          ]
+        },
+        {
+          "title": "Hotel Transylvania",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "Hotel Transylvania (film)"
+        },
+        {
+          "title": "The Smurfs 2",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "The Smurfs 2",
+          "format": "Live-action/animation hybrid"
+        },
+        {
+          "title": "The Smurfs: The Legend of Smurfy Hollow",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "The Smurfs: The Legend of Smurfy Hollow",
+          "format": "Short special"
+        },
+        {
+          "title": "Cloudy with a Chance of Meatballs 2",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Cloudy with a Chance of Meatballs 2"
+        },
+        {
+          "title": "Hotel Transylvania 2",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Hotel Transylvania 2"
+        },
+        {
+          "title": "Goosebumps",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Goosebumps (film)",
+          "format": "Live-action/animation hybrid"
+        },
+        {
+          "title": "Open Season: Scared Silly",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Open Season: Scared Silly",
+          "format": "Direct-to-video film"
+        },
+        {
+          "title": "Cloudy with a Chance of Meatballs",
+          "year": 2017,
+          "type": "tv",
+          "wiki": "Cloudy with a Chance of Meatballs (TV series)",
+          "format": "TV series"
+        },
+        {
+          "title": "Smurfs: The Lost Village",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "Smurfs: The Lost Village"
+        },
+        {
+          "title": "Hotel Transylvania: The Series",
+          "year": 2017,
+          "type": "tv",
+          "wiki": "Hotel Transylvania: The Series",
+          "format": "TV series"
+        },
+        {
+          "title": "Surf's Up 2: WaveMania",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "Surf's Up 2: WaveMania",
+          "format": "Direct-to-video film"
+        },
+        {
+          "title": "The Emoji Movie",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "The Emoji Movie"
+        },
+        {
+          "title": "Puppy!",
+          "year": 2017,
+          "type": "movie",
+          "format": "Theatrical short (Hotel Transylvania)"
+        },
+        {
+          "title": "The Star",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "The Star (2017 film)"
+        },
+        {
+          "title": "Peter Rabbit",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Peter Rabbit (film)",
+          "format": "Live-action/animation hybrid"
+        },
+        {
+          "title": "Hotel Transylvania 3: Summer Vacation",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Hotel Transylvania 3: Summer Vacation"
+        },
+        {
+          "title": "Goosebumps 2: Haunted Halloween",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Goosebumps 2: Haunted Halloween",
+          "format": "Live-action/animation hybrid"
+        },
+        {
+          "title": "Spider-Man: Into the Spider-Verse",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Spider-Man: Into the Spider-Verse"
+        },
+        {
+          "title": "Spider-Ham: Caught in a Ham",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "Spider-Ham: Caught in a Ham",
+          "format": "Short film"
+        },
+        {
+          "title": "The Angry Birds Movie 2",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "The Angry Birds Movie 2",
+          "format": "Co-production with Rovio"
+        },
+        {
+          "title": "Hair Love",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "Hair Love",
+          "format": "Short film"
+        },
+        {
+          "title": "Peter Rabbit 2: The Runaway",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Peter Rabbit 2: The Runaway",
+          "format": "Live-action/animation hybrid"
+        },
+        {
+          "title": "Monster Pets",
+          "year": 2021,
+          "type": "movie",
+          "format": "Short film (Hotel Transylvania)"
+        },
+        {
+          "title": "The Mitchells vs. the Machines",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "The Mitchells vs. the Machines"
+        },
+        {
+          "title": "Wish Dragon",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Wish Dragon"
+        },
+        {
+          "title": "Vivo",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Vivo (film)"
+        },
+        {
+          "title": "Hotel Transylvania: Transformania",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Hotel Transylvania: Transformania"
+        },
+        {
+          "title": "Spider-Man: Across the Spider-Verse",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "Spider-Man: Across the Spider-Verse"
+        },
+        {
+          "title": "The Spider Within: A Spider-Verse Story",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "The Spider Within: A Spider-Verse Story",
+          "format": "Short film"
+        },
+        {
+          "title": "Open Season: Call of Nature",
+          "year": 2023,
+          "type": "tv",
+          "wiki": "Open Season: Call of Nature",
+          "format": "TV series"
+        },
+        {
+          "title": "KPop Demon Hunters",
+          "year": 2025,
+          "type": "movie",
+          "wiki": "KPop Demon Hunters",
+          "format": "Netflix film"
+        },
+        {
+          "title": "Fixed",
+          "year": 2025,
+          "type": "movie",
+          "wiki": "Fixed (film)",
+          "format": "Netflix film"
+        },
+        {
+          "title": "GOAT",
+          "year": 2026,
+          "type": "movie",
+          "wiki": "Goat (2026 film)",
+          "aka": [
+            "Goat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cur-blue-sky-studios",
+      "name": "Blue Sky Studios",
+      "kind": "Studio",
+      "items": [
+        {
+          "title": "Bunny",
+          "year": 1998,
+          "type": "movie",
+          "wiki": "Bunny (1998 film)",
+          "format": "Short film"
+        },
+        {
+          "title": "Ice Age",
+          "year": 2002,
+          "type": "movie",
+          "wiki": "Ice Age (2002 film)"
+        },
+        {
+          "title": "Gone Nutty",
+          "year": 2002,
+          "type": "movie",
+          "wiki": "Gone Nutty",
+          "format": "Short film"
+        },
+        {
+          "title": "Robots",
+          "year": 2005,
+          "type": "movie",
+          "wiki": "Robots (2005 film)"
+        },
+        {
+          "title": "Ice Age: The Meltdown",
+          "year": 2006,
+          "type": "movie",
+          "wiki": "Ice Age: The Meltdown"
+        },
+        {
+          "title": "No Time for Nuts",
+          "year": 2006,
+          "type": "movie",
+          "wiki": "No Time for Nuts",
+          "format": "Short film"
+        },
+        {
+          "title": "Horton Hears A Who",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "Horton Hears a Who! (film)",
+          "aka": [
+            "Horton Hears a Who!"
+          ]
+        },
+        {
+          "title": "Surviving Sid",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "Surviving Sid",
+          "format": "Short film"
+        },
+        {
+          "title": "Ice Age 3 Dawn Of The Dinosaurs",
+          "year": 2009,
+          "type": "movie",
+          "wiki": "Ice Age: Dawn of the Dinosaurs",
+          "aka": [
+            "Ice Age: Dawn of the Dinosaurs"
+          ]
+        },
+        {
+          "title": "Rio",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Rio (2011 film)"
+        },
+        {
+          "title": "Ice Age: A Mammoth Christmas",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Ice Age: A Mammoth Christmas",
+          "format": "TV special"
+        },
+        {
+          "title": "Ice Age 4 Continental Drift",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "Ice Age: Continental Drift",
+          "aka": [
+            "Ice Age: Continental Drift"
+          ]
+        },
+        {
+          "title": "Epic",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Epic (2013 film)"
+        },
+        {
+          "title": "Rio 2",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "Rio 2"
+        },
+        {
+          "title": "The Peanuts Movie",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "The Peanuts Movie"
+        },
+        {
+          "title": "Ice Age: The Great Egg-Scapade",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Ice Age: The Great Egg-Scapade",
+          "format": "TV special"
+        },
+        {
+          "title": "Ice Age Collision Course",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Ice Age: Collision Course",
+          "aka": [
+            "Ice Age: Collision Course"
+          ]
+        },
+        {
+          "title": "Ferdinand",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "Ferdinand (film)"
+        },
+        {
+          "title": "Spies in Disguise",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "Spies in Disguise"
+        },
+        {
+          "title": "The Ice Age Adventures of Buck Wild",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "The Ice Age Adventures of Buck Wild",
+          "format": "Disney+ film (made after Blue Sky's closure)",
+          "aka": [
+            "Ice Age: Adventures of Buck Wild"
+          ]
+        },
+        {
+          "title": "Ice Age: Scrat Tales",
+          "year": 2022,
+          "type": "tv",
+          "wiki": "Ice Age: Scrat Tales",
+          "format": "Disney+ short-form series"
+        },
+        {
+          "title": "Nimona",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "Nimona (film)",
+          "format": "Begun at Blue Sky; completed by Annapurna/DNEG for Netflix"
+        }
+      ]
+    },
+    {
+      "id": "cur-studio-ghibli",
+      "name": "Studio Ghibli",
+      "kind": "Studio",
+      "items": [
+        {
+          "title": "Nausicaä of the Valley of the Wind",
+          "year": 1984,
+          "type": "movie",
+          "wiki": "Nausicaä of the Valley of the Wind (film)",
+          "format": "Pre-Ghibli (Topcraft); officially part of the Ghibli catalogue"
+        },
+        {
+          "title": "Castle in the Sky",
+          "year": 1986,
+          "type": "movie",
+          "wiki": "Castle in the Sky",
+          "aka": [
+            "Laputa: Castle in the Sky"
+          ]
+        },
+        {
+          "title": "Grave of the Fireflies",
+          "year": 1988,
+          "type": "movie",
+          "wiki": "Grave of the Fireflies"
+        },
+        {
+          "title": "My Neighbor Totoro",
+          "year": 1988,
+          "type": "movie",
+          "wiki": "My Neighbor Totoro"
+        },
+        {
+          "title": "Kiki's Delivery Service",
+          "year": 1989,
+          "type": "movie",
+          "wiki": "Kiki's Delivery Service"
+        },
+        {
+          "title": "Only Yesterday",
+          "year": 1991,
+          "type": "movie",
+          "wiki": "Only Yesterday (1991 film)"
+        },
+        {
+          "title": "Porco Rosso",
+          "year": 1992,
+          "type": "movie",
+          "wiki": "Porco Rosso"
+        },
+        {
+          "title": "Ocean Waves",
+          "year": 1993,
+          "type": "movie",
+          "wiki": "Ocean Waves",
+          "format": "TV film"
+        },
+        {
+          "title": "Pom Poko",
+          "year": 1994,
+          "type": "movie",
+          "wiki": "Pom Poko"
+        },
+        {
+          "title": "Whisper of the Heart",
+          "year": 1995,
+          "type": "movie",
+          "wiki": "Whisper of the Heart"
+        },
+        {
+          "title": "On Your Mark",
+          "year": 1995,
+          "type": "movie",
+          "wiki": "On Your Mark",
+          "format": "Short film (music video)"
+        },
+        {
+          "title": "Princess Mononoke",
+          "year": 1997,
+          "type": "movie",
+          "wiki": "Princess Mononoke"
+        },
+        {
+          "title": "My Neighbors the Yamadas",
+          "year": 1999,
+          "type": "movie",
+          "wiki": "My Neighbors the Yamadas"
+        },
+        {
+          "title": "Spirited Away",
+          "year": 2001,
+          "type": "movie",
+          "wiki": "Spirited Away"
+        },
+        {
+          "title": "The Cat Returns",
+          "year": 2002,
+          "type": "movie",
+          "wiki": "The Cat Returns"
+        },
+        {
+          "title": "Ghiblies Episode 2",
+          "year": 2002,
+          "type": "movie",
+          "format": "Theatrical short (with The Cat Returns)"
+        },
+        {
+          "title": "Howl's Moving Castle",
+          "year": 2004,
+          "type": "movie",
+          "wiki": "Howl's Moving Castle (film)"
+        },
+        {
+          "title": "Tales from Earthsea",
+          "year": 2006,
+          "type": "movie",
+          "wiki": "Tales from Earthsea (film)"
+        },
+        {
+          "title": "Ponyo",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "Ponyo"
+        },
+        {
+          "title": "The Secret World of Arrietty",
+          "year": 2010,
+          "type": "movie",
+          "wiki": "Arrietty",
+          "aka": [
+            "Arrietty"
+          ]
+        },
+        {
+          "title": "From Up on Poppy Hill",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "From Up on Poppy Hill"
+        },
+        {
+          "title": "The Wind Rises",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "The Wind Rises"
+        },
+        {
+          "title": "The Tale of the Princess Kaguya",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "The Tale of the Princess Kaguya (film)"
+        },
+        {
+          "title": "When Marnie Was There",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "When Marnie Was There"
+        },
+        {
+          "title": "Ronja, the Robber's Daughter",
+          "year": 2014,
+          "type": "tv",
+          "wiki": "Ronja, the Robber's Daughter (2014 TV series)",
+          "format": "TV series (Polygon Pictures, Ghibli co-production)"
+        },
+        {
+          "title": "The Red Turtle",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "The Red Turtle",
+          "format": "Co-production (Wild Bunch / Prima Linea); directed by Michaël Dudok de Wit"
+        },
+        {
+          "title": "Earwig and the Witch",
+          "year": 2020,
+          "type": "movie",
+          "wiki": "Earwig and the Witch"
+        },
+        {
+          "title": "Spirited Away: Live on Stage",
+          "year": 2023,
+          "type": "movie",
+          "format": "Filmed stage production (Toho; not produced by Ghibli)"
+        },
+        {
+          "title": "The Boy and the Heron",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "The Boy and the Heron"
+        }
+      ]
+    },
+    {
+      "id": "cur-laika",
+      "name": "Laika",
+      "kind": "Studio",
+      "items": [
+        {
+          "title": "Coraline",
+          "year": 2009,
+          "type": "movie",
+          "wiki": "Coraline (film)"
+        },
+        {
+          "title": "ParaNorman",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "ParaNorman"
+        },
+        {
+          "title": "The Boxtrolls",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "The Boxtrolls"
+        },
+        {
+          "title": "Kubo and the Two Strings",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Kubo and the Two Strings"
+        },
+        {
+          "title": "Missing Link",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "Missing Link (2019 film)"
+        }
+      ]
+    },
+    {
+      "id": "cur-aardman",
+      "name": "Aardman",
+      "kind": "Studio",
+      "items": [
+        {
+          "title": "Creature Comforts",
+          "year": 1989,
+          "type": "movie",
+          "wiki": "Creature Comforts",
+          "format": "Short film"
+        },
+        {
+          "title": "A Grand Day Out",
+          "year": 1989,
+          "type": "movie",
+          "wiki": "A Grand Day Out",
+          "format": "Wallace & Gromit short"
+        },
+        {
+          "title": "The Wrong Trousers",
+          "year": 1993,
+          "type": "movie",
+          "wiki": "The Wrong Trousers",
+          "format": "Wallace & Gromit short"
+        },
+        {
+          "title": "A Close Shave",
+          "year": 1995,
+          "type": "movie",
+          "wiki": "A Close Shave",
+          "format": "Wallace & Gromit short"
+        },
+        {
+          "title": "Chicken Run",
+          "year": 2000,
+          "type": "movie",
+          "wiki": "Chicken Run"
+        },
+        {
+          "title": "Wallace & Gromit's Cracking Contraptions",
+          "year": 2002,
+          "type": "tv",
+          "wiki": "Wallace & Gromit's Cracking Contraptions",
+          "format": "Short-form series"
+        },
+        {
+          "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+          "year": 2005,
+          "type": "movie",
+          "wiki": "Wallace & Gromit: The Curse of the Were-Rabbit"
+        },
+        {
+          "title": "Flushed Away",
+          "year": 2006,
+          "type": "movie",
+          "wiki": "Flushed Away"
+        },
+        {
+          "title": "Shaun the Sheep",
+          "year": 2007,
+          "type": "tv",
+          "wiki": "Shaun the Sheep",
+          "format": "TV series"
+        },
+        {
+          "title": "A Matter of Loaf and Death",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "Wallace & Gromit: A Matter of Loaf and Death",
+          "format": "Wallace & Gromit TV special"
+        },
+        {
+          "title": "Timmy Time",
+          "year": 2009,
+          "type": "tv",
+          "wiki": "Timmy Time",
+          "format": "TV series"
+        },
+        {
+          "title": "Wallace & Gromit's World of Invention",
+          "year": 2010,
+          "type": "tv",
+          "wiki": "Wallace & Gromit's World of Invention",
+          "format": "TV series"
+        },
+        {
+          "title": "Arthur Christmas",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Arthur Christmas",
+          "format": "Co-production with Sony Pictures Animation"
+        },
+        {
+          "title": "The Pirates! Band of Misfits",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "The Pirates! In an Adventure with Scientists!",
+          "aka": [
+            "The Pirates! In an Adventure with Scientists!"
+          ]
+        },
+        {
+          "title": "Shaun the Sheep Movie",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Shaun the Sheep Movie"
+        },
+        {
+          "title": "Shaun the Sheep: The Farmer's Llamas",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Shaun the Sheep: The Farmer's Llamas",
+          "format": "TV special"
+        },
+        {
+          "title": "Early Man",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Early Man (film)"
+        },
+        {
+          "title": "A Shaun the Sheep Movie: Farmageddon",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "A Shaun the Sheep Movie: Farmageddon"
+        },
+        {
+          "title": "Robin Robin",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Robin Robin",
+          "format": "Netflix special"
+        },
+        {
+          "title": "Shaun the Sheep: The Flight Before Christmas",
+          "year": 2021,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "Chicken Run: Dawn of the Nugget",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "Chicken Run: Dawn of the Nugget",
+          "format": "Netflix film"
+        },
+        {
+          "title": "Wallace & Gromit: Vengeance Most Fowl",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Wallace & Gromit: Vengeance Most Fowl",
+          "format": "BBC / Netflix film"
+        },
+        {
+          "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+          "year": 2026,
+          "type": "movie",
+          "wiki": "Shaun the Sheep: The Beast of Mossy Bottom"
+        }
+      ]
+    },
+    {
+      "id": "cur-warner-bros-pictures-animation",
+      "name": "Warner Bros. Pictures Animation",
+      "kind": "Studio",
+      "items": [
+        {
+          "title": "The Lego Movie",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "The Lego Movie"
+        },
+        {
+          "title": "Storks",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Storks (film)"
+        },
+        {
+          "title": "The Lego Batman Movie",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "The Lego Batman Movie"
+        },
+        {
+          "title": "The Lego Ninjago Movie",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "The Lego Ninjago Movie"
+        },
+        {
+          "title": "Smallfoot",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Smallfoot"
+        },
+        {
+          "title": "The Lego Movie 2: The Second Part",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "The Lego Movie 2: The Second Part"
+        },
+        {
+          "title": "Scoob!",
+          "year": 2020,
+          "type": "movie",
+          "wiki": "Scoob!"
+        },
+        {
+          "title": "Tom & Jerry",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Tom and Jerry (2021 American film)",
+          "format": "Live-action/animation hybrid",
+          "aka": [
+            "Tom and Jerry"
+          ]
+        },
+        {
+          "title": "Space Jam: A New Legacy",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Space Jam: A New Legacy",
+          "format": "Live-action/animation hybrid"
+        },
+        {
+          "title": "DC League of Super-Pets",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "DC League of Super-Pets"
+        },
+        {
+          "title": "Coyote vs Acme",
+          "year": 2026,
+          "type": "movie",
+          "wiki": "Coyote vs. Acme",
+          "format": "Live-action/animation hybrid (released by Ketchup Entertainment)",
+          "aka": [
+            "Coyote vs. Acme"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cur-makoto-shinkai",
+      "name": "Makoto Shinkai",
+      "kind": "Film Series",
+      "items": [
+        {
+          "title": "She and Her Cat",
+          "year": 1999,
+          "type": "movie",
+          "wiki": "She and Her Cat",
+          "format": "Short film"
+        },
+        {
+          "title": "Voices of a Distant Star",
+          "year": 2002,
+          "type": "movie",
+          "wiki": "Voices of a Distant Star",
+          "format": "Short film (OVA)"
+        },
+        {
+          "title": "The Place Promised in Our Early Days",
+          "year": 2004,
+          "type": "movie",
+          "wiki": "The Place Promised in Our Early Days"
+        },
+        {
+          "title": "5 Centimeters per Second",
+          "year": 2007,
+          "type": "movie",
+          "wiki": "5 Centimeters per Second"
+        },
+        {
+          "title": "Children Who Chase Lost Voices",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Children Who Chase Lost Voices"
+        },
+        {
+          "title": "The Garden of Words",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "The Garden of Words"
+        },
+        {
+          "title": "Your Name.",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Your Name",
+          "aka": [
+            "Your Name"
+          ]
+        },
+        {
+          "title": "Weathering with You",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "Weathering with You"
+        },
+        {
+          "title": "Suzume",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Suzume"
+        }
+      ]
+    },
+    {
+      "id": "cur-mamoru-hosoda",
+      "name": "Mamoru Hosoda",
+      "kind": "Film Series",
+      "items": [
+        {
+          "title": "Digimon Adventure",
+          "year": 1999,
+          "type": "movie",
+          "wiki": "Digimon Adventure (film)",
+          "format": "Short film"
+        },
+        {
+          "title": "Digimon Adventure: Our War Game!",
+          "year": 2000,
+          "type": "movie",
+          "wiki": "Digimon Adventure: Our War Game!",
+          "format": "Featurette"
+        },
+        {
+          "title": "One Piece: Baron Omatsuri and the Secret Island",
+          "year": 2005,
+          "type": "movie",
+          "wiki": "One Piece: Baron Omatsuri and the Secret Island"
+        },
+        {
+          "title": "The Girl Who Leapt Through Time",
+          "year": 2006,
+          "type": "movie",
+          "wiki": "The Girl Who Leapt Through Time (2006 film)"
+        },
+        {
+          "title": "Summer Wars",
+          "year": 2009,
+          "type": "movie",
+          "wiki": "Summer Wars"
+        },
+        {
+          "title": "Wolf Children",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "Wolf Children"
+        },
+        {
+          "title": "The Boy and the Beast",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "The Boy and the Beast"
+        },
+        {
+          "title": "Mirai",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Mirai"
+        },
+        {
+          "title": "Belle",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Belle (2021 film)"
+        },
+        {
+          "title": "Scarlet",
+          "year": 2025,
+          "type": "movie",
+          "wiki": "Scarlet (2025 film)"
+        }
+      ]
+    },
+    {
+      "id": "cur-satoshi-kon",
+      "name": "Satoshi Kon",
+      "kind": "Film Series",
+      "items": [
+        {
+          "title": "Perfect Blue",
+          "year": 1998,
+          "type": "movie",
+          "wiki": "Perfect Blue",
+          "format": "Premiered 1997"
+        },
+        {
+          "title": "Millennium Actress",
+          "year": 2001,
+          "type": "movie",
+          "wiki": "Millennium Actress"
+        },
+        {
+          "title": "Tokyo Godfathers",
+          "year": 2003,
+          "type": "movie",
+          "wiki": "Tokyo Godfathers"
+        },
+        {
+          "title": "Paranoia Agent",
+          "year": 2004,
+          "type": "tv",
+          "wiki": "Paranoia Agent",
+          "format": "TV series"
+        },
+        {
+          "title": "Paprika",
+          "year": 2006,
+          "type": "movie",
+          "wiki": "Paprika (2006 film)"
+        }
+      ]
+    },
+    {
+      "id": "cur-rankin-bass",
+      "name": "Rankin/Bass",
+      "kind": "Studio",
+      "items": [
+        {
+          "title": "The New Adventures of Pinocchio",
+          "year": 1961,
+          "type": "tv",
+          "wiki": "The New Adventures of Pinocchio (TV series)",
+          "format": "TV series"
+        },
+        {
+          "title": "Tales of the Wizard of Oz",
+          "year": 1961,
+          "type": "tv",
+          "wiki": "Tales of the Wizard of Oz",
+          "format": "TV series"
+        },
+        {
+          "title": "Return to Oz",
+          "year": 1964,
+          "type": "movie",
+          "wiki": "Return to Oz (TV special)",
+          "format": "TV special"
+        },
+        {
+          "title": "Rudolph the Red-Nosed Reindeer",
+          "year": 1964,
+          "type": "movie",
+          "wiki": "Rudolph the Red-Nosed Reindeer (TV special)",
+          "format": "TV special"
+        },
+        {
+          "title": "Willy McBean and His Magic Machine",
+          "year": 1965,
+          "type": "movie",
+          "wiki": "Willy McBean and His Magic Machine"
+        },
+        {
+          "title": "The Ballad of Smokey the Bear",
+          "year": 1966,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "The Daydreamer",
+          "year": 1966,
+          "type": "movie",
+          "wiki": "The Daydreamer (film)",
+          "format": "Live-action/stop-motion feature"
+        },
+        {
+          "title": "The King Kong Show",
+          "year": 1966,
+          "type": "tv",
+          "wiki": "The King Kong Show",
+          "format": "TV series"
+        },
+        {
+          "title": "The Cricket on the Hearth",
+          "year": 1967,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "Mad Monster Party?",
+          "year": 1967,
+          "type": "movie",
+          "wiki": "Mad Monster Party?"
+        },
+        {
+          "title": "The Wacky World of Mother Goose",
+          "year": 1967,
+          "type": "movie",
+          "wiki": "The Wacky World of Mother Goose"
+        },
+        {
+          "title": "The Mouse on the Mayflower",
+          "year": 1968,
+          "type": "movie",
+          "wiki": "The Mouse on the Mayflower",
+          "format": "TV special"
+        },
+        {
+          "title": "The Little Drummer Boy",
+          "year": 1968,
+          "type": "movie",
+          "wiki": "The Little Drummer Boy (TV special)",
+          "format": "TV special"
+        },
+        {
+          "title": "Frosty the Snowman",
+          "year": 1969,
+          "type": "movie",
+          "wiki": "Frosty the Snowman (TV special)",
+          "format": "TV special"
+        },
+        {
+          "title": "The Smokey Bear Show",
+          "year": 1969,
+          "type": "tv",
+          "wiki": "The Smokey Bear Show",
+          "format": "TV series"
+        },
+        {
+          "title": "The Mad, Mad, Mad Comedians",
+          "year": 1970,
+          "type": "movie",
+          "wiki": "The Mad, Mad, Mad Comedians",
+          "format": "TV special"
+        },
+        {
+          "title": "Santa Claus Is Comin' to Town",
+          "year": 1970,
+          "type": "movie",
+          "wiki": "Santa Claus Is Comin' to Town (TV special)",
+          "format": "TV special"
+        },
+        {
+          "title": "The Tomfoolery Show",
+          "year": 1970,
+          "type": "tv",
+          "wiki": "The Tomfoolery Show",
+          "format": "TV series"
+        },
+        {
+          "title": "The Reluctant Dragon & Mr. Toad Show",
+          "year": 1970,
+          "type": "tv",
+          "wiki": "The Reluctant Dragon & Mr. Toad Show",
+          "format": "TV series"
+        },
+        {
+          "title": "Here Comes Peter Cottontail",
+          "year": 1971,
+          "type": "movie",
+          "wiki": "Here Comes Peter Cottontail",
+          "format": "TV special"
+        },
+        {
+          "title": "Jackson 5ive",
+          "year": 1971,
+          "type": "tv",
+          "wiki": "Jackson 5ive (TV series)",
+          "format": "TV series"
+        },
+        {
+          "title": "The Emperor's New Clothes",
+          "year": 1972,
+          "type": "movie",
+          "wiki": "Hans Christian Andersen's The Emperor's New Clothes",
+          "format": "TV special"
+        },
+        {
+          "title": "Mad Mad Mad Monsters",
+          "year": 1972,
+          "type": "movie",
+          "wiki": "Mad Mad Mad Monsters",
+          "format": "TV special"
+        },
+        {
+          "title": "Willie Mays and the Say-Hey Kid",
+          "year": 1972,
+          "type": "movie",
+          "wiki": "Willie Mays and the Say-Hey Kid",
+          "format": "TV special"
+        },
+        {
+          "title": "The Red Baron",
+          "year": 1972,
+          "type": "movie",
+          "wiki": "The Red Baron (1972 film)",
+          "format": "TV special"
+        },
+        {
+          "title": "The Osmonds",
+          "year": 1972,
+          "type": "tv",
+          "wiki": "The Osmonds (TV series)",
+          "format": "TV series"
+        },
+        {
+          "title": "Kid Power",
+          "year": 1972,
+          "type": "tv",
+          "format": "TV series"
+        },
+        {
+          "title": "That Girl in Wonderland",
+          "year": 1973,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "'Twas the Night Before Christmas",
+          "year": 1974,
+          "type": "movie",
+          "wiki": "'Twas the Night Before Christmas (1974 TV special)",
+          "format": "TV special"
+        },
+        {
+          "title": "The Year Without a Santa Claus",
+          "year": 1974,
+          "type": "movie",
+          "wiki": "The Year Without a Santa Claus",
+          "format": "TV special"
+        },
+        {
+          "title": "The First Christmas: The Story of the First Christmas Snow",
+          "year": 1975,
+          "type": "movie",
+          "wiki": "The First Christmas: The Story of the First Christmas Snow",
+          "format": "TV special"
+        },
+        {
+          "title": "The First Easter Rabbit",
+          "year": 1976,
+          "type": "movie",
+          "wiki": "The First Easter Rabbit",
+          "format": "TV special"
+        },
+        {
+          "title": "Frosty's Winter Wonderland",
+          "year": 1976,
+          "type": "movie",
+          "wiki": "Frosty's Winter Wonderland",
+          "format": "TV special"
+        },
+        {
+          "title": "Rudolph's Shiny New Year",
+          "year": 1976,
+          "type": "movie",
+          "wiki": "Rudolph's Shiny New Year",
+          "format": "TV special"
+        },
+        {
+          "title": "The Little Drummer Boy, Book II",
+          "year": 1976,
+          "type": "movie",
+          "wiki": "The Little Drummer Boy (TV special)",
+          "format": "TV special"
+        },
+        {
+          "title": "The Easter Bunny Is Comin' to Town",
+          "year": 1977,
+          "type": "movie",
+          "wiki": "The Easter Bunny Is Comin' to Town",
+          "format": "TV special"
+        },
+        {
+          "title": "The Hobbit",
+          "year": 1977,
+          "type": "movie",
+          "wiki": "The Hobbit (1977 film)",
+          "format": "TV film"
+        },
+        {
+          "title": "Nestor, the Long-Eared Christmas Donkey",
+          "year": 1977,
+          "type": "movie",
+          "wiki": "Nestor, the Long-Eared Christmas Donkey",
+          "format": "TV special"
+        },
+        {
+          "title": "The Stingiest Man in Town",
+          "year": 1978,
+          "type": "movie",
+          "wiki": "The Stingiest Man in Town",
+          "format": "TV special"
+        },
+        {
+          "title": "Jack Frost",
+          "year": 1979,
+          "type": "movie",
+          "wiki": "Jack Frost (TV special)",
+          "format": "TV special"
+        },
+        {
+          "title": "Rudolph and Frosty's Christmas in July",
+          "year": 1979,
+          "type": "movie",
+          "wiki": "Rudolph and Frosty's Christmas in July"
+        },
+        {
+          "title": "The Return of the King",
+          "year": 1980,
+          "type": "movie",
+          "wiki": "The Return of the King (1980 film)",
+          "format": "TV film"
+        },
+        {
+          "title": "Pinocchio's Christmas",
+          "year": 1980,
+          "type": "movie",
+          "wiki": "Pinocchio's Christmas",
+          "format": "TV special"
+        },
+        {
+          "title": "The Leprechauns' Christmas Gold",
+          "year": 1981,
+          "type": "movie",
+          "wiki": "The Leprechauns' Christmas Gold",
+          "format": "TV special"
+        },
+        {
+          "title": "The Flight of Dragons",
+          "year": 1982,
+          "type": "movie",
+          "wiki": "The Flight of Dragons",
+          "format": "TV film"
+        },
+        {
+          "title": "The Last Unicorn",
+          "year": 1982,
+          "type": "movie",
+          "wiki": "The Last Unicorn (film)"
+        },
+        {
+          "title": "The Coneheads",
+          "year": 1983,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "The Life and Adventures of Santa Claus",
+          "year": 1985,
+          "type": "movie",
+          "wiki": "The Life and Adventures of Santa Claus (1985 film)",
+          "format": "TV special"
+        },
+        {
+          "title": "ThunderCats",
+          "year": 1985,
+          "type": "tv",
+          "wiki": "ThunderCats (1985 TV series)",
+          "format": "TV series"
+        },
+        {
+          "title": "SilverHawks",
+          "year": 1986,
+          "type": "tv",
+          "wiki": "SilverHawks",
+          "format": "TV series"
+        },
+        {
+          "title": "The Wind in the Willows",
+          "year": 1987,
+          "type": "movie",
+          "wiki": "The Wind in the Willows (1987 film)",
+          "format": "TV film"
+        },
+        {
+          "title": "The Comic Strip",
+          "year": 1987,
+          "type": "tv",
+          "wiki": "The Comic Strip (TV series)",
+          "format": "TV series"
+        },
+        {
+          "title": "The King and I",
+          "year": 1999,
+          "type": "movie",
+          "wiki": "The King and I (1999 film)"
+        },
+        {
+          "title": "Santa, Baby!",
+          "year": 2001,
+          "type": "movie",
+          "format": "TV special"
+        }
+      ]
+    }
+  ]
+}

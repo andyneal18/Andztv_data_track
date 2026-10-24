@@ -1,0 +1,5643 @@
+{
+ "collections": [
+  {
+   "id": "cur-star-wars",
+   "name": "Star Wars",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Star Wars",
+     "year": 1977,
+     "type": "movie",
+     "wiki": "Star Wars (film)",
+     "aka": [
+      "Star Wars: Episode IV – A New Hope"
+     ]
+    },
+    {
+     "title": "The Star Wars Holiday Special",
+     "year": 1978,
+     "type": "movie",
+     "wiki": "The Star Wars Holiday Special",
+     "format": "TV special"
+    },
+    {
+     "title": "The Empire Strikes Back",
+     "year": 1980,
+     "type": "movie",
+     "wiki": "The Empire Strikes Back",
+     "aka": [
+      "Star Wars: Episode V – The Empire Strikes Back"
+     ]
+    },
+    {
+     "title": "Return of the Jedi",
+     "year": 1983,
+     "type": "movie",
+     "wiki": "Return of the Jedi",
+     "aka": [
+      "Star Wars: Episode VI – Return of the Jedi"
+     ]
+    },
+    {
+     "title": "Caravan of Courage: An Ewok Adventure",
+     "year": 1984,
+     "type": "movie",
+     "wiki": "Caravan of Courage: An Ewok Adventure",
+     "format": "TV film",
+     "aka": [
+      "The Ewok Adventure"
+     ]
+    },
+    {
+     "title": "Ewoks: The Battle for Endor",
+     "year": 1985,
+     "type": "movie",
+     "wiki": "Ewoks: The Battle for Endor",
+     "format": "TV film"
+    },
+    {
+     "title": "Star Wars: Droids",
+     "year": 1985,
+     "type": "tv",
+     "wiki": "Star Wars: Droids",
+     "aka": [
+      "Droids"
+     ]
+    },
+    {
+     "title": "Star Wars: Ewoks",
+     "year": 1985,
+     "type": "tv",
+     "wiki": "Star Wars: Ewoks",
+     "aka": [
+      "Ewoks"
+     ]
+    },
+    {
+     "title": "Droids: The Great Heep",
+     "year": 1986,
+     "type": "movie",
+     "format": "TV special"
+    },
+    {
+     "title": "Star Wars: Episode I - The Phantom Menace",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Star Wars: Episode I – The Phantom Menace"
+    },
+    {
+     "title": "Star Wars: Episode II - Attack of the Clones",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Star Wars: Episode II – Attack of the Clones"
+    },
+    {
+     "title": "Star Wars: Clone Wars",
+     "year": 2003,
+     "type": "tv",
+     "wiki": "Star Wars: Clone Wars (2003 TV series)"
+    },
+    {
+     "title": "Star Wars: Episode III - Revenge of the Sith",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Star Wars: Episode III – Revenge of the Sith"
+    },
+    {
+     "title": "Lego Star Wars: Revenge of the Brick",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Lego Star Wars: Revenge of the Brick",
+     "format": "Short"
+    },
+    {
+     "title": "Star Wars: The Clone Wars",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Star Wars: The Clone Wars (film)"
+    },
+    {
+     "title": "Star Wars: The Clone Wars",
+     "year": 2008,
+     "type": "tv",
+     "wiki": "Star Wars: The Clone Wars (2008 TV series)"
+    },
+    {
+     "title": "Lego Star Wars: The Padawan Menace",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Lego Star Wars: The Padawan Menace",
+     "format": "TV special"
+    },
+    {
+     "title": "Lego Star Wars: The Empire Strikes Out",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Lego Star Wars: The Empire Strikes Out",
+     "format": "TV special"
+    },
+    {
+     "title": "Lego Star Wars: The Yoda Chronicles",
+     "year": 2013,
+     "type": "tv",
+     "wiki": "Lego Star Wars: The Yoda Chronicles"
+    },
+    {
+     "title": "Star Wars Rebels",
+     "year": 2014,
+     "type": "tv",
+     "wiki": "Star Wars Rebels"
+    },
+    {
+     "title": "Lego Star Wars: Droid Tales",
+     "year": 2015,
+     "type": "tv",
+     "wiki": "Lego Star Wars: Droid Tales"
+    },
+    {
+     "title": "Star Wars: The Force Awakens",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Star Wars: The Force Awakens"
+    },
+    {
+     "title": "Lego Star Wars: The Freemaker Adventures",
+     "year": 2016,
+     "type": "tv",
+     "wiki": "Lego Star Wars: The Freemaker Adventures"
+    },
+    {
+     "title": "Rogue One: A Star Wars Story",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Rogue One"
+    },
+    {
+     "title": "Star Wars Forces of Destiny",
+     "year": 2017,
+     "type": "tv",
+     "wiki": "Star Wars Forces of Destiny"
+    },
+    {
+     "title": "Star Wars: The Last Jedi",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Star Wars: The Last Jedi"
+    },
+    {
+     "title": "Solo: A Star Wars Story",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Solo: A Star Wars Story"
+    },
+    {
+     "title": "Lego Star Wars: All-Stars",
+     "year": 2018,
+     "type": "tv",
+     "wiki": "Lego Star Wars: All-Stars"
+    },
+    {
+     "title": "Star Wars Galaxy of Adventures",
+     "year": 2018,
+     "type": "tv"
+    },
+    {
+     "title": "Star Wars Resistance",
+     "year": 2018,
+     "type": "tv",
+     "wiki": "Star Wars Resistance"
+    },
+    {
+     "title": "The Mandalorian",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "The Mandalorian"
+    },
+    {
+     "title": "Star Wars: The Rise of Skywalker",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Star Wars: The Rise of Skywalker"
+    },
+    {
+     "title": "The Lego Star Wars Holiday Special",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "The Lego Star Wars Holiday Special",
+     "format": "TV special"
+    },
+    {
+     "title": "Star Wars: The Bad Batch",
+     "year": 2021,
+     "type": "tv",
+     "wiki": "Star Wars: The Bad Batch"
+    },
+    {
+     "title": "Star Wars: Visions",
+     "year": 2021,
+     "type": "tv",
+     "wiki": "Star Wars: Visions"
+    },
+    {
+     "title": "Lego Star Wars: Terrifying Tales",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Lego Star Wars: Terrifying Tales",
+     "format": "TV special"
+    },
+    {
+     "title": "The Book of Boba Fett",
+     "year": 2021,
+     "type": "tv",
+     "wiki": "The Book of Boba Fett"
+    },
+    {
+     "title": "Obi-Wan Kenobi",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "Obi-Wan Kenobi (TV series)"
+    },
+    {
+     "title": "Lego Star Wars: Summer Vacation",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Lego Star Wars: Summer Vacation",
+     "format": "TV special"
+    },
+    {
+     "title": "Andor",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "Andor (TV series)"
+    },
+    {
+     "title": "Star Wars: Tales of the Jedi",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "Star Wars: Tales of the Jedi"
+    },
+    {
+     "title": "Star Wars: Young Jedi Adventures",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "Star Wars: Young Jedi Adventures"
+    },
+    {
+     "title": "Ahsoka",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "Ahsoka (TV series)"
+    },
+    {
+     "title": "Star Wars: Tales of the Empire",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Star Wars: Tales of the Empire"
+    },
+    {
+     "title": "The Acolyte",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "The Acolyte"
+    },
+    {
+     "title": "Lego Star Wars: Rebuild the Galaxy",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Lego Star Wars: Rebuild the Galaxy",
+     "aka": [
+      "Lego Star Wars: Rebuild the Galaxy – Pieces of the Past"
+     ]
+    },
+    {
+     "title": "Star Wars: Skeleton Crew",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Star Wars: Skeleton Crew"
+    },
+    {
+     "title": "Star Wars: Tales of the Underworld",
+     "year": 2025,
+     "type": "tv",
+     "wiki": "Star Wars: Tales of the Underworld"
+    },
+    {
+     "title": "Star Wars: Maul - Shadow Lord",
+     "year": 2026,
+     "type": "tv",
+     "wiki": "Star Wars: Maul – Shadow Lord"
+    },
+    {
+     "title": "Star Wars: The Mandalorian and Grogu",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "The Mandalorian and Grogu",
+     "aka": [
+      "The Mandalorian and Grogu"
+     ]
+    },
+    {
+     "title": "LEGO Star Wars: The Mandalorian",
+     "year": 2026,
+     "type": "movie",
+     "format": "TV special"
+    }
+   ]
+  },
+  {
+   "id": "cur-middle-earth",
+   "name": "Middle-earth",
+   "kind": "Universe",
+   "items": [
+    {
+     "title": "The Hobbit",
+     "year": 1966,
+     "type": "movie",
+     "wiki": "The Hobbit (1966 film)",
+     "format": "Short",
+     "aka": [
+      "Gene Deitch's The Hobbit"
+     ]
+    },
+    {
+     "title": "The Hobbit",
+     "year": 1977,
+     "type": "movie",
+     "wiki": "The Hobbit (1977 film)",
+     "format": "TV film"
+    },
+    {
+     "title": "The Lord of the Rings",
+     "year": 1978,
+     "type": "movie",
+     "wiki": "The Lord of the Rings (1978 film)"
+    },
+    {
+     "title": "The Return of the King",
+     "year": 1980,
+     "type": "movie",
+     "wiki": "The Return of the King (1980 film)",
+     "format": "TV film"
+    },
+    {
+     "title": "The Lord of the Rings: The Fellowship of the Ring",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "The Lord of the Rings: The Fellowship of the Ring"
+    },
+    {
+     "title": "The Lord of the Rings: The Two Towers",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "The Lord of the Rings: The Two Towers"
+    },
+    {
+     "title": "The Lord of the Rings: The Return of the King",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "The Lord of the Rings: The Return of the King"
+    },
+    {
+     "title": "The Hobbit: An Unexpected Journey",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "The Hobbit: An Unexpected Journey"
+    },
+    {
+     "title": "The Hobbit: The Desolation of Smaug",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "The Hobbit: The Desolation of Smaug"
+    },
+    {
+     "title": "The Hobbit: The Battle of the Five Armies",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "The Hobbit: The Battle of the Five Armies"
+    },
+    {
+     "title": "The Lord of the Rings: The Rings of Power",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "The Lord of the Rings: The Rings of Power"
+    },
+    {
+     "title": "The Lord of the Rings: The War of the Rohirrim",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "The Lord of the Rings: The War of the Rohirrim"
+    }
+   ]
+  },
+  {
+   "id": "cur-wizarding-world",
+   "name": "Wizarding World",
+   "kind": "Universe",
+   "items": [
+    {
+     "title": "Harry Potter and the Philosopher's Stone",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Harry Potter and the Philosopher's Stone (film)",
+     "aka": [
+      "Harry Potter and the Sorcerer's Stone"
+     ]
+    },
+    {
+     "title": "Harry Potter and the Chamber of Secrets",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Harry Potter and the Chamber of Secrets (film)"
+    },
+    {
+     "title": "Harry Potter and the Prisoner of Azkaban",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Harry Potter and the Prisoner of Azkaban (film)"
+    },
+    {
+     "title": "Harry Potter and the Goblet of Fire",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Harry Potter and the Goblet of Fire (film)"
+    },
+    {
+     "title": "Harry Potter and the Order of the Phoenix",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Harry Potter and the Order of the Phoenix (film)"
+    },
+    {
+     "title": "Harry Potter and the Half-Blood Prince",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Harry Potter and the Half-Blood Prince (film)"
+    },
+    {
+     "title": "Harry Potter and the Deathly Hallows: Part 1",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Harry Potter and the Deathly Hallows – Part 1"
+    },
+    {
+     "title": "Harry Potter and the Deathly Hallows: Part 2",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Harry Potter and the Deathly Hallows – Part 2"
+    },
+    {
+     "title": "Fantastic Beasts and Where to Find Them",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Fantastic Beasts and Where to Find Them (film)"
+    },
+    {
+     "title": "Fantastic Beasts: The Crimes of Grindelwald",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Fantastic Beasts: The Crimes of Grindelwald"
+    },
+    {
+     "title": "Harry Potter: Hogwarts Tournament of Houses",
+     "year": 2021,
+     "type": "tv",
+     "wiki": "Harry Potter: Hogwarts Tournament of Houses"
+    },
+    {
+     "title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Harry Potter 20th Anniversary: Return to Hogwarts",
+     "format": "TV special"
+    },
+    {
+     "title": "Fantastic Beasts: The Secrets of Dumbledore",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Fantastic Beasts: The Secrets of Dumbledore"
+    },
+    {
+     "title": "Harry Potter: Wizards of Baking",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Harry Potter: Wizards of Baking"
+    },
+    {
+     "title": "Finding Harry The Craft Behind The Magic",
+     "year": 2026,
+     "type": "movie",
+     "format": "TV special",
+     "aka": [
+      "Finding Harry: The Craft Behind the Magic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-jurassic-park",
+   "name": "Jurassic Park / Jurassic World",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Jurassic Park",
+     "year": 1993,
+     "type": "movie",
+     "wiki": "Jurassic Park (film)"
+    },
+    {
+     "title": "Jurassic Park The Lost World",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "The Lost World: Jurassic Park",
+     "aka": [
+      "The Lost World: Jurassic Park"
+     ]
+    },
+    {
+     "title": "Jurassic Park III",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Jurassic Park III"
+    },
+    {
+     "title": "Jurassic World",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Jurassic World"
+    },
+    {
+     "title": "Lego Jurassic World: The Indominus Escape",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Lego Jurassic World: The Indominus Escape",
+     "format": "TV special"
+    },
+    {
+     "title": "Jurassic World Fallen Kingdom",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Jurassic World: Fallen Kingdom",
+     "aka": [
+      "Jurassic World: Fallen Kingdom"
+     ]
+    },
+    {
+     "title": "Lego Jurassic World: The Secret Exhibit",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Lego Jurassic World: The Secret Exhibit",
+     "format": "TV special"
+    },
+    {
+     "title": "Battle at Big Rock",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Battle at Big Rock",
+     "format": "Short"
+    },
+    {
+     "title": "Lego Jurassic World: Legend of Isla Nublar",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "Lego Jurassic World: Legend of Isla Nublar"
+    },
+    {
+     "title": "Jurassic World Camp Cretaceous",
+     "year": 2020,
+     "type": "tv",
+     "wiki": "Jurassic World Camp Cretaceous"
+    },
+    {
+     "title": "Jurassic World Dominion",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Jurassic World Dominion"
+    },
+    {
+     "title": "Jurassic World: Chaos Theory",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Jurassic World: Chaos Theory"
+    },
+    {
+     "title": "Jurassic World Rebirth",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Jurassic World Rebirth"
+    }
+   ]
+  },
+  {
+   "id": "cur-planet-of-the-apes",
+   "name": "Planet of the Apes",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Planet of the Apes",
+     "year": 1968,
+     "type": "movie",
+     "wiki": "Planet of the Apes (1968 film)"
+    },
+    {
+     "title": "Beneath the Planet of the Apes",
+     "year": 1970,
+     "type": "movie",
+     "wiki": "Beneath the Planet of the Apes"
+    },
+    {
+     "title": "Escape from the Planet of the Apes",
+     "year": 1971,
+     "type": "movie",
+     "wiki": "Escape from the Planet of the Apes"
+    },
+    {
+     "title": "Conquest of the Planet of the Apes",
+     "year": 1972,
+     "type": "movie",
+     "wiki": "Conquest of the Planet of the Apes"
+    },
+    {
+     "title": "Battle for the Planet of the Apes",
+     "year": 1973,
+     "type": "movie",
+     "wiki": "Battle for the Planet of the Apes"
+    },
+    {
+     "title": "Planet of the Apes",
+     "year": 1974,
+     "type": "tv",
+     "wiki": "Planet of the Apes (TV series)"
+    },
+    {
+     "title": "Return to the Planet of the Apes",
+     "year": 1975,
+     "type": "tv",
+     "wiki": "Return to the Planet of the Apes"
+    },
+    {
+     "title": "Planet of the Apes",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Planet of the Apes (2001 film)"
+    },
+    {
+     "title": "Rise of the Planet of the Apes",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Rise of the Planet of the Apes"
+    },
+    {
+     "title": "Dawn of the Planet of the Apes",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Dawn of the Planet of the Apes"
+    },
+    {
+     "title": "War for the Planet of the Apes",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "War for the Planet of the Apes"
+    },
+    {
+     "title": "Kingdom of the Planet of the Apes",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Kingdom of the Planet of the Apes"
+    }
+   ]
+  },
+  {
+   "id": "cur-mission-impossible",
+   "name": "Mission: Impossible",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Mission: Impossible",
+     "year": 1966,
+     "type": "tv",
+     "wiki": "Mission: Impossible (1966 TV series)"
+    },
+    {
+     "title": "Mission: Impossible",
+     "year": 1988,
+     "type": "tv",
+     "wiki": "Mission: Impossible (1988 TV series)"
+    },
+    {
+     "title": "Mission: Impossible",
+     "year": 1996,
+     "type": "movie",
+     "wiki": "Mission: Impossible (film)"
+    },
+    {
+     "title": "Mission: Impossible II",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Mission: Impossible 2",
+     "aka": [
+      "Mission: Impossible 2",
+      "M:I-2"
+     ]
+    },
+    {
+     "title": "Mission: Impossible III",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Mission: Impossible III"
+    },
+    {
+     "title": "Mission: Impossible – Ghost Protocol",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Mission: Impossible – Ghost Protocol"
+    },
+    {
+     "title": "Mission: Impossible – Rogue Nation",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Mission: Impossible – Rogue Nation"
+    },
+    {
+     "title": "Mission: Impossible – Fallout",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Mission: Impossible – Fallout"
+    },
+    {
+     "title": "Mission: Impossible - Dead Reckoning Part One",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Mission: Impossible – Dead Reckoning Part One"
+    },
+    {
+     "title": "Mission: Impossible - The Final Reckoning",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Mission: Impossible – The Final Reckoning"
+    }
+   ]
+  },
+  {
+   "id": "cur-indiana-jones",
+   "name": "Indiana Jones",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Indiana Jones and the Raiders of the Lost Ark",
+     "year": 1981,
+     "type": "movie",
+     "wiki": "Raiders of the Lost Ark",
+     "aka": [
+      "Raiders of the Lost Ark"
+     ]
+    },
+    {
+     "title": "Indiana Jones and the Temple of Doom",
+     "year": 1984,
+     "type": "movie",
+     "wiki": "Indiana Jones and the Temple of Doom"
+    },
+    {
+     "title": "Indiana Jones and the Last Crusade",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "Indiana Jones and the Last Crusade"
+    },
+    {
+     "title": "The Young Indiana Jones Chronicles",
+     "year": 1992,
+     "type": "tv",
+     "wiki": "The Young Indiana Jones Chronicles"
+    },
+    {
+     "title": "Young Indiana Jones and the Hollywood Follies",
+     "year": 1994,
+     "type": "movie",
+     "format": "TV film"
+    },
+    {
+     "title": "Young Indiana Jones and the Treasure of the Peacock's Eye",
+     "year": 1995,
+     "type": "movie",
+     "format": "TV film"
+    },
+    {
+     "title": "Young Indiana Jones and the Attack of the Hawkmen",
+     "year": 1995,
+     "type": "movie",
+     "format": "TV film"
+    },
+    {
+     "title": "Young Indiana Jones: Travels with Father",
+     "year": 1996,
+     "type": "movie",
+     "format": "TV film"
+    },
+    {
+     "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Indiana Jones and the Kingdom of the Crystal Skull"
+    },
+    {
+     "title": "Indiana Jones and the Dial of Destiny",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Indiana Jones and the Dial of Destiny"
+    }
+   ]
+  },
+  {
+   "id": "cur-ghostbusters",
+   "name": "Ghostbusters",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Ghostbusters",
+     "year": 1984,
+     "type": "movie",
+     "wiki": "Ghostbusters (1984 film)"
+    },
+    {
+     "title": "The Real Ghostbusters",
+     "year": 1986,
+     "type": "tv",
+     "wiki": "The Real Ghostbusters",
+     "aka": [
+      "Slimer! and the Real Ghostbusters"
+     ]
+    },
+    {
+     "title": "Ghostbusters II",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "Ghostbusters II"
+    },
+    {
+     "title": "Extreme Ghostbusters",
+     "year": 1997,
+     "type": "tv",
+     "wiki": "Extreme Ghostbusters"
+    },
+    {
+     "title": "Ghostbusters",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Ghostbusters (2016 film)",
+     "aka": [
+      "Ghostbusters: Answer the Call"
+     ]
+    },
+    {
+     "title": "Ghostbusters Afterlife",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Ghostbusters: Afterlife",
+     "aka": [
+      "Ghostbusters: Afterlife"
+     ]
+    },
+    {
+     "title": "Ghostbusters Frozen Empire",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Ghostbusters: Frozen Empire",
+     "aka": [
+      "Ghostbusters: Frozen Empire"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-back-to-the-future",
+   "name": "Back to the Future",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Back to the Future",
+     "year": 1985,
+     "type": "movie",
+     "wiki": "Back to the Future"
+    },
+    {
+     "title": "Back to the Future Part II",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "Back to the Future Part II"
+    },
+    {
+     "title": "Back to the Future Part III",
+     "year": 1990,
+     "type": "movie",
+     "wiki": "Back to the Future Part III"
+    },
+    {
+     "title": "Back to the Future: The Animated Series",
+     "year": 1991,
+     "type": "tv",
+     "wiki": "Back to the Future (TV series)",
+     "aka": [
+      "Back to the Future"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-james-bond",
+   "name": "James Bond",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Casino Royale",
+     "year": 1954,
+     "type": "movie",
+     "wiki": "Casino Royale (Climax!)",
+     "format": "TV episode",
+     "aka": [
+      "Climax!: Casino Royale"
+     ]
+    },
+    {
+     "title": "Dr. No",
+     "year": 1962,
+     "type": "movie",
+     "wiki": "Dr. No (film)"
+    },
+    {
+     "title": "From Russia with Love",
+     "year": 1963,
+     "type": "movie",
+     "wiki": "From Russia with Love (film)"
+    },
+    {
+     "title": "Goldfinger",
+     "year": 1964,
+     "type": "movie",
+     "wiki": "Goldfinger (film)"
+    },
+    {
+     "title": "Thunderball",
+     "year": 1965,
+     "type": "movie",
+     "wiki": "Thunderball (film)"
+    },
+    {
+     "title": "Casino Royale",
+     "year": 1967,
+     "type": "movie",
+     "wiki": "Casino Royale (1967 film)",
+     "format": "Non-Eon"
+    },
+    {
+     "title": "You Only Live Twice",
+     "year": 1967,
+     "type": "movie",
+     "wiki": "You Only Live Twice (film)"
+    },
+    {
+     "title": "On Her Majesty's Secret Service",
+     "year": 1969,
+     "type": "movie",
+     "wiki": "On Her Majesty's Secret Service (film)"
+    },
+    {
+     "title": "Diamonds Are Forever",
+     "year": 1971,
+     "type": "movie",
+     "wiki": "Diamonds Are Forever (film)"
+    },
+    {
+     "title": "Live and Let Die",
+     "year": 1973,
+     "type": "movie",
+     "wiki": "Live and Let Die (film)"
+    },
+    {
+     "title": "The Man with the Golden Gun",
+     "year": 1974,
+     "type": "movie",
+     "wiki": "The Man with the Golden Gun (film)"
+    },
+    {
+     "title": "The Spy Who Loved Me",
+     "year": 1977,
+     "type": "movie",
+     "wiki": "The Spy Who Loved Me (film)"
+    },
+    {
+     "title": "Moonraker",
+     "year": 1979,
+     "type": "movie",
+     "wiki": "Moonraker (film)"
+    },
+    {
+     "title": "For Your Eyes Only",
+     "year": 1981,
+     "type": "movie",
+     "wiki": "For Your Eyes Only (film)"
+    },
+    {
+     "title": "Octopussy",
+     "year": 1983,
+     "type": "movie",
+     "wiki": "Octopussy"
+    },
+    {
+     "title": "Never Say Never Again",
+     "year": 1983,
+     "type": "movie",
+     "wiki": "Never Say Never Again",
+     "format": "Non-Eon"
+    },
+    {
+     "title": "A View to a Kill",
+     "year": 1985,
+     "type": "movie",
+     "wiki": "A View to a Kill"
+    },
+    {
+     "title": "The Living Daylights",
+     "year": 1987,
+     "type": "movie",
+     "wiki": "The Living Daylights"
+    },
+    {
+     "title": "Licence to Kill",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "Licence to Kill"
+    },
+    {
+     "title": "James Bond Jr.",
+     "year": 1991,
+     "type": "tv",
+     "wiki": "James Bond Jr."
+    },
+    {
+     "title": "GoldenEye",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "GoldenEye"
+    },
+    {
+     "title": "Tomorrow Never Dies",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Tomorrow Never Dies"
+    },
+    {
+     "title": "The World Is Not Enough",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "The World Is Not Enough"
+    },
+    {
+     "title": "Die Another Day",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Die Another Day"
+    },
+    {
+     "title": "Casino Royale",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Casino Royale (2006 film)"
+    },
+    {
+     "title": "Quantum of Solace",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Quantum of Solace"
+    },
+    {
+     "title": "Skyfall",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Skyfall"
+    },
+    {
+     "title": "Spectre",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Spectre (2015 film)"
+    },
+    {
+     "title": "No Time to Die",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "No Time to Die"
+    },
+    {
+     "title": "007: Road to a Million",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "007: Road to a Million"
+    }
+   ]
+  },
+  {
+   "id": "cur-star-trek",
+   "name": "Star Trek",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Star Trek",
+     "year": 1966,
+     "type": "tv",
+     "wiki": "Star Trek: The Original Series",
+     "aka": [
+      "Star Trek: The Original Series"
+     ]
+    },
+    {
+     "title": "Star Trek: The Animated Series",
+     "year": 1973,
+     "type": "tv",
+     "wiki": "Star Trek: The Animated Series"
+    },
+    {
+     "title": "Star Trek: The Motion Picture",
+     "year": 1979,
+     "type": "movie",
+     "wiki": "Star Trek: The Motion Picture"
+    },
+    {
+     "title": "Star Trek II: The Wrath of Khan",
+     "year": 1982,
+     "type": "movie",
+     "wiki": "Star Trek II: The Wrath of Khan"
+    },
+    {
+     "title": "Star Trek III: The Search for Spock",
+     "year": 1984,
+     "type": "movie",
+     "wiki": "Star Trek III: The Search for Spock"
+    },
+    {
+     "title": "Star Trek IV: The Voyage Home",
+     "year": 1986,
+     "type": "movie",
+     "wiki": "Star Trek IV: The Voyage Home"
+    },
+    {
+     "title": "Star Trek: The Next Generation",
+     "year": 1987,
+     "type": "tv",
+     "wiki": "Star Trek: The Next Generation"
+    },
+    {
+     "title": "Star Trek V: The Final Frontier",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "Star Trek V: The Final Frontier"
+    },
+    {
+     "title": "Star Trek VI: The Undiscovered Country",
+     "year": 1991,
+     "type": "movie",
+     "wiki": "Star Trek VI: The Undiscovered Country"
+    },
+    {
+     "title": "Star Trek: Deep Space Nine",
+     "year": 1993,
+     "type": "tv",
+     "wiki": "Star Trek: Deep Space Nine"
+    },
+    {
+     "title": "Star Trek Generations",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "Star Trek Generations"
+    },
+    {
+     "title": "Star Trek: Voyager",
+     "year": 1995,
+     "type": "tv",
+     "wiki": "Star Trek: Voyager"
+    },
+    {
+     "title": "Star Trek: First Contact",
+     "year": 1996,
+     "type": "movie",
+     "wiki": "Star Trek: First Contact"
+    },
+    {
+     "title": "Star Trek: Insurrection",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "Star Trek: Insurrection"
+    },
+    {
+     "title": "Star Trek: Enterprise",
+     "year": 2001,
+     "type": "tv",
+     "wiki": "Star Trek: Enterprise"
+    },
+    {
+     "title": "Star Trek: Nemesis",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Star Trek: Nemesis"
+    },
+    {
+     "title": "Star Trek",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Star Trek (2009 film)"
+    },
+    {
+     "title": "Star Trek Into Darkness",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Star Trek Into Darkness"
+    },
+    {
+     "title": "Star Trek Beyond",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Star Trek Beyond"
+    },
+    {
+     "title": "Star Trek: Discovery",
+     "year": 2017,
+     "type": "tv",
+     "wiki": "Star Trek: Discovery"
+    },
+    {
+     "title": "Star Trek: Short Treks",
+     "year": 2018,
+     "type": "tv",
+     "wiki": "Star Trek: Short Treks"
+    },
+    {
+     "title": "Star Trek: Picard",
+     "year": 2020,
+     "type": "tv",
+     "wiki": "Star Trek: Picard"
+    },
+    {
+     "title": "Star Trek: Lower Decks",
+     "year": 2020,
+     "type": "tv",
+     "wiki": "Star Trek: Lower Decks"
+    },
+    {
+     "title": "Star Trek: Prodigy",
+     "year": 2021,
+     "type": "tv",
+     "wiki": "Star Trek: Prodigy"
+    },
+    {
+     "title": "Star Trek: Strange New Worlds",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "Star Trek: Strange New Worlds"
+    },
+    {
+     "title": "Star Trek: Very Short Treks",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "Star Trek: Very Short Treks"
+    },
+    {
+     "title": "Star Trek: Section 31",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Star Trek: Section 31"
+    },
+    {
+     "title": "Star Trek: Starfleet Academy",
+     "year": 2026,
+     "type": "tv",
+     "wiki": "Star Trek: Starfleet Academy"
+    }
+   ]
+  },
+  {
+   "id": "cur-fast-and-furious",
+   "name": "Fast & Furious",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "The Fast and the Furious",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "The Fast and the Furious (2001 film)"
+    },
+    {
+     "title": "The Turbo Charged Prelude for 2 Fast 2 Furious",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Turbo-Charged Prelude",
+     "format": "Short",
+     "aka": [
+      "Turbo-Charged Prelude"
+     ]
+    },
+    {
+     "title": "2 Fast 2 Furious",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "2 Fast 2 Furious"
+    },
+    {
+     "title": "The Fast and the Furious: Tokyo Drift",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "The Fast and the Furious: Tokyo Drift"
+    },
+    {
+     "title": "Fast & Furious",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Fast & Furious (2009 film)"
+    },
+    {
+     "title": "Los Bandoleros",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Los Bandoleros (film)",
+     "format": "Short"
+    },
+    {
+     "title": "Fast Five",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Fast Five"
+    },
+    {
+     "title": "Fast & Furious 6",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Fast & Furious 6"
+    },
+    {
+     "title": "Furious 7",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Furious 7"
+    },
+    {
+     "title": "The Fate of the Furious",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "The Fate of the Furious"
+    },
+    {
+     "title": "Fast & Furious Presents: Hobbs & Shaw",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Fast & Furious Presents: Hobbs & Shaw",
+     "aka": [
+      "Hobbs & Shaw"
+     ]
+    },
+    {
+     "title": "Fast & Furious Spy Racers",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "Fast & Furious Spy Racers"
+    },
+    {
+     "title": "F9",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "F9",
+     "aka": [
+      "F9: The Fast Saga"
+     ]
+    },
+    {
+     "title": "Fast X",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Fast X"
+    }
+   ]
+  },
+  {
+   "id": "cur-the-hunger-games",
+   "name": "The Hunger Games",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "The Hunger Games",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "The Hunger Games (film)"
+    },
+    {
+     "title": "The Hunger Games: Catching Fire",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "The Hunger Games: Catching Fire"
+    },
+    {
+     "title": "The Hunger Games: Mockingjay - Part 1",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "The Hunger Games: Mockingjay – Part 1"
+    },
+    {
+     "title": "The Hunger Games: Mockingjay - Part 2",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "The Hunger Games: Mockingjay – Part 2"
+    },
+    {
+     "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "The Hunger Games: The Ballad of Songbirds & Snakes"
+    }
+   ]
+  },
+  {
+   "id": "cur-the-twilight-saga",
+   "name": "The Twilight Saga",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Twilight",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Twilight (2008 film)"
+    },
+    {
+     "title": "The Twilight Saga: New Moon",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "The Twilight Saga: New Moon"
+    },
+    {
+     "title": "The Twilight Saga: Eclipse",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "The Twilight Saga: Eclipse"
+    },
+    {
+     "title": "The Twilight Saga: Breaking Dawn - Part 1",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "The Twilight Saga: Breaking Dawn – Part 1"
+    },
+    {
+     "title": "The Twilight Saga: Breaking Dawn - Part 2",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "The Twilight Saga: Breaking Dawn – Part 2"
+    }
+   ]
+  },
+  {
+   "id": "cur-transformers",
+   "name": "Transformers",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "The Transformers",
+     "year": 1984,
+     "type": "tv",
+     "wiki": "The Transformers (TV series)"
+    },
+    {
+     "title": "The Transformers: The Movie",
+     "year": 1986,
+     "type": "movie",
+     "wiki": "The Transformers: The Movie"
+    },
+    {
+     "title": "Beast Wars: Transformers",
+     "year": 1996,
+     "type": "tv",
+     "wiki": "Beast Wars: Transformers"
+    },
+    {
+     "title": "Transformers: Armada",
+     "year": 2002,
+     "type": "tv",
+     "wiki": "Transformers: Armada"
+    },
+    {
+     "title": "Transformers",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Transformers (film)"
+    },
+    {
+     "title": "Transformers: Animated",
+     "year": 2007,
+     "type": "tv",
+     "wiki": "Transformers: Animated"
+    },
+    {
+     "title": "Transformers: Revenge of the Fallen",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Transformers: Revenge of the Fallen"
+    },
+    {
+     "title": "Transformers: Prime",
+     "year": 2010,
+     "type": "tv",
+     "wiki": "Transformers: Prime"
+    },
+    {
+     "title": "Transformers: Dark of the Moon",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Transformers: Dark of the Moon"
+    },
+    {
+     "title": "Transformers: Rescue Bots",
+     "year": 2011,
+     "type": "tv",
+     "wiki": "Transformers: Rescue Bots"
+    },
+    {
+     "title": "Transformers Prime Beast Hunters: Predacons Rising",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Transformers Prime Beast Hunters: Predacons Rising",
+     "format": "TV film"
+    },
+    {
+     "title": "Transformers: Age of Extinction",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Transformers: Age of Extinction"
+    },
+    {
+     "title": "Transformers: Robots in Disguise",
+     "year": 2015,
+     "type": "tv",
+     "wiki": "Transformers: Robots in Disguise (2015 TV series)"
+    },
+    {
+     "title": "Transformers: The Last Knight",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Transformers: The Last Knight"
+    },
+    {
+     "title": "Bumblebee",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Bumblebee (film)"
+    },
+    {
+     "title": "Transformers: Cyberverse",
+     "year": 2018,
+     "type": "tv",
+     "wiki": "Transformers: Cyberverse"
+    },
+    {
+     "title": "Transformers: War for Cybertron Trilogy",
+     "year": 2020,
+     "type": "tv",
+     "wiki": "Transformers: War for Cybertron Trilogy"
+    },
+    {
+     "title": "Transformers: EarthSpark",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "Transformers: EarthSpark"
+    },
+    {
+     "title": "Transformers: Rise of the Beasts",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Transformers: Rise of the Beasts"
+    },
+    {
+     "title": "Transformers One",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Transformers One"
+    }
+   ]
+  },
+  {
+   "id": "cur-monsterverse",
+   "name": "MonsterVerse",
+   "kind": "Universe",
+   "items": [
+    {
+     "title": "Godzilla",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Godzilla (2014 film)"
+    },
+    {
+     "title": "Kong: Skull Island",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Kong: Skull Island"
+    },
+    {
+     "title": "Godzilla: King of the Monsters",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Godzilla: King of the Monsters (2019 film)"
+    },
+    {
+     "title": "Godzilla vs. Kong",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Godzilla vs. Kong"
+    },
+    {
+     "title": "Skull Island",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "Skull Island (TV series)"
+    },
+    {
+     "title": "Monarch: Legacy of Monsters",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "Monarch: Legacy of Monsters"
+    },
+    {
+     "title": "Godzilla x Kong: The New Empire",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Godzilla x Kong: The New Empire"
+    }
+   ]
+  },
+  {
+   "id": "cur-alien-predator",
+   "name": "Alien / Predator",
+   "kind": "Universe",
+   "items": [
+    {
+     "title": "Alien",
+     "year": 1979,
+     "type": "movie",
+     "wiki": "Alien (film)"
+    },
+    {
+     "title": "Aliens",
+     "year": 1986,
+     "type": "movie",
+     "wiki": "Aliens (film)"
+    },
+    {
+     "title": "Predator",
+     "year": 1987,
+     "type": "movie",
+     "wiki": "Predator (film)"
+    },
+    {
+     "title": "Predator 2",
+     "year": 1990,
+     "type": "movie",
+     "wiki": "Predator 2"
+    },
+    {
+     "title": "Alien 3",
+     "year": 1992,
+     "type": "movie",
+     "wiki": "Alien 3"
+    },
+    {
+     "title": "Alien Resurrection",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Alien Resurrection"
+    },
+    {
+     "title": "AVP: Alien vs. Predator",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Alien vs. Predator (film)",
+     "aka": [
+      "Alien vs. Predator"
+     ]
+    },
+    {
+     "title": "Aliens vs. Predator: Requiem",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Aliens vs. Predator: Requiem"
+    },
+    {
+     "title": "Predators",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Predators (film)"
+    },
+    {
+     "title": "Prometheus",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Prometheus (2012 film)"
+    },
+    {
+     "title": "Alien: Covenant",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Alien: Covenant"
+    },
+    {
+     "title": "The Predator",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "The Predator (film)"
+    },
+    {
+     "title": "Prey",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Prey (2022 film)"
+    },
+    {
+     "title": "Alien: Romulus",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Alien: Romulus"
+    },
+    {
+     "title": "Predator: Killer of Killers",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Predator: Killer of Killers"
+    },
+    {
+     "title": "Alien: Earth",
+     "year": 2025,
+     "type": "tv",
+     "wiki": "Alien: Earth"
+    },
+    {
+     "title": "Predator: Badlands",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Predator: Badlands"
+    }
+   ]
+  },
+  {
+   "id": "cur-terminator",
+   "name": "Terminator",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "The Terminator",
+     "year": 1984,
+     "type": "movie",
+     "wiki": "The Terminator"
+    },
+    {
+     "title": "Terminator 2: Judgment Day",
+     "year": 1991,
+     "type": "movie",
+     "wiki": "Terminator 2: Judgment Day"
+    },
+    {
+     "title": "Terminator 3: Rise of the Machines",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Terminator 3: Rise of the Machines"
+    },
+    {
+     "title": "Terminator: The Sarah Connor Chronicles",
+     "year": 2008,
+     "type": "tv",
+     "wiki": "Terminator: The Sarah Connor Chronicles"
+    },
+    {
+     "title": "Terminator Salvation",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Terminator Salvation"
+    },
+    {
+     "title": "Terminator Genisys",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Terminator Genisys"
+    },
+    {
+     "title": "Terminator: Dark Fate",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Terminator: Dark Fate"
+    },
+    {
+     "title": "Terminator Zero",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Terminator Zero"
+    }
+   ]
+  },
+  {
+   "id": "cur-rocky-creed",
+   "name": "Rocky / Creed",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Rocky",
+     "year": 1976,
+     "type": "movie",
+     "wiki": "Rocky"
+    },
+    {
+     "title": "Rocky II",
+     "year": 1979,
+     "type": "movie",
+     "wiki": "Rocky II"
+    },
+    {
+     "title": "Rocky III",
+     "year": 1982,
+     "type": "movie",
+     "wiki": "Rocky III"
+    },
+    {
+     "title": "Rocky IV",
+     "year": 1985,
+     "type": "movie",
+     "wiki": "Rocky IV"
+    },
+    {
+     "title": "Rocky V",
+     "year": 1990,
+     "type": "movie",
+     "wiki": "Rocky V"
+    },
+    {
+     "title": "Rocky Balboa",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Rocky Balboa (film)"
+    },
+    {
+     "title": "Creed",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Creed (film)"
+    },
+    {
+     "title": "Creed II",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Creed II"
+    },
+    {
+     "title": "Rocky IV: Rocky vs. Drago",
+     "year": 2021,
+     "type": "movie",
+     "format": "Director's cut"
+    },
+    {
+     "title": "Creed III",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Creed III"
+    }
+   ]
+  },
+  {
+   "id": "cur-the-matrix",
+   "name": "The Matrix",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "The Matrix",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "The Matrix"
+    },
+    {
+     "title": "The Matrix Reloaded",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "The Matrix Reloaded"
+    },
+    {
+     "title": "The Animatrix",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "The Animatrix",
+     "format": "Anthology"
+    },
+    {
+     "title": "The Matrix Revolutions",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "The Matrix Revolutions"
+    },
+    {
+     "title": "The Matrix Resurrections",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "The Matrix Resurrections"
+    }
+   ]
+  },
+  {
+   "id": "cur-pirates-of-the-caribbean",
+   "name": "Pirates of the Caribbean",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Pirates of the Caribbean: The Curse of the Black Pearl"
+    },
+    {
+     "title": "Pirates of the Caribbean: Dead Man's Chest",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Pirates of the Caribbean: Dead Man's Chest"
+    },
+    {
+     "title": "Pirates of the Caribbean: At World's End",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Pirates of the Caribbean: At World's End"
+    },
+    {
+     "title": "Pirates of the Caribbean: On Stranger Tides",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Pirates of the Caribbean: On Stranger Tides"
+    },
+    {
+     "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Pirates of the Caribbean: Dead Men Tell No Tales",
+     "aka": [
+      "Pirates of the Caribbean: Salazar's Revenge"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-men-in-black",
+   "name": "Men in Black",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Men in Black",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Men in Black (1997 film)"
+    },
+    {
+     "title": "Men in Black: The Series",
+     "year": 1997,
+     "type": "tv",
+     "wiki": "Men in Black: The Series"
+    },
+    {
+     "title": "Men in Black II",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Men in Black II"
+    },
+    {
+     "title": "Men in Black 3",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Men in Black 3"
+    },
+    {
+     "title": "Men in Black: International",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Men in Black: International"
+    }
+   ]
+  },
+  {
+   "id": "cur-home-alone",
+   "name": "Home Alone",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Home Alone",
+     "year": 1990,
+     "type": "movie",
+     "wiki": "Home Alone"
+    },
+    {
+     "title": "Home Alone 2: Lost in New York",
+     "year": 1992,
+     "type": "movie",
+     "wiki": "Home Alone 2: Lost in New York"
+    },
+    {
+     "title": "Home Alone 3",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Home Alone 3"
+    },
+    {
+     "title": "Home Alone 4",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Home Alone 4",
+     "aka": [
+      "Home Alone 4: Taking Back the House"
+     ]
+    },
+    {
+     "title": "Home Alone: The Holiday Heist",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Home Alone: The Holiday Heist",
+     "format": "TV film"
+    },
+    {
+     "title": "Home Sweet Home Alone",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Home Sweet Home Alone"
+    }
+   ]
+  },
+  {
+   "id": "cur-the-karate-kid",
+   "name": "The Karate Kid",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "The Karate Kid",
+     "year": 1984,
+     "type": "movie",
+     "wiki": "The Karate Kid"
+    },
+    {
+     "title": "The Karate Kid Part II",
+     "year": 1986,
+     "type": "movie",
+     "wiki": "The Karate Kid Part II"
+    },
+    {
+     "title": "The Karate Kid Part III",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "The Karate Kid Part III"
+    },
+    {
+     "title": "The Karate Kid",
+     "year": 1989,
+     "type": "tv",
+     "wiki": "The Karate Kid (1989 TV series)"
+    },
+    {
+     "title": "The Next Karate Kid",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "The Next Karate Kid"
+    },
+    {
+     "title": "The Karate Kid",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "The Karate Kid (2010 film)"
+    },
+    {
+     "title": "Cobra Kai",
+     "year": 2018,
+     "type": "tv",
+     "wiki": "Cobra Kai"
+    },
+    {
+     "title": "Karate Kid: Legends",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Karate Kid: Legends"
+    }
+   ]
+  },
+  {
+   "id": "cur-die-hard",
+   "name": "Die Hard",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Die Hard",
+     "year": 1988,
+     "type": "movie",
+     "wiki": "Die Hard"
+    },
+    {
+     "title": "Die Hard 2",
+     "year": 1990,
+     "type": "movie",
+     "wiki": "Die Hard 2",
+     "aka": [
+      "Die Hard 2: Die Harder"
+     ]
+    },
+    {
+     "title": "Die Hard with a Vengeance",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "Die Hard with a Vengeance"
+    },
+    {
+     "title": "Live Free or Die Hard",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Live Free or Die Hard",
+     "aka": [
+      "Die Hard 4.0"
+     ]
+    },
+    {
+     "title": "A Good Day to Die Hard",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "A Good Day to Die Hard"
+    }
+   ]
+  },
+  {
+   "id": "cur-bourne",
+   "name": "Bourne",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "The Bourne Identity",
+     "year": 1988,
+     "type": "tv",
+     "wiki": "The Bourne Identity (1988 film)",
+     "format": "Miniseries"
+    },
+    {
+     "title": "The Bourne Identity",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "The Bourne Identity (2002 film)"
+    },
+    {
+     "title": "The Bourne Supremacy",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "The Bourne Supremacy (film)"
+    },
+    {
+     "title": "The Bourne Ultimatum",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "The Bourne Ultimatum (film)"
+    },
+    {
+     "title": "The Bourne Legacy",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "The Bourne Legacy (film)"
+    },
+    {
+     "title": "Jason Bourne",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Jason Bourne (film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-john-wick",
+   "name": "John Wick",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "John Wick",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "John Wick (film)"
+    },
+    {
+     "title": "John Wick: Chapter 2",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "John Wick: Chapter 2"
+    },
+    {
+     "title": "John Wick: Chapter 3 - Parabellum",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "John Wick: Chapter 3 – Parabellum"
+    },
+    {
+     "title": "John Wick: Chapter 4",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "John Wick: Chapter 4"
+    },
+    {
+     "title": "The Continental: From the World of John Wick",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "The Continental (miniseries)",
+     "aka": [
+      "The Continental"
+     ]
+    },
+    {
+     "title": "Ballerina",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Ballerina (2025 film)",
+     "aka": [
+      "From the World of John Wick: Ballerina"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-night-at-the-museum",
+   "name": "Night at the Museum",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Night at the Museum",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Night at the Museum"
+    },
+    {
+     "title": "Night at the Museum: Battle of the Smithsonian",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Night at the Museum: Battle of the Smithsonian"
+    },
+    {
+     "title": "Night at the Museum: Secret of the Tomb",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Night at the Museum: Secret of the Tomb"
+    },
+    {
+     "title": "Night at the Museum Kahmunrah Rises Again",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Night at the Museum: Kahmunrah Rises Again",
+     "aka": [
+      "Night at the Museum: Kahmunrah Rises Again"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-pokemon",
+   "name": "Pokémon",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Pokémon: The Original Series",
+     "year": 1997,
+     "type": "tv",
+     "wiki": "Pokémon: Indigo League",
+     "aka": [
+      "Pokémon",
+      "Pokémon: Indigo League",
+      "Adventures in the Orange Islands",
+      "The Johto Journeys",
+      "Johto League Champions",
+      "Master Quest"
+     ]
+    },
+    {
+     "title": "Pokémon: The First Movie",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "Pokémon: The First Movie",
+     "aka": [
+      "Mewtwo Strikes Back"
+     ]
+    },
+    {
+     "title": "Pokémon: The Movie 2000",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Pokémon: The Movie 2000",
+     "aka": [
+      "Revelation Lugia"
+     ]
+    },
+    {
+     "title": "Pokémon 3: The Movie",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Pokémon 3: The Movie",
+     "aka": [
+      "Spell of the Unown"
+     ]
+    },
+    {
+     "title": "Mewtwo Returns",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Mewtwo Returns",
+     "format": "TV special"
+    },
+    {
+     "title": "Pokémon 4Ever",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Pokémon 4Ever",
+     "aka": [
+      "Celebi: Voice of the Forest"
+     ]
+    },
+    {
+     "title": "Pokémon Heroes",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Pokémon Heroes",
+     "aka": [
+      "Latios and Latias"
+     ]
+    },
+    {
+     "title": "Pokémon the Series: Ruby and Sapphire",
+     "year": 2002,
+     "type": "tv",
+     "wiki": "Pokémon: Advanced",
+     "aka": [
+      "Pokémon: Advanced Generation",
+      "Pokémon: Advanced",
+      "Advanced Challenge",
+      "Advanced Battle",
+      "Battle Frontier"
+     ]
+    },
+    {
+     "title": "Pokémon: Jirachi Wish Maker",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Pokémon: Jirachi Wish Maker"
+    },
+    {
+     "title": "Pokémon: Destiny Deoxys",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Pokémon: Destiny Deoxys"
+    },
+    {
+     "title": "Pokémon: Lucario and the Mystery of Mew",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Pokémon: Lucario and the Mystery of Mew"
+    },
+    {
+     "title": "Pokémon Chronicles",
+     "year": 2005,
+     "type": "tv",
+     "wiki": "Pokémon Chronicles"
+    },
+    {
+     "title": "Pokémon Ranger and the Temple of the Sea",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Pokémon Ranger and the Temple of the Sea"
+    },
+    {
+     "title": "Pokémon: The Mastermind of Mirage Pokémon",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Pokémon: The Mastermind of Mirage Pokémon",
+     "format": "TV special"
+    },
+    {
+     "title": "Pokémon the Series: Diamond and Pearl",
+     "year": 2006,
+     "type": "tv",
+     "wiki": "Pokémon: Diamond and Pearl",
+     "aka": [
+      "Pokémon: Diamond and Pearl",
+      "DP Battle Dimension",
+      "DP Galactic Battles",
+      "DP Sinnoh League Victors"
+     ]
+    },
+    {
+     "title": "Pokémon: The Rise of Darkrai",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Pokémon: The Rise of Darkrai"
+    },
+    {
+     "title": "Pokémon: Giratina and the Sky Warrior",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Pokémon: Giratina and the Sky Warrior"
+    },
+    {
+     "title": "Pokémon: Arceus and the Jewel of Life",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Pokémon: Arceus and the Jewel of Life"
+    },
+    {
+     "title": "Pokémon: Zoroark: Master of Illusions",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Pokémon: Zoroark: Master of Illusions"
+    },
+    {
+     "title": "Pokémon the Series: Black & White",
+     "year": 2010,
+     "type": "tv",
+     "wiki": "Pokémon: Black & White",
+     "aka": [
+      "Pokémon: Best Wishes!",
+      "BW Rival Destinies",
+      "BW Adventures in Unova and Beyond"
+     ]
+    },
+    {
+     "title": "Pokémon the Movie: Black—Victini and Reshiram and White—Victini and Zekrom",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Pokémon the Movie: Black—Victini and Reshiram and White—Victini and Zekrom"
+    },
+    {
+     "title": "Pokémon the Movie: Kyurem vs. the Sword of Justice",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Pokémon the Movie: Kyurem vs. the Sword of Justice"
+    },
+    {
+     "title": "Pokémon the Movie: Genesect and the Legend Awakened",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Pokémon the Movie: Genesect and the Legend Awakened"
+    },
+    {
+     "title": "Pokémon Origins",
+     "year": 2013,
+     "type": "tv",
+     "wiki": "Pokémon Origins",
+     "aka": [
+      "Pokémon: The Origin"
+     ]
+    },
+    {
+     "title": "Pokémon the Series: XY",
+     "year": 2013,
+     "type": "tv",
+     "wiki": "Pokémon the Series: XY",
+     "aka": [
+      "XY Kalos Quest",
+      "XYZ"
+     ]
+    },
+    {
+     "title": "Pokémon the Movie: Diancie and the Cocoon of Destruction",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Pokémon the Movie: Diancie and the Cocoon of Destruction"
+    },
+    {
+     "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Pokémon the Movie: Hoopa and the Clash of Ages"
+    },
+    {
+     "title": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Pokémon the Movie: Volcanion and the Mechanical Marvel"
+    },
+    {
+     "title": "Pokémon Generations",
+     "year": 2016,
+     "type": "tv",
+     "wiki": "Pokémon Generations"
+    },
+    {
+     "title": "Pokémon the Series: Sun & Moon",
+     "year": 2016,
+     "type": "tv",
+     "wiki": "Pokémon the Series: Sun & Moon",
+     "aka": [
+      "Sun & Moon – Ultra Adventures",
+      "Sun & Moon – Ultra Legends"
+     ]
+    },
+    {
+     "title": "Pokémon the Movie: I Choose You!",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Pokémon the Movie: I Choose You!"
+    },
+    {
+     "title": "Pokémon the Movie: The Power of Us",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Pokémon the Movie: The Power of Us"
+    },
+    {
+     "title": "Pokémon: Mewtwo Strikes Back—Evolution",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Pokémon: Mewtwo Strikes Back—Evolution"
+    },
+    {
+     "title": "Pokémon Detective Pikachu",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Pokémon Detective Pikachu",
+     "format": "Live-action"
+    },
+    {
+     "title": "Pokémon Journeys: The Series",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "Pokémon Journeys: The Series",
+     "aka": [
+      "Pokémon Master Journeys",
+      "Pokémon Ultimate Journeys"
+     ]
+    },
+    {
+     "title": "Pokémon: Twilight Wings",
+     "year": 2020,
+     "type": "tv",
+     "wiki": "Pokémon: Twilight Wings"
+    },
+    {
+     "title": "Pokémon the Movie: Secrets of the Jungle",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Pokémon the Movie: Secrets of the Jungle"
+    },
+    {
+     "title": "Pokémon Evolutions",
+     "year": 2021,
+     "type": "tv",
+     "wiki": "Pokémon Evolutions"
+    },
+    {
+     "title": "Pokémon: The Arceus Chronicles",
+     "year": 2022,
+     "type": "movie",
+     "format": "TV special"
+    },
+    {
+     "title": "Pokémon: Hisuian Snow",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "Pokémon: Hisuian Snow"
+    },
+    {
+     "title": "Pokémon Horizons: The Series",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "Pokémon Horizons: The Series"
+    },
+    {
+     "title": "Pokémon: Paldean Winds",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "Pokémon: Paldean Winds"
+    },
+    {
+     "title": "Pokémon Concierge",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "Pokémon Concierge"
+    }
+   ]
+  },
+  {
+   "id": "cur-evangelion",
+   "name": "Evangelion",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Neon Genesis Evangelion",
+     "year": 1995,
+     "type": "tv",
+     "wiki": "Neon Genesis Evangelion"
+    },
+    {
+     "title": "Neon Genesis Evangelion: Death & Rebirth",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Neon Genesis Evangelion: Death & Rebirth"
+    },
+    {
+     "title": "Neon Genesis Evangelion: The End of Evangelion",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "The End of Evangelion",
+     "aka": [
+      "The End of Evangelion"
+     ]
+    },
+    {
+     "title": "Evangelion: 1.11 You Are (Not) Alone",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Evangelion: 1.0 You Are (Not) Alone",
+     "aka": [
+      "Evangelion: 1.0 You Are (Not) Alone"
+     ]
+    },
+    {
+     "title": "Evangelion 2.0 You Can (Not) Advance - Movie",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Evangelion: 2.0 You Can (Not) Advance",
+     "aka": [
+      "Evangelion: 2.0 You Can (Not) Advance",
+      "Evangelion: 2.22 You Can (Not) Advance"
+     ]
+    },
+    {
+     "title": "Evangelion: 3.0 You Can (Not) Redo",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Evangelion: 3.0 You Can (Not) Redo"
+    },
+    {
+     "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Evangelion: 3.0+1.0 Thrice Upon a Time"
+    }
+   ]
+  },
+  {
+   "id": "cur-universal-classic-monsters",
+   "name": "Universal Classic Monsters",
+   "kind": "Universe",
+   "items": [
+    {
+     "title": "The Hunchback of Notre Dame",
+     "year": 1923,
+     "type": "movie",
+     "wiki": "The Hunchback of Notre Dame (1923 film)"
+    },
+    {
+     "title": "The Phantom of the Opera",
+     "year": 1925,
+     "type": "movie",
+     "wiki": "The Phantom of the Opera (1925 film)"
+    },
+    {
+     "title": "Dracula",
+     "year": 1931,
+     "type": "movie",
+     "wiki": "Dracula (1931 English-language film)"
+    },
+    {
+     "title": "Drácula",
+     "year": 1931,
+     "type": "movie",
+     "wiki": "Drácula (1931 Spanish-language film)",
+     "format": "Spanish-language version"
+    },
+    {
+     "title": "Frankenstein",
+     "year": 1931,
+     "type": "movie",
+     "wiki": "Frankenstein (1931 film)"
+    },
+    {
+     "title": "The Mummy",
+     "year": 1932,
+     "type": "movie",
+     "wiki": "The Mummy (1932 film)"
+    },
+    {
+     "title": "The Invisible Man",
+     "year": 1933,
+     "type": "movie",
+     "wiki": "The Invisible Man (1933 film)"
+    },
+    {
+     "title": "Bride of Frankenstein",
+     "year": 1935,
+     "type": "movie",
+     "wiki": "Bride of Frankenstein"
+    },
+    {
+     "title": "Werewolf of London",
+     "year": 1935,
+     "type": "movie",
+     "wiki": "Werewolf of London"
+    },
+    {
+     "title": "Dracula's Daughter",
+     "year": 1936,
+     "type": "movie",
+     "wiki": "Dracula's Daughter"
+    },
+    {
+     "title": "Son of Frankenstein",
+     "year": 1939,
+     "type": "movie",
+     "wiki": "Son of Frankenstein"
+    },
+    {
+     "title": "The Invisible Man Returns",
+     "year": 1940,
+     "type": "movie",
+     "wiki": "The Invisible Man Returns"
+    },
+    {
+     "title": "The Mummy's Hand",
+     "year": 1940,
+     "type": "movie",
+     "wiki": "The Mummy's Hand"
+    },
+    {
+     "title": "The Invisible Woman",
+     "year": 1940,
+     "type": "movie",
+     "wiki": "The Invisible Woman (1940 film)"
+    },
+    {
+     "title": "The Wolf Man",
+     "year": 1941,
+     "type": "movie",
+     "wiki": "The Wolf Man (1941 film)"
+    },
+    {
+     "title": "The Ghost of Frankenstein",
+     "year": 1942,
+     "type": "movie",
+     "wiki": "The Ghost of Frankenstein"
+    },
+    {
+     "title": "Invisible Agent",
+     "year": 1942,
+     "type": "movie",
+     "wiki": "Invisible Agent"
+    },
+    {
+     "title": "The Mummy's Tomb",
+     "year": 1942,
+     "type": "movie",
+     "wiki": "The Mummy's Tomb"
+    },
+    {
+     "title": "Frankenstein Meets the Wolf Man",
+     "year": 1943,
+     "type": "movie",
+     "wiki": "Frankenstein Meets the Wolf Man"
+    },
+    {
+     "title": "Phantom of the Opera",
+     "year": 1943,
+     "type": "movie",
+     "wiki": "Phantom of the Opera (1943 film)"
+    },
+    {
+     "title": "Son of Dracula",
+     "year": 1943,
+     "type": "movie",
+     "wiki": "Son of Dracula (1943 film)"
+    },
+    {
+     "title": "The Invisible Man's Revenge",
+     "year": 1944,
+     "type": "movie",
+     "wiki": "The Invisible Man's Revenge"
+    },
+    {
+     "title": "The Mummy's Ghost",
+     "year": 1944,
+     "type": "movie",
+     "wiki": "The Mummy's Ghost"
+    },
+    {
+     "title": "House of Frankenstein",
+     "year": 1944,
+     "type": "movie",
+     "wiki": "House of Frankenstein (1944 film)"
+    },
+    {
+     "title": "The Mummy's Curse",
+     "year": 1944,
+     "type": "movie",
+     "wiki": "The Mummy's Curse"
+    },
+    {
+     "title": "House of Dracula",
+     "year": 1945,
+     "type": "movie",
+     "wiki": "House of Dracula"
+    },
+    {
+     "title": "Abbott and Costello Meet Frankenstein",
+     "year": 1948,
+     "type": "movie",
+     "wiki": "Abbott and Costello Meet Frankenstein"
+    },
+    {
+     "title": "Abbott and Costello Meet the Invisible Man",
+     "year": 1951,
+     "type": "movie",
+     "wiki": "Abbott and Costello Meet the Invisible Man"
+    },
+    {
+     "title": "Abbott and Costello Meet Dr. Jekyll and Mr. Hyde",
+     "year": 1953,
+     "type": "movie",
+     "wiki": "Abbott and Costello Meet Dr. Jekyll and Mr. Hyde"
+    },
+    {
+     "title": "Creature from the Black Lagoon",
+     "year": 1954,
+     "type": "movie",
+     "wiki": "Creature from the Black Lagoon"
+    },
+    {
+     "title": "Abbott and Costello Meet the Mummy",
+     "year": 1955,
+     "type": "movie",
+     "wiki": "Abbott and Costello Meet the Mummy"
+    },
+    {
+     "title": "Revenge of the Creature",
+     "year": 1955,
+     "type": "movie",
+     "wiki": "Revenge of the Creature"
+    },
+    {
+     "title": "The Creature Walks Among Us",
+     "year": 1956,
+     "type": "movie",
+     "wiki": "The Creature Walks Among Us"
+    },
+    {
+     "title": "The Mummy",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "The Mummy (1999 film)",
+     "format": "Universal remake"
+    },
+    {
+     "title": "The Mummy Returns",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "The Mummy Returns",
+     "format": "Universal remake"
+    },
+    {
+     "title": "Van Helsing",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Van Helsing (film)",
+     "format": "Universal remake"
+    },
+    {
+     "title": "The Mummy: Tomb of the Dragon Emperor",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "The Mummy: Tomb of the Dragon Emperor",
+     "format": "Universal remake"
+    },
+    {
+     "title": "The Wolfman",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "The Wolfman (2010 film)",
+     "format": "Universal remake"
+    },
+    {
+     "title": "Dracula Untold",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Dracula Untold",
+     "format": "Universal remake"
+    },
+    {
+     "title": "The Mummy",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "The Mummy (2017 film)",
+     "format": "Universal remake"
+    },
+    {
+     "title": "The Invisible Man",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "The Invisible Man (2020 film)",
+     "format": "Universal remake"
+    },
+    {
+     "title": "Renfield",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Renfield (film)",
+     "format": "Universal remake"
+    },
+    {
+     "title": "Wolf Man",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Wolf Man (2025 film)",
+     "format": "Universal remake"
+    }
+   ]
+  },
+  {
+   "id": "cur-dune",
+   "name": "Dune",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Dune",
+     "year": 1984,
+     "type": "movie",
+     "wiki": "Dune (1984 film)"
+    },
+    {
+     "title": "Frank Herbert's Dune",
+     "year": 2000,
+     "type": "tv",
+     "wiki": "Frank Herbert's Dune",
+     "format": "Miniseries"
+    },
+    {
+     "title": "Frank Herbert's Children of Dune",
+     "year": 2003,
+     "type": "tv",
+     "wiki": "Frank Herbert's Children of Dune",
+     "format": "Miniseries"
+    },
+    {
+     "title": "Dune",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Dune (2021 film)",
+     "aka": [
+      "Dune: Part One"
+     ]
+    },
+    {
+     "title": "Dune: Part Two",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Dune: Part Two"
+    },
+    {
+     "title": "Dune: Prophecy",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Dune: Prophecy"
+    }
+   ]
+  },
+  {
+   "id": "cur-blade-runner",
+   "name": "Blade Runner",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Blade Runner",
+     "year": 1982,
+     "type": "movie",
+     "wiki": "Blade Runner"
+    },
+    {
+     "title": "2036: Nexus Dawn",
+     "year": 2017,
+     "type": "movie",
+     "format": "Short"
+    },
+    {
+     "title": "2048: Nowhere to Run",
+     "year": 2017,
+     "type": "movie",
+     "format": "Short"
+    },
+    {
+     "title": "Blade Runner Black Out 2022",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Blade Runner Black Out 2022",
+     "format": "Short"
+    },
+    {
+     "title": "Blade Runner 2049",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Blade Runner 2049"
+    },
+    {
+     "title": "Blade Runner: Black Lotus",
+     "year": 2021,
+     "type": "tv",
+     "wiki": "Blade Runner: Black Lotus"
+    }
+   ]
+  },
+  {
+   "id": "cur-the-lost-boys",
+   "name": "The Lost Boys",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "The Lost Boys",
+     "year": 1987,
+     "type": "movie",
+     "wiki": "The Lost Boys"
+    },
+    {
+     "title": "Lost Boys: The Tribe",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Lost Boys: The Tribe"
+    },
+    {
+     "title": "Lost Boys: The Thirst",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Lost Boys: The Thirst"
+    }
+   ]
+  },
+  {
+   "id": "cur-three-flavours-cornetto",
+   "name": "Three Flavours Cornetto",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Shaun of the Dead",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Shaun of the Dead"
+    },
+    {
+     "title": "Hot Fuzz",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Hot Fuzz"
+    },
+    {
+     "title": "The World's End",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "The World's End (film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-tron",
+   "name": "Tron",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Tron",
+     "year": 1982,
+     "type": "movie",
+     "wiki": "Tron"
+    },
+    {
+     "title": "TRON: Legacy",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Tron: Legacy"
+    },
+    {
+     "title": "Tron: Uprising",
+     "year": 2012,
+     "type": "tv",
+     "wiki": "Tron: Uprising"
+    },
+    {
+     "title": "Tron: Ares",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Tron: Ares"
+    }
+   ]
+  },
+  {
+   "id": "cur-mortal-kombat",
+   "name": "Mortal Kombat",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Mortal Kombat: The Journey Begins",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "Mortal Kombat: The Journey Begins",
+     "format": "Animated direct-to-video"
+    },
+    {
+     "title": "Mortal Kombat",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "Mortal Kombat (1995 film)"
+    },
+    {
+     "title": "Mortal Kombat: Defenders of the Realm",
+     "year": 1996,
+     "type": "tv",
+     "wiki": "Mortal Kombat: Defenders of the Realm"
+    },
+    {
+     "title": "Mortal Kombat Annihilation",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Mortal Kombat Annihilation"
+    },
+    {
+     "title": "Mortal Kombat: Conquest",
+     "year": 1998,
+     "type": "tv",
+     "wiki": "Mortal Kombat: Conquest"
+    },
+    {
+     "title": "Mortal Kombat: Rebirth",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Mortal Kombat: Rebirth",
+     "format": "Short"
+    },
+    {
+     "title": "Mortal Kombat: Legacy",
+     "year": 2011,
+     "type": "tv",
+     "wiki": "Mortal Kombat: Legacy"
+    },
+    {
+     "title": "Mortal Kombat Legends: Scorpion's Revenge",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Mortal Kombat Legends: Scorpion's Revenge"
+    },
+    {
+     "title": "Mortal Kombat",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Mortal Kombat (2021 film)"
+    },
+    {
+     "title": "Mortal Kombat Legends: Battle of the Realms",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Mortal Kombat Legends: Battle of the Realms"
+    },
+    {
+     "title": "Mortal Kombat Legends: Snow Blind",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Mortal Kombat Legends: Snow Blind"
+    },
+    {
+     "title": "Mortal Kombat Legends: Cage Match",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Mortal Kombat Legends: Cage Match"
+    },
+    {
+     "title": "Mortal Kombat II",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Mortal Kombat II (film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-train-to-busan",
+   "name": "Train to Busan",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Train to Busan",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Train to Busan"
+    },
+    {
+     "title": "Seoul Station",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Seoul Station"
+    },
+    {
+     "title": "Peninsula",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Peninsula (film)",
+     "aka": [
+      "Train to Busan Presents: Peninsula"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-the-chronicles-of-narnia",
+   "name": "The Chronicles of Narnia",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "The Lion, the Witch and the Wardrobe",
+     "year": 1967,
+     "type": "tv",
+     "wiki": "The Lion, the Witch and the Wardrobe (1967 TV serial)"
+    },
+    {
+     "title": "The Lion, the Witch and the Wardrobe",
+     "year": 1979,
+     "type": "movie",
+     "wiki": "The Lion, the Witch and the Wardrobe (1979 film)",
+     "format": "Animated TV film"
+    },
+    {
+     "title": "The Chronicles of Narnia",
+     "year": 1988,
+     "type": "tv",
+     "wiki": "The Chronicles of Narnia (TV serial)",
+     "format": "BBC serial (1988–1990)"
+    },
+    {
+     "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+    },
+    {
+     "title": "The Chronicles of Narnia: Prince Caspian",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "The Chronicles of Narnia: Prince Caspian"
+    },
+    {
+     "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "The Chronicles of Narnia: The Voyage of the Dawn Treader"
+    }
+   ]
+  },
+  {
+   "id": "cur-percy-jackson",
+   "name": "Percy Jackson",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Percy Jackson & the Olympians: The Lightning Thief",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Percy Jackson & the Olympians: The Lightning Thief"
+    },
+    {
+     "title": "Percy Jackson: Sea of Monsters",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Percy Jackson: Sea of Monsters"
+    },
+    {
+     "title": "Percy Jackson and the Olympians",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "Percy Jackson and the Olympians (TV series)"
+    }
+   ]
+  },
+  {
+   "id": "cur-hercule-poirot",
+   "name": "Hercule Poirot",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Alibi",
+     "year": 1931,
+     "type": "movie",
+     "wiki": "Alibi (1931 film)"
+    },
+    {
+     "title": "Black Coffee",
+     "year": 1931,
+     "type": "movie",
+     "wiki": "Black Coffee (1931 film)"
+    },
+    {
+     "title": "Lord Edgware Dies",
+     "year": 1934,
+     "type": "movie",
+     "wiki": "Lord Edgware Dies (1934 film)"
+    },
+    {
+     "title": "The Alphabet Murders",
+     "year": 1965,
+     "type": "movie",
+     "wiki": "The Alphabet Murders"
+    },
+    {
+     "title": "Murder on the Orient Express",
+     "year": 1974,
+     "type": "movie",
+     "wiki": "Murder on the Orient Express (1974 film)"
+    },
+    {
+     "title": "Death on the Nile",
+     "year": 1978,
+     "type": "movie",
+     "wiki": "Death on the Nile (1978 film)"
+    },
+    {
+     "title": "Evil Under the Sun",
+     "year": 1982,
+     "type": "movie",
+     "wiki": "Evil Under the Sun (1982 film)"
+    },
+    {
+     "title": "Thirteen at Dinner",
+     "year": 1985,
+     "type": "movie",
+     "wiki": "Thirteen at Dinner (film)",
+     "format": "TV film"
+    },
+    {
+     "title": "Dead Man's Folly",
+     "year": 1986,
+     "type": "movie",
+     "wiki": "Dead Man's Folly (film)",
+     "format": "TV film"
+    },
+    {
+     "title": "Murder in Three Acts",
+     "year": 1986,
+     "type": "movie",
+     "wiki": "Murder in Three Acts",
+     "format": "TV film"
+    },
+    {
+     "title": "Appointment with Death",
+     "year": 1988,
+     "type": "movie",
+     "wiki": "Appointment with Death (1988 film)"
+    },
+    {
+     "title": "Agatha Christie's Poirot",
+     "year": 1989,
+     "type": "tv",
+     "wiki": "Agatha Christie's Poirot"
+    },
+    {
+     "title": "Murder on the Orient Express",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Murder on the Orient Express (2001 film)",
+     "format": "TV film"
+    },
+    {
+     "title": "Murder on the Orient Express",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Murder on the Orient Express (2017 film)"
+    },
+    {
+     "title": "The ABC Murders",
+     "year": 2018,
+     "type": "tv",
+     "wiki": "The ABC Murders (TV series)",
+     "format": "Miniseries"
+    },
+    {
+     "title": "Death on the Nile",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Death on the Nile (2022 film)"
+    },
+    {
+     "title": "A Haunting in Venice",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "A Haunting in Venice"
+    }
+   ]
+  },
+  {
+   "id": "cur-paddington",
+   "name": "Paddington",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Paddington",
+     "year": 1976,
+     "type": "tv",
+     "wiki": "Paddington (TV series)"
+    },
+    {
+     "title": "The Adventures of Paddington Bear",
+     "year": 1989,
+     "type": "tv",
+     "wiki": "The Adventures of Paddington Bear"
+    },
+    {
+     "title": "The Adventures of Paddington",
+     "year": 1997,
+     "type": "tv",
+     "wiki": "The Adventures of Paddington (1997 TV series)"
+    },
+    {
+     "title": "Paddington",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Paddington (film)"
+    },
+    {
+     "title": "Paddington 2",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Paddington 2"
+    },
+    {
+     "title": "The Adventures of Paddington",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "The Adventures of Paddington (2019 TV series)"
+    },
+    {
+     "title": "Paddington in Peru",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Paddington in Peru"
+    }
+   ]
+  },
+  {
+   "id": "cur-the-naked-gun",
+   "name": "The Naked Gun",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Police Squad!",
+     "year": 1982,
+     "type": "tv",
+     "wiki": "Police Squad!"
+    },
+    {
+     "title": "The Naked Gun: From the Files of Police Squad!",
+     "year": 1988,
+     "type": "movie",
+     "wiki": "The Naked Gun: From the Files of Police Squad!"
+    },
+    {
+     "title": "The Naked Gun 2½: The Smell of Fear",
+     "year": 1991,
+     "type": "movie",
+     "wiki": "The Naked Gun 2½: The Smell of Fear"
+    },
+    {
+     "title": "Naked Gun 33⅓: The Final Insult",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "Naked Gun 33⅓: The Final Insult"
+    },
+    {
+     "title": "The Naked Gun",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "The Naked Gun (2025 film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-borat",
+   "name": "Borat",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Borat",
+     "aka": [
+      "Borat"
+     ]
+    },
+    {
+     "title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe To American Regime For Make Benefit Once Glorious Nation of Kazakhstan",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Borat Subsequent Moviefilm",
+     "aka": [
+      "Borat Subsequent Moviefilm"
+     ]
+    },
+    {
+     "title": "Borat: VHS Cassette of Material Deemed \"Sub-acceptable\" by Kazakhstan Ministry of Censorship and Circumcision",
+     "year": 2021,
+     "type": "movie",
+     "format": "TV special"
+    },
+    {
+     "title": "Borat's American Lockdown & Debunking Borat",
+     "year": 2021,
+     "type": "tv",
+     "format": "Miniseries"
+    }
+   ]
+  },
+  {
+   "id": "cur-wicked",
+   "name": "Wicked",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Wicked",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Wicked (2024 film)",
+     "aka": [
+      "Wicked: Part I"
+     ]
+    },
+    {
+     "title": "Wicked: One Wonderful Night",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Wicked: One Wonderful Night",
+     "format": "TV special"
+    },
+    {
+     "title": "Wicked: For Good",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Wicked: For Good"
+    }
+   ]
+  },
+  {
+   "id": "cur-free-willy",
+   "name": "Free Willy",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Free Willy",
+     "year": 1993,
+     "type": "movie",
+     "wiki": "Free Willy"
+    },
+    {
+     "title": "Free Willy",
+     "year": 1994,
+     "type": "tv",
+     "wiki": "Free Willy (TV series)"
+    },
+    {
+     "title": "Free Willy 2: The Adventure Home",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "Free Willy 2: The Adventure Home"
+    },
+    {
+     "title": "Free Willy 3: The Rescue",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Free Willy 3: The Rescue"
+    },
+    {
+     "title": "Free Willy: Escape from Pirate's Cove",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Free Willy: Escape from Pirate's Cove"
+    }
+   ]
+  },
+  {
+   "id": "cur-mean-girls",
+   "name": "Mean Girls",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Mean Girls",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Mean Girls"
+    },
+    {
+     "title": "Mean Girls 2",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Mean Girls 2",
+     "format": "TV film"
+    },
+    {
+     "title": "Mean Girls",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Mean Girls (2024 film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-a-cinderella-story",
+   "name": "A Cinderella Story",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "A Cinderella Story",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "A Cinderella Story"
+    },
+    {
+     "title": "Another Cinderella Story",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Another Cinderella Story"
+    },
+    {
+     "title": "A Cinderella Story: Once Upon a Song",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "A Cinderella Story: Once Upon a Song"
+    },
+    {
+     "title": "A Cinderella Story: If the Shoe Fits",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "A Cinderella Story: If the Shoe Fits"
+    },
+    {
+     "title": "A Cinderella Story: Christmas Wish",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "A Cinderella Story: Christmas Wish"
+    },
+    {
+     "title": "A Cinderella Story: Starstruck",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "A Cinderella Story: Starstruck"
+    }
+   ]
+  },
+  {
+   "id": "cur-cruel-intentions",
+   "name": "Cruel Intentions",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Cruel Intentions",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Cruel Intentions"
+    },
+    {
+     "title": "Cruel Intentions 2",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Cruel Intentions 2"
+    },
+    {
+     "title": "Cruel Intentions 3",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Cruel Intentions 3"
+    },
+    {
+     "title": "Cruel Intentions",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Cruel Intentions (TV series)"
+    }
+   ]
+  },
+  {
+   "id": "cur-scary-movie",
+   "name": "Scary Movie",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Scary Movie",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Scary Movie"
+    },
+    {
+     "title": "Scary Movie 2",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Scary Movie 2"
+    },
+    {
+     "title": "Scary Movie 3",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Scary Movie 3"
+    },
+    {
+     "title": "Scary Movie 4",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Scary Movie 4"
+    },
+    {
+     "title": "Scary Movie 5",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Scary Movie 5"
+    },
+    {
+     "title": "Scary Movie 6",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Scary Movie 6"
+    }
+   ]
+  },
+  {
+   "id": "cur-paul-blart",
+   "name": "Paul Blart",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Paul Blart: Mall Cop",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Paul Blart: Mall Cop"
+    },
+    {
+     "title": "Paul Blart: Mall Cop 2",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Paul Blart: Mall Cop 2"
+    }
+   ]
+  },
+  {
+   "id": "cur-harold-and-kumar",
+   "name": "Harold & Kumar",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Harold and Kumar Go to White Castle",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Harold & Kumar Go to White Castle",
+     "aka": [
+      "Harold & Kumar Go to White Castle"
+     ]
+    },
+    {
+     "title": "Harold and Kumar Escape from Guantanamo Bay",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Harold & Kumar Escape from Guantanamo Bay",
+     "aka": [
+      "Harold & Kumar Escape from Guantanamo Bay"
+     ]
+    },
+    {
+     "title": "A Very Harold And Kumar Christmas",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "A Very Harold & Kumar 3D Christmas",
+     "aka": [
+      "A Very Harold & Kumar 3D Christmas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-the-hangover",
+   "name": "The Hangover",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "The Hangover",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "The Hangover"
+    },
+    {
+     "title": "The Hangover Part II",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "The Hangover Part II"
+    },
+    {
+     "title": "The Hangover Part III",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "The Hangover Part III"
+    }
+   ]
+  },
+  {
+   "id": "cur-jump-street",
+   "name": "Jump Street",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "21 Jump Street",
+     "year": 1987,
+     "type": "tv",
+     "wiki": "21 Jump Street"
+    },
+    {
+     "title": "Booker",
+     "year": 1989,
+     "type": "tv",
+     "wiki": "Booker (TV series)"
+    },
+    {
+     "title": "21 Jump Street",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "21 Jump Street (film)"
+    },
+    {
+     "title": "22 Jump Street",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "22 Jump Street"
+    }
+   ]
+  },
+  {
+   "id": "cur-pitch-perfect",
+   "name": "Pitch Perfect",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Pitch Perfect",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Pitch Perfect"
+    },
+    {
+     "title": "Pitch Perfect 2",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Pitch Perfect 2"
+    },
+    {
+     "title": "Pitch Perfect 3",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Pitch Perfect 3"
+    },
+    {
+     "title": "Pitch Perfect: Bumper in Berlin",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "Pitch Perfect: Bumper in Berlin"
+    }
+   ]
+  },
+  {
+   "id": "cur-oceans",
+   "name": "Ocean's",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Ocean's 11",
+     "year": 1960,
+     "type": "movie",
+     "wiki": "Ocean's 11"
+    },
+    {
+     "title": "Ocean's Eleven",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Ocean's Eleven"
+    },
+    {
+     "title": "Ocean's Twelve",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Ocean's Twelve"
+    },
+    {
+     "title": "Ocean's Thirteen",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Ocean's Thirteen"
+    },
+    {
+     "title": "Ocean's Eight",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Ocean's 8",
+     "aka": [
+      "Ocean's 8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-knives-out",
+   "name": "Knives Out",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Knives Out",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Knives Out"
+    },
+    {
+     "title": "Glass Onion: A Knives Out Mystery",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Glass Onion: A Knives Out Mystery"
+    },
+    {
+     "title": "Wake Up Dead Man: A Knives Out Mystery",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Wake Up Dead Man",
+     "aka": [
+      "Wake Up Dead Man"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-scream",
+   "name": "Scream",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Scream",
+     "year": 1996,
+     "type": "movie",
+     "wiki": "Scream (1996 film)"
+    },
+    {
+     "title": "Scream 2",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Scream 2"
+    },
+    {
+     "title": "Scream 3",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Scream 3"
+    },
+    {
+     "title": "Scream 4",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Scream 4"
+    },
+    {
+     "title": "Scream",
+     "year": 2015,
+     "type": "tv",
+     "wiki": "Scream (TV series)",
+     "aka": [
+      "Scream: Resurrection"
+     ]
+    },
+    {
+     "title": "Scream",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Scream (2022 film)"
+    },
+    {
+     "title": "Scream VI",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Scream VI"
+    },
+    {
+     "title": "Scream 7",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Scream 7"
+    }
+   ]
+  },
+  {
+   "id": "cur-stephen-kings-it",
+   "name": "Stephen King's It",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "It",
+     "year": 1990,
+     "type": "tv",
+     "wiki": "It (miniseries)",
+     "format": "Miniseries"
+    },
+    {
+     "title": "It",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "It (2017 film)",
+     "aka": [
+      "It Chapter One"
+     ]
+    },
+    {
+     "title": "It Chapter Two",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "It Chapter Two"
+    },
+    {
+     "title": "It: Welcome to Derry",
+     "year": 2025,
+     "type": "tv",
+     "wiki": "It: Welcome to Derry"
+    }
+   ]
+  },
+  {
+   "id": "cur-avatar-cameron",
+   "name": "Avatar",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Avatar",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Avatar (2009 film)"
+    },
+    {
+     "title": "Avatar: The Way of Water",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Avatar: The Way of Water"
+    },
+    {
+     "title": "Avatar: Fire and Ash",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Avatar: Fire and Ash"
+    }
+   ]
+  },
+  {
+   "id": "cur-avatar-last-airbender",
+   "name": "Avatar: The Last Airbender",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Avatar: The Last Airbender",
+     "year": 2005,
+     "type": "tv",
+     "wiki": "Avatar: The Last Airbender"
+    },
+    {
+     "title": "The Last Airbender",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "The Last Airbender"
+    },
+    {
+     "title": "The Legend of Korra",
+     "year": 2012,
+     "type": "tv",
+     "wiki": "The Legend of Korra"
+    },
+    {
+     "title": "Avatar: The Last Airbender",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Avatar: The Last Airbender (2024 TV series)",
+     "format": "Live-action"
+    },
+    {
+     "title": "The Legend of Aang: The Last Airbender",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Avatar Aang: The Last Airbender",
+     "aka": [
+      "Avatar Aang: The Last Airbender"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-the-godfather",
+   "name": "The Godfather",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "The Godfather",
+     "year": 1972,
+     "type": "movie",
+     "wiki": "The Godfather"
+    },
+    {
+     "title": "The Godfather: Part II",
+     "year": 1974,
+     "type": "movie",
+     "wiki": "The Godfather Part II"
+    },
+    {
+     "title": "The Godfather Saga",
+     "year": 1977,
+     "type": "tv",
+     "wiki": "The Godfather Saga",
+     "format": "TV miniseries (re-edit)"
+    },
+    {
+     "title": "The Godfather: Part III",
+     "year": 1990,
+     "type": "movie",
+     "wiki": "The Godfather Part III"
+    },
+    {
+     "title": "The Godfather Coda: The Death of Michael Corleone",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "The Godfather Coda: The Death of Michael Corleone",
+     "format": "Recut of Part III"
+    }
+   ]
+  },
+  {
+   "id": "cur-kill-bill",
+   "name": "Kill Bill",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Kill Bill: Vol. 1",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Kill Bill: Volume 1"
+    },
+    {
+     "title": "Kill Bill: Vol. 2",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Kill Bill: Volume 2"
+    },
+    {
+     "title": "Kill Bill: The Whole Bloody Affair",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Kill Bill: The Whole Bloody Affair",
+     "format": "Combined cut"
+    }
+   ]
+  },
+  {
+   "id": "cur-top-gun",
+   "name": "Top Gun",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Top Gun",
+     "year": 1986,
+     "type": "movie",
+     "wiki": "Top Gun"
+    },
+    {
+     "title": "Top Gun: Maverick",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Top Gun: Maverick"
+    }
+   ]
+  },
+  {
+   "id": "cur-gladiator",
+   "name": "Gladiator",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Gladiator",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Gladiator (2000 film)"
+    },
+    {
+     "title": "Gladiator II",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Gladiator II"
+    }
+   ]
+  },
+  {
+   "id": "cur-jumanji",
+   "name": "Jumanji",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Jumanji",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "Jumanji"
+    },
+    {
+     "title": "Jumanji",
+     "year": 1996,
+     "type": "tv",
+     "wiki": "Jumanji (TV series)"
+    },
+    {
+     "title": "Zathura: A Space Adventure",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Zathura: A Space Adventure"
+    },
+    {
+     "title": "Jumanji: Welcome to the Jungle",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Jumanji: Welcome to the Jungle"
+    },
+    {
+     "title": "Jumanji: The Next Level",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Jumanji: The Next Level"
+    }
+   ]
+  },
+  {
+   "id": "cur-ted",
+   "name": "Ted",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Ted",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Ted (film)"
+    },
+    {
+     "title": "Ted 2",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Ted 2"
+    },
+    {
+     "title": "ted",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Ted (TV series)"
+    }
+   ]
+  },
+  {
+   "id": "cur-spy-kids",
+   "name": "Spy Kids",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Spy Kids",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Spy Kids"
+    },
+    {
+     "title": "Spy Kids 2: The Island of Lost Dreams",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Spy Kids 2: The Island of Lost Dreams"
+    },
+    {
+     "title": "Spy Kids 3-D: Game Over",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Spy Kids 3-D: Game Over"
+    },
+    {
+     "title": "Spy Kids: All the Time in the World",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Spy Kids: All the Time in the World"
+    },
+    {
+     "title": "Spy Kids: Mission Critical",
+     "year": 2018,
+     "type": "tv",
+     "wiki": "Spy Kids: Mission Critical"
+    },
+    {
+     "title": "Spy Kids: Armageddon",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Spy Kids: Armageddon"
+    }
+   ]
+  },
+  {
+   "id": "cur-fifty-shades",
+   "name": "Fifty Shades",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Fifty Shades of Grey",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Fifty Shades of Grey (film)"
+    },
+    {
+     "title": "Fifty Shades Darker",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Fifty Shades Darker (film)"
+    },
+    {
+     "title": "Fifty Shades Freed",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Fifty Shades Freed (film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-diary-of-a-wimpy-kid",
+   "name": "Diary of a Wimpy Kid",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Diary of a Wimpy Kid",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Diary of a Wimpy Kid (2010 film)"
+    },
+    {
+     "title": "Diary of a Wimpy Kid: Rodrick Rules",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Diary of a Wimpy Kid: Rodrick Rules (2011 film)"
+    },
+    {
+     "title": "Diary of a Wimpy Kid: Dog Days",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Diary of a Wimpy Kid: Dog Days (film)"
+    },
+    {
+     "title": "Diary of a Wimpy Kid: The Long Haul",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Diary of a Wimpy Kid: The Long Haul (film)"
+    },
+    {
+     "title": "Diary of a Wimpy Kid",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Diary of a Wimpy Kid (2021 film)",
+     "format": "Animated"
+    },
+    {
+     "title": "Diary of a Wimpy Kid: Rodrick Rules",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Diary of a Wimpy Kid: Rodrick Rules (2022 film)",
+     "format": "Animated"
+    },
+    {
+     "title": "Diary of a Wimpy Kid Christmas: Cabin Fever",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Diary of a Wimpy Kid Christmas: Cabin Fever",
+     "format": "Animated"
+    },
+    {
+     "title": "Diary of a Wimpy Kid: The Last Straw",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Diary of a Wimpy Kid: The Last Straw (film)",
+     "format": "Animated"
+    }
+   ]
+  },
+  {
+   "id": "cur-high-school-musical",
+   "name": "High School Musical",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "High School Musical",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "High School Musical"
+    },
+    {
+     "title": "High School Musical 2",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "High School Musical 2"
+    },
+    {
+     "title": "High School Musical 3: Senior Year",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "High School Musical 3: Senior Year"
+    },
+    {
+     "title": "Sharpay's Fabulous Adventure",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Sharpay's Fabulous Adventure"
+    },
+    {
+     "title": "High School Musical: The Musical: The Series",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "High School Musical: The Musical: The Series"
+    }
+   ]
+  },
+  {
+   "id": "cur-camp-rock",
+   "name": "Camp Rock",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Camp Rock",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Camp Rock"
+    },
+    {
+     "title": "Camp Rock 2: The Final Jam",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Camp Rock 2: The Final Jam"
+    },
+    {
+     "title": "Camp Rock 3",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Camp Rock 3"
+    }
+   ]
+  },
+  {
+   "id": "cur-hannah-montana",
+   "name": "Hannah Montana",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Hannah Montana",
+     "year": 2006,
+     "type": "tv",
+     "wiki": "Hannah Montana"
+    },
+    {
+     "title": "Hannah Montana: The Movie",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Hannah Montana: The Movie"
+    },
+    {
+     "title": "Hannah Montana 20th Anniversary Special",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Hannah Montana 20th Anniversary Special",
+     "format": "TV special"
+    }
+   ]
+  },
+  {
+   "id": "cur-wizards-of-waverly-place",
+   "name": "Wizards of Waverly Place",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Wizards of Waverly Place",
+     "year": 2007,
+     "type": "tv",
+     "wiki": "Wizards of Waverly Place"
+    },
+    {
+     "title": "Wizards of Waverly Place: The Movie",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Wizards of Waverly Place: The Movie"
+    },
+    {
+     "title": "The Wizards Return: Alex vs. Alex",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "The Wizards Return: Alex vs. Alex",
+     "format": "TV special"
+    },
+    {
+     "title": "Wizards Beyond Waverly Place",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Wizards Beyond Waverly Place"
+    }
+   ]
+  },
+  {
+   "id": "cur-the-sandlot",
+   "name": "The Sandlot",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "The Sandlot",
+     "year": 1993,
+     "type": "movie",
+     "wiki": "The Sandlot"
+    },
+    {
+     "title": "The Sandlot 2",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "The Sandlot 2"
+    },
+    {
+     "title": "The Sandlot: Heading Home",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "The Sandlot: Heading Home"
+    }
+   ]
+  },
+  {
+   "id": "cur-psych",
+   "name": "Psych",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Psych",
+     "year": 2006,
+     "type": "tv",
+     "wiki": "Psych"
+    },
+    {
+     "title": "Psych: The Movie",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Psych: The Movie",
+     "format": "TV film"
+    },
+    {
+     "title": "Psych 2: Lassie Come Home",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Psych 2: Lassie Come Home"
+    },
+    {
+     "title": "Psych 3: This Is Gus",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Psych 3: This Is Gus"
+    }
+   ]
+  },
+  {
+   "id": "cur-criminal-minds",
+   "name": "Criminal Minds",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Criminal Minds",
+     "year": 2005,
+     "type": "tv",
+     "wiki": "Criminal Minds"
+    },
+    {
+     "title": "Criminal Minds: Suspect Behavior",
+     "year": 2011,
+     "type": "tv",
+     "wiki": "Criminal Minds: Suspect Behavior"
+    },
+    {
+     "title": "Criminal Minds: Beyond Borders",
+     "year": 2016,
+     "type": "tv",
+     "wiki": "Criminal Minds: Beyond Borders"
+    },
+    {
+     "title": "Criminal Minds: Evolution",
+     "year": 2022,
+     "type": "tv",
+     "aka": [
+      "Criminal Minds (season 16–)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-hawaii-five-o",
+   "name": "Hawaii Five-O",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Hawaii Five-O",
+     "year": 1968,
+     "type": "tv",
+     "wiki": "Hawaii Five-O (1968 TV series)"
+    },
+    {
+     "title": "Hawaii Five-0",
+     "year": 2010,
+     "type": "tv",
+     "wiki": "Hawaii Five-0 (2010 TV series)"
+    }
+   ]
+  },
+  {
+   "id": "cur-baywatch",
+   "name": "Baywatch",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Baywatch",
+     "year": 1989,
+     "type": "tv",
+     "wiki": "Baywatch"
+    },
+    {
+     "title": "Baywatch Nights",
+     "year": 1995,
+     "type": "tv",
+     "wiki": "Baywatch Nights"
+    },
+    {
+     "title": "Baywatch the Movie: Forbidden Paradise",
+     "year": 1995,
+     "type": "movie",
+     "format": "TV film"
+    },
+    {
+     "title": "Baywatch: White Thunder at Glacier Bay",
+     "year": 1998,
+     "type": "movie",
+     "format": "TV film"
+    },
+    {
+     "title": "Baywatch: Hawaiian Wedding",
+     "year": 2003,
+     "type": "movie",
+     "format": "TV film"
+    },
+    {
+     "title": "Baywatch",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Baywatch (film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-friends",
+   "name": "Friends",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Friends",
+     "year": 1994,
+     "type": "tv",
+     "wiki": "Friends"
+    },
+    {
+     "title": "Joey",
+     "year": 2004,
+     "type": "tv",
+     "wiki": "Joey (TV series)"
+    },
+    {
+     "title": "Friends: The Reunion",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Friends: The Reunion",
+     "format": "TV special"
+    }
+   ]
+  },
+  {
+   "id": "cur-full-house",
+   "name": "Full House",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Full House",
+     "year": 1987,
+     "type": "tv",
+     "wiki": "Full House"
+    },
+    {
+     "title": "Fuller House",
+     "year": 2016,
+     "type": "tv",
+     "wiki": "Fuller House (TV series)"
+    }
+   ]
+  },
+  {
+   "id": "cur-the-office",
+   "name": "The Office",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "The Office",
+     "year": 2001,
+     "type": "tv",
+     "wiki": "The Office (British TV series)",
+     "aka": [
+      "The Office (UK)"
+     ]
+    },
+    {
+     "title": "The Office",
+     "year": 2005,
+     "type": "tv",
+     "wiki": "The Office (American TV series)",
+     "aka": [
+      "The Office (US)"
+     ]
+    },
+    {
+     "title": "The Paper",
+     "year": 2025,
+     "type": "tv",
+     "wiki": "The Paper (TV series)"
+    }
+   ]
+  },
+  {
+   "id": "cur-its-always-sunny-in-philadelphia",
+   "name": "It's Always Sunny in Philadelphia",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "It's Always Sunny in Philadelphia",
+     "year": 2005,
+     "type": "tv",
+     "wiki": "It's Always Sunny in Philadelphia"
+    },
+    {
+     "title": "A Very Sunny Christmas",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "A Very Sunny Christmas",
+     "format": "Direct-to-video special"
+    }
+   ]
+  },
+  {
+   "id": "cur-jury-duty",
+   "name": "Jury Duty",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Jury Duty",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "Jury Duty (TV series)"
+    },
+    {
+     "title": "Jury Duty Presents: Company Retreat",
+     "year": 2026,
+     "type": "tv"
+    }
+   ]
+  },
+  {
+   "id": "cur-nirvanna-the-band-the-show",
+   "name": "Nirvanna the Band the Show",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Nirvanna the Band the Show (web series)",
+     "year": 2007,
+     "type": "tv",
+     "format": "Web series"
+    },
+    {
+     "title": "Nirvanna the Band the Show",
+     "year": 2016,
+     "type": "tv",
+     "wiki": "Nirvanna the Band the Show"
+    },
+    {
+     "title": "Nirvanna the Band the Show the Movie",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Nirvanna the Band the Show the Movie"
+    }
+   ]
+  },
+  {
+   "id": "cur-game-of-thrones",
+   "name": "Game of Thrones (A Song of Ice and Fire)",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Game of Thrones",
+     "year": 2011,
+     "type": "tv",
+     "wiki": "Game of Thrones"
+    },
+    {
+     "title": "Game of Thrones: The Last Watch",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Game of Thrones: The Last Watch",
+     "format": "Documentary"
+    },
+    {
+     "title": "House of the Dragon",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "House of the Dragon"
+    },
+    {
+     "title": "A Knight of the Seven Kingdoms",
+     "year": 2026,
+     "type": "tv",
+     "wiki": "A Knight of the Seven Kingdoms (TV series)"
+    }
+   ]
+  },
+  {
+   "id": "cur-breaking-bad",
+   "name": "Breaking Bad",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Breaking Bad",
+     "year": 2008,
+     "type": "tv",
+     "wiki": "Breaking Bad"
+    },
+    {
+     "title": "Better Call Saul",
+     "year": 2015,
+     "type": "tv",
+     "wiki": "Better Call Saul"
+    },
+    {
+     "title": "El Camino: A Breaking Bad Movie",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "El Camino: A Breaking Bad Movie"
+    }
+   ]
+  },
+  {
+   "id": "cur-the-boys",
+   "name": "The Boys",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "The Boys",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "The Boys (TV series)"
+    },
+    {
+     "title": "The Boys Presents: Diabolical",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "The Boys Presents: Diabolical"
+    },
+    {
+     "title": "Gen V",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "Gen V"
+    }
+   ]
+  },
+  {
+   "id": "cur-stranger-things",
+   "name": "Stranger Things",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Stranger Things",
+     "year": 2016,
+     "type": "tv",
+     "wiki": "Stranger Things"
+    },
+    {
+     "title": "Stranger Things: Tales from '85",
+     "year": 2026,
+     "type": "tv",
+     "wiki": "Stranger Things: Tales from '85"
+    }
+   ]
+  },
+  {
+   "id": "cur-squid-game",
+   "name": "Squid Game",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Squid Game",
+     "year": 2021,
+     "type": "tv",
+     "wiki": "Squid Game"
+    },
+    {
+     "title": "Squid Game: The Challenge",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "Squid Game: The Challenge"
+    }
+   ]
+  },
+  {
+   "id": "cur-little-shop-of-horrors",
+   "name": "Little Shop of Horrors",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "The Little Shop of Horrors",
+     "year": 1960,
+     "type": "movie",
+     "wiki": "The Little Shop of Horrors"
+    },
+    {
+     "title": "Little Shop of Horrors",
+     "year": 1986,
+     "type": "movie",
+     "wiki": "Little Shop of Horrors (film)"
+    },
+    {
+     "title": "Little Shop",
+     "year": 1991,
+     "type": "tv",
+     "wiki": "Little Shop"
+    }
+   ]
+  },
+  {
+   "id": "cur-the-producers",
+   "name": "The Producers",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "The Producers",
+     "year": 1968,
+     "type": "movie",
+     "wiki": "The Producers (1967 film)"
+    },
+    {
+     "title": "The Producers",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "The Producers (2005 film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-west-side-story",
+   "name": "West Side Story",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "West Side Story",
+     "year": 1961,
+     "type": "movie",
+     "wiki": "West Side Story (1961 film)"
+    },
+    {
+     "title": "West Side Story",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "West Side Story (2021 film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-newsies",
+   "name": "Newsies",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Newsies",
+     "year": 1992,
+     "type": "movie",
+     "wiki": "Newsies"
+    },
+    {
+     "title": "Newsies",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Newsies (musical)",
+     "format": "Filmed stage musical",
+     "aka": [
+      "Disney's Newsies: The Broadway Musical"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-x-trilogy",
+   "name": "X (Ti West Trilogy)",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "X",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "X (2022 film)"
+    },
+    {
+     "title": "Pearl",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Pearl (2022 film)"
+    },
+    {
+     "title": "MaXXXine",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "MaXXXine"
+    }
+   ]
+  },
+  {
+   "id": "cur-five-nights-at-freddys",
+   "name": "Five Nights at Freddy's",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Five Nights at Freddy's",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Five Nights at Freddy's (film)"
+    },
+    {
+     "title": "Five Nights at Freddy's 2",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Five Nights at Freddy's 2 (film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-american-psycho",
+   "name": "American Psycho",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "American Psycho",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "American Psycho (film)"
+    },
+    {
+     "title": "American Psycho II: All American Girl",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "American Psycho 2",
+     "aka": [
+      "American Psycho 2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-death-note",
+   "name": "Death Note",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Death Note",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Death Note (2006 film)",
+     "format": "Live-action"
+    },
+    {
+     "title": "Death Note",
+     "year": 2006,
+     "type": "tv",
+     "wiki": "Death Note (2006 TV series)"
+    },
+    {
+     "title": "Death Note 2: The Last Name",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Death Note 2: The Last Name",
+     "format": "Live-action"
+    },
+    {
+     "title": "Death Note Relight 1: Visions of a God",
+     "year": 2007,
+     "type": "movie",
+     "format": "TV special"
+    },
+    {
+     "title": "L: Change the World",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "L: Change the World",
+     "format": "Live-action"
+    },
+    {
+     "title": "Death Note Relight 2: L's Successors",
+     "year": 2009,
+     "type": "movie",
+     "format": "TV special"
+    },
+    {
+     "title": "Death Note",
+     "year": 2015,
+     "type": "tv",
+     "wiki": "Death Note (2015 TV series)",
+     "format": "Live-action"
+    },
+    {
+     "title": "Death Note: Light Up the New World",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Death Note: Light Up the New World",
+     "format": "Live-action"
+    },
+    {
+     "title": "Death Note",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Death Note (2017 film)",
+     "format": "Live-action"
+    }
+   ]
+  },
+  {
+   "id": "cur-blue-exorcist",
+   "name": "Blue Exorcist",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Blue Exorcist",
+     "year": 2011,
+     "type": "tv",
+     "wiki": "Blue Exorcist"
+    },
+    {
+     "title": "Blue Exorcist: The Movie",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Blue Exorcist: The Movie"
+    },
+    {
+     "title": "Blue Exorcist: Kyoto Saga",
+     "year": 2017,
+     "type": "tv"
+    },
+    {
+     "title": "Blue Exorcist: Shimane Illuminati Saga",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Blue Exorcist season 3"
+    },
+    {
+     "title": "Blue Exorcist: Beyond the Snow Saga",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Blue Exorcist season 4"
+    },
+    {
+     "title": "Blue Exorcist: The Blue Night Saga",
+     "year": 2025,
+     "type": "tv"
+    }
+   ]
+  },
+  {
+   "id": "cur-rascal-does-not-dream",
+   "name": "Rascal Does Not Dream",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+     "year": 2018,
+     "type": "tv",
+     "wiki": "Rascal Does Not Dream"
+    },
+    {
+     "title": "Rascal Does Not Dream of a Dreaming Girl",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Rascal Does Not Dream of a Dreaming Girl"
+    },
+    {
+     "title": "Rascal Does Not Dream of a Sister Venturing Out",
+     "year": 2023,
+     "type": "movie"
+    },
+    {
+     "title": "Rascal Does Not Dream of a Knapsack Kid",
+     "year": 2023,
+     "type": "movie"
+    },
+    {
+     "title": "Rascal Does Not Dream of Santa Claus",
+     "year": 2025,
+     "type": "tv"
+    }
+   ]
+  },
+  {
+   "id": "cur-ghost-in-the-shell",
+   "name": "Ghost in the Shell",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Ghost in the Shell",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "Ghost in the Shell (1995 film)"
+    },
+    {
+     "title": "Ghost in the Shell: Stand Alone Complex",
+     "year": 2002,
+     "type": "tv",
+     "wiki": "Ghost in the Shell: Stand Alone Complex"
+    },
+    {
+     "title": "Ghost in the Shell 2: Innocence",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Ghost in the Shell 2: Innocence"
+    },
+    {
+     "title": "Ghost in the Shell: S.A.C. 2nd GIG",
+     "year": 2004,
+     "type": "tv"
+    },
+    {
+     "title": "Ghost in the Shell: Stand Alone Complex – Solid State Society",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Ghost in the Shell: Stand Alone Complex – Solid State Society"
+    },
+    {
+     "title": "Ghost in the Shell 2.0",
+     "year": 2008,
+     "type": "movie",
+     "format": "Remaster"
+    },
+    {
+     "title": "Ghost in the Shell: Arise",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Ghost in the Shell: Arise",
+     "format": "OVA series"
+    },
+    {
+     "title": "Ghost in the Shell: Arise – Alternative Architecture",
+     "year": 2015,
+     "type": "tv"
+    },
+    {
+     "title": "Ghost in the Shell: The New Movie",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Ghost in the Shell: The New Movie"
+    },
+    {
+     "title": "Ghost in the Shell",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Ghost in the Shell (2017 film)",
+     "format": "Live-action"
+    },
+    {
+     "title": "Ghost in the Shell: SAC_2045",
+     "year": 2020,
+     "type": "tv",
+     "wiki": "Ghost in the Shell: SAC_2045"
+    },
+    {
+     "title": "The Ghost in the Shell",
+     "year": 2026,
+     "type": "tv",
+     "wiki": "The Ghost in the Shell (2026 TV series)"
+    }
+   ]
+  },
+  {
+   "id": "cur-south-park",
+   "name": "South Park",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "The Spirit of Christmas",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "The Spirit of Christmas (short film)",
+     "format": "Short"
+    },
+    {
+     "title": "South Park",
+     "year": 1997,
+     "type": "tv",
+     "wiki": "South Park"
+    },
+    {
+     "title": "South Park: Bigger, Longer & Uncut",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "South Park: Bigger, Longer & Uncut"
+    },
+    {
+     "title": "South Park: Imaginationland",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Imaginationland",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "South Park: Post COVID",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "South Park: Post Covid",
+     "format": "TV special"
+    },
+    {
+     "title": "South Park: Post COVID: The Return of COVID",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "South Park: Post Covid: The Return of Covid",
+     "format": "TV special"
+    },
+    {
+     "title": "South Park the Streaming Wars",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "South Park the Streaming Wars",
+     "format": "TV special"
+    },
+    {
+     "title": "South Park the Streaming Wars Part 2",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "South Park the Streaming Wars Part 2",
+     "format": "TV special"
+    },
+    {
+     "title": "South Park: The 25th Anniversary Concert",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "South Park: The 25th Anniversary Concert",
+     "format": "TV special"
+    },
+    {
+     "title": "South Park: Joining the Panderverse",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "South Park: Joining the Panderverse",
+     "format": "TV special"
+    },
+    {
+     "title": "South Park (Not Suitable for Children)",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "South Park (Not Suitable for Children)",
+     "format": "TV special"
+    },
+    {
+     "title": "South Park: The End of Obesity",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "South Park: The End of Obesity",
+     "format": "TV special"
+    }
+   ]
+  },
+  {
+   "id": "cur-regular-show",
+   "name": "Regular Show",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Regular Show",
+     "year": 2010,
+     "type": "tv",
+     "wiki": "Regular Show"
+    },
+    {
+     "title": "Regular Show: The Movie",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Regular Show: The Movie"
+    },
+    {
+     "title": "Regular Show: The Lost Tapes",
+     "year": 2026,
+     "type": "tv",
+     "wiki": "Regular Show: The Lost Tapes"
+    }
+   ]
+  },
+  {
+   "id": "cur-the-amazing-digital-circus",
+   "name": "The Amazing Digital Circus",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "The Amazing Digital Circus",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "The Amazing Digital Circus"
+    },
+    {
+     "title": "The Amazing Digital Circus The Last Act",
+     "year": 2026,
+     "type": "movie",
+     "aka": [
+      "The Amazing Digital Circus: The Last Act"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-disneynature",
+   "name": "Disneynature",
+   "kind": "Studio",
+   "items": [
+    {
+     "title": "Earth",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Earth (2007 film)"
+    },
+    {
+     "title": "The Crimson Wing: Mystery of the Flamingos",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "The Crimson Wing: Mystery of the Flamingos"
+    },
+    {
+     "title": "OceanWorld 3D",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "OceanWorld 3D"
+    },
+    {
+     "title": "Oceans",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Oceans (film)"
+    },
+    {
+     "title": "Wings of Life",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Wings of Life"
+    },
+    {
+     "title": "African Cats",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "African Cats"
+    },
+    {
+     "title": "Chimpanzee",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Chimpanzee (film)"
+    },
+    {
+     "title": "Bears",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Bears (film)"
+    },
+    {
+     "title": "Monkey Kingdom",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Monkey Kingdom"
+    },
+    {
+     "title": "Growing Up Wild",
+     "year": 2016,
+     "type": "movie",
+     "format": "Compilation"
+    },
+    {
+     "title": "Born in China",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Born in China"
+    },
+    {
+     "title": "March of the Penguins 2: The Next Step",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "March of the Penguins 2: The Next Step",
+     "aka": [
+      "L'Empereur"
+     ]
+    },
+    {
+     "title": "Ghost Of The Mountains",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Ghost of the Mountains",
+     "aka": [
+      "Ghost of the Mountains"
+     ]
+    },
+    {
+     "title": "Expedition China",
+     "year": 2017,
+     "type": "movie"
+    },
+    {
+     "title": "Penguins",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Penguins (film)"
+    },
+    {
+     "title": "Dolphin Reef",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Dolphin Reef (film)",
+     "aka": [
+      "Blue"
+     ]
+    },
+    {
+     "title": "Elephant",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Elephant (2020 film)"
+    },
+    {
+     "title": "Polar Bear",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Polar Bear (film)"
+    },
+    {
+     "title": "Tiger",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Tiger (2024 film)"
+    },
+    {
+     "title": "Sea Lions of the Galapagos",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Sea Lions of the Galapagos"
+    },
+    {
+     "title": "Orangutan",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Orangutan (film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-bbc-planet-series",
+   "name": "BBC Planet Series",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "The Blue Planet",
+     "year": 2001,
+     "type": "tv",
+     "wiki": "The Blue Planet"
+    },
+    {
+     "title": "Planet Earth",
+     "year": 2006,
+     "type": "tv",
+     "wiki": "Planet Earth (2006 TV series)"
+    },
+    {
+     "title": "Frozen Planet",
+     "year": 2011,
+     "type": "tv",
+     "wiki": "Frozen Planet"
+    },
+    {
+     "title": "Planet Earth II",
+     "year": 2016,
+     "type": "tv",
+     "wiki": "Planet Earth II"
+    },
+    {
+     "title": "Blue Planet II",
+     "year": 2017,
+     "type": "tv",
+     "wiki": "Blue Planet II"
+    },
+    {
+     "title": "Frozen Planet II",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "Frozen Planet II"
+    },
+    {
+     "title": "Planet Earth III",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "Planet Earth III"
+    }
+   ]
+  }
+ ]
+}

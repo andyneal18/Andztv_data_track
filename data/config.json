@@ -1,0 +1,4 @@
+{
+  "contact": "andy@isellbeer.com",
+  "_note": "contact is sent only to Wikimedia (Wikipedia/Wikidata) in the User-Agent header, as their API policy asks. Clear it to stop sending it (lookups get much slower)."
+}

@@ -1,0 +1,109 @@
+# andztv library
+
+A local app for keeping track of the Jellyfin collection: what's on the server,
+what's mid-rip, what's still missing, and who asked for what.
+
+## Start it
+
+Double-click **`Start andztv.command`**, or in a terminal:
+
+```
+node server.js
+```
+
+Then open <http://localhost:4545>. (Needs Node 18+; no installs needed.)
+
+## Run it 24/7 on the EliteDesk (and reach it from your phone anywhere)
+
+**1. Copy this folder to the EliteDesk.** From the Mac's Terminal (swap in your EliteDesk's
+user name and IP address — the IP is on the EliteDesk under Settings → Network, or run `hostname -I` there):
+
+```
+rsync -av "/Users/andz/Documents/andztv data/" andz@192.168.1.50:~/andztv/
+```
+(Or copy it over with a USB stick to `~/andztv`.)
+
+**2. Install it as a service.** On the EliteDesk (or `ssh andz@192.168.1.50` from the Mac):
+
+```
+cd ~/andztv && ./deploy/install.sh
+```
+It installs Node if needed, asks if you want a password, and starts andztv so it runs on every
+boot and restarts if it crashes. It prints the address to use at home (e.g. `http://192.168.1.50:4545`).
+
+**3. Reach it away from home with Tailscale** (free, private — nothing is opened to the internet):
+- On the EliteDesk: `curl -fsSL https://tailscale.com/install.sh | sh` then `sudo tailscale up` and sign in.
+- On your phone: install the **Tailscale** app and sign in with the same account.
+- Open `http://<elitedesk-name>:4545` on your phone (the name is shown in the Tailscale app),
+  or run `sudo tailscale serve --bg 4545` on the EliteDesk for an `https://…ts.net` address.
+- Tap Share → **Add to Home Screen** for an app icon.
+
+The same trick works for Jellyfin: `http://<elitedesk-name>:8096` over Tailscale.
+
+**4. Stop using the Mac copy.** From then on the EliteDesk copy is the real one — make changes
+there (from any device). To ship code updates from the Mac later: `./deploy/push.sh andz@192.168.1.50`
+(it never touches your library or posters on the EliteDesk).
+
+Handy on the EliteDesk: `sudo systemctl restart andztv`, `journalctl -u andztv -f` (logs).
+Change the password by re-running `./deploy/install.sh`.
+
+## The three statuses
+
+| | Status | Means |
+|---|---|---|
+| 🟢 | **Downloaded** | On Jellyfin and watchable |
+| 🟠 | **In Progress** | Ripping / waiting for you to check the rip. Nothing moves to Downloaded until you mark it. "Rip failed" sends it back to Don't Have |
+| 🔴 | **Don't Have** | Collection gaps, things you want, and requests |
+
+Don't Have has its own filters: **Requests** (from friends and family),
+**Wishlist** (things you added yourself), and **Collection gaps** (missing parts of a series).
+
+## Pages
+
+- **Collections** (home): one card per series or franchise, showing how much you have (e.g. *The Godfather: 2 of 3, 67%*). Click any status pill to change it. ✏️ opens the title, 🗑 removes it from that collection (with Undo). The ⋯ menu renames, reorders, adds a title, or deletes the collection. **+ New collection** makes your own.
+- **Up Next**: what to rip next. **Ripping now** (check each rip, then mark it ✓ On Jellyfin or Rip failed), **Priority requests**, then **Finish a collection** (missing pieces, closest-to-complete first).
+- **Failed**: rips that went wrong ("Rip failed" in Up Next, the status menu, or a title's page). "Try again" puts it back to In Progress; ✕ clears it off the list.
+- **✕ next to any status pill** in a collection removes that title from the collection (Undo in the toast). A gap you remove this way is gone for good, even when collections are refreshed.
+- **Requests**: log a request (who, priority, note). It also shows up in Don't Have, and gets marked fulfilled automatically when the title hits Jellyfin.
+- **Masterlist**: every title as posters in the three sections. Click a counter to show just that section.
+
+Press `/` to jump to search. Search also finds networks, streamers and studios: "disney channel", "netflix",
+"hbo", "pixar", "a24"… (looked up by `tools/find_networks.py`, which ↻ Find collections runs too).
+
+## Data
+
+- `data/library.json`: your whole library. The app saves here automatically.
+- `data/backups/`: a rolling backup is saved at most every 10 minutes (last 40 kept).
+- `posters/`: downloaded artwork.
+- `data/spreadsheet_export.json`: the original import from `Masterlist.numbers`.
+- **Export CSV** (Masterlist page) gives you a spreadsheet of everything.
+
+## Collections: where they come from
+
+1. **Hand-curated lists** in `data/curated/*.json` (Disney, Pixar/DreamWorks/other studios,
+   Marvel, DC, Muppets/Henson/cartoons, live-action franchises). These go deep: TV specials,
+   spin-off series, direct-to-video. Official releases only, no fan films (Spider-Man: Lotus is the
+   one exception). Superhero lists overlap on purpose (e.g. a Spider-Man film can be in both
+   *Spider-Man* and *MCU*; DCU, DCEU and DCAU are separate).
+2. **Director collections** (`data/curated/directors.json`) for directors you collect — generated by
+   `python3 tools/find_directors.py --write`; edit the `PICK` list in that file to add/remove directors.
+3. **Wikidata** fills in series for everything else.
+
+Smaller collections that fit inside a broader one get folded in (Toy Story → Pixar,
+Frozen → Walt Disney Animation Studios). To add or fix a curated list, edit its JSON file and
+press **↻ Find collections** (or run the tools below).
+
+## Tools (optional)
+
+```
+python3 tools/find_collections.py   # find series on Wikidata for everything else
+python3 tools/apply_curated.py      # apply data/curated/*.json
+python3 tools/enrich.py             # match new titles and fetch posters
+```
+
+The **↻ Find collections** button runs all three. Collections you've edited, and titles or
+collections you've deleted, are left alone on re-runs.
+
+Artwork and matching come from Wikipedia/Wikidata (movies) and TVmaze (TV).
+`data/config.json` holds the contact email Wikimedia asks tools to send. Clear it
+if you'd rather not send it, but lookups will be much slower.

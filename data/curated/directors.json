@@ -1,0 +1,1605 @@
+{
+ "collections": [
+  {
+   "id": "cur-dir-q8877",
+   "name": "Steven Spielberg",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "Firelight",
+     "year": 1964,
+     "type": "movie",
+     "wiki": "Firelight (1964 film)"
+    },
+    {
+     "title": "Duel",
+     "year": 1971,
+     "type": "movie",
+     "wiki": "Duel (1971 film)"
+    },
+    {
+     "title": "Something Evil",
+     "year": 1972,
+     "type": "movie",
+     "wiki": "Something Evil"
+    },
+    {
+     "title": "Watch Dog",
+     "year": 1973,
+     "type": "movie",
+     "wiki": "Savage (1973 TV film)"
+    },
+    {
+     "title": "The Sugarland Express",
+     "year": 1974,
+     "type": "movie",
+     "wiki": "The Sugarland Express"
+    },
+    {
+     "title": "Jaws",
+     "year": 1975,
+     "type": "movie",
+     "wiki": "Jaws (film)"
+    },
+    {
+     "title": "Close Encounters of the Third Kind",
+     "year": 1977,
+     "type": "movie",
+     "wiki": "Close Encounters of the Third Kind"
+    },
+    {
+     "title": "1941",
+     "year": 1979,
+     "type": "movie",
+     "wiki": "1941 (film)"
+    },
+    {
+     "title": "Indiana Jones and the Raiders of the Lost Ark",
+     "year": 1981,
+     "type": "movie",
+     "wiki": "Raiders of the Lost Ark",
+     "aka": [
+      "Raiders of the Lost Ark"
+     ]
+    },
+    {
+     "title": "E.T. the Extra-Terrestrial",
+     "year": 1982,
+     "type": "movie",
+     "wiki": "E.T. the Extra-Terrestrial"
+    },
+    {
+     "title": "Twilight Zone: The Movie",
+     "year": 1983,
+     "type": "movie",
+     "wiki": "Twilight Zone: The Movie"
+    },
+    {
+     "title": "Indiana Jones and the Temple of Doom",
+     "year": 1984,
+     "type": "movie",
+     "wiki": "Indiana Jones and the Temple of Doom"
+    },
+    {
+     "title": "The Color Purple",
+     "year": 1985,
+     "type": "movie",
+     "wiki": "The Color Purple (1985 film)"
+    },
+    {
+     "title": "Empire of the Sun",
+     "year": 1987,
+     "type": "movie",
+     "wiki": "Empire of the Sun (film)"
+    },
+    {
+     "title": "Always",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "Always (1989 film)"
+    },
+    {
+     "title": "Indiana Jones and the Last Crusade",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "Indiana Jones and the Last Crusade"
+    },
+    {
+     "title": "Hook",
+     "year": 1991,
+     "type": "movie",
+     "wiki": "Hook (film)"
+    },
+    {
+     "title": "Schindler's List",
+     "year": 1993,
+     "type": "movie",
+     "wiki": "Schindler's List"
+    },
+    {
+     "title": "Jurassic Park",
+     "year": 1993,
+     "type": "movie",
+     "wiki": "Jurassic Park"
+    },
+    {
+     "title": "Amistad",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Amistad (film)"
+    },
+    {
+     "title": "Jurassic Park The Lost World",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "The Lost World: Jurassic Park",
+     "aka": [
+      "The Lost World: Jurassic Park"
+     ]
+    },
+    {
+     "title": "Saving Private Ryan",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "Saving Private Ryan"
+    },
+    {
+     "title": "A.I. Artificial Intelligence",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "A.I. Artificial Intelligence"
+    },
+    {
+     "title": "Catch Me If You Can",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Catch Me If You Can"
+    },
+    {
+     "title": "Minority Report",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Minority Report"
+    },
+    {
+     "title": "The Terminal",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "The Terminal"
+    },
+    {
+     "title": "War of the Worlds",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "War of the Worlds (2005 film)"
+    },
+    {
+     "title": "Munich",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Munich (2005 film)"
+    },
+    {
+     "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Indiana Jones and the Kingdom of the Crystal Skull"
+    },
+    {
+     "title": "The Adventures of Tintin",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "The Adventures of Tintin (film)"
+    },
+    {
+     "title": "War Horse",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "War Horse (film)"
+    },
+    {
+     "title": "Lincoln",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Lincoln (film)"
+    },
+    {
+     "title": "Bridge of Spies",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Bridge of Spies (film)"
+    },
+    {
+     "title": "The BFG",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "The BFG (2016 film)"
+    },
+    {
+     "title": "The Post",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "The Post (film)"
+    },
+    {
+     "title": "Ready Player One",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Ready Player One (film)"
+    },
+    {
+     "title": "West Side Story",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "West Side Story (2021 film)"
+    },
+    {
+     "title": "The Fabelmans",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "The Fabelmans"
+    },
+    {
+     "title": "Disclosure Day",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Disclosure Day"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q25191",
+   "name": "Christopher Nolan",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "Following",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "Following"
+    },
+    {
+     "title": "Memento",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Memento (film)"
+    },
+    {
+     "title": "Insomnia",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Insomnia (2002 film)"
+    },
+    {
+     "title": "Batman Begins",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Batman Begins"
+    },
+    {
+     "title": "The Prestige",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "The Prestige"
+    },
+    {
+     "title": "The Dark Knight",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "The Dark Knight"
+    },
+    {
+     "title": "Inception",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Inception"
+    },
+    {
+     "title": "The Dark Knight Rises",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "The Dark Knight Rises"
+    },
+    {
+     "title": "Interstellar",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Interstellar (film)"
+    },
+    {
+     "title": "Dunkirk",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Dunkirk (2017 film)"
+    },
+    {
+     "title": "Tenet",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Tenet"
+    },
+    {
+     "title": "Oppenheimer",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Oppenheimer (film)"
+    },
+    {
+     "title": "The Odyssey",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "The Odyssey (2026 film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q56008",
+   "name": "Tim Burton",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "The Island of Doctor Agor",
+     "year": 1971,
+     "type": "movie",
+     "wiki": "The Island of Doctor Agor"
+    },
+    {
+     "title": "Hansel and Gretel",
+     "year": 1983,
+     "type": "movie",
+     "wiki": "Hansel and Gretel (1983 TV special)"
+    },
+    {
+     "title": "Pee-wee's Big Adventure",
+     "year": 1985,
+     "type": "movie",
+     "wiki": "Pee-wee's Big Adventure"
+    },
+    {
+     "title": "Beetlejuice",
+     "year": 1988,
+     "type": "movie",
+     "wiki": "Beetlejuice"
+    },
+    {
+     "title": "Batman",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "Batman (1989 film)"
+    },
+    {
+     "title": "Edward Scissorhands",
+     "year": 1990,
+     "type": "movie",
+     "wiki": "Edward Scissorhands"
+    },
+    {
+     "title": "Batman Returns",
+     "year": 1992,
+     "type": "movie",
+     "wiki": "Batman Returns"
+    },
+    {
+     "title": "Ed Wood",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "Ed Wood (film)"
+    },
+    {
+     "title": "Mars Attacks!",
+     "year": 1996,
+     "type": "movie",
+     "wiki": "Mars Attacks!"
+    },
+    {
+     "title": "Sleepy Hollow",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Sleepy Hollow (film)"
+    },
+    {
+     "title": "Planet of the Apes",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Planet of the Apes (2001 film)"
+    },
+    {
+     "title": "Big Fish",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Big Fish"
+    },
+    {
+     "title": "Corpse Bride",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Corpse Bride"
+    },
+    {
+     "title": "Charlie and the Chocolate Factory",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Charlie and the Chocolate Factory (film)"
+    },
+    {
+     "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Sweeney Todd: The Demon Barber of Fleet Street (2007 film)"
+    },
+    {
+     "title": "Alice in Wonderland",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Alice in Wonderland (2010 film)"
+    },
+    {
+     "title": "Frankenweenie",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Frankenweenie (2012 film)"
+    },
+    {
+     "title": "Dark Shadows",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Dark Shadows (film)"
+    },
+    {
+     "title": "Big Eyes",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Big Eyes"
+    },
+    {
+     "title": "Miss Peregrine's Home for Peculiar Children",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Miss Peregrine's Home for Peculiar Children (film)"
+    },
+    {
+     "title": "Dumbo",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Dumbo (2019 film)"
+    },
+    {
+     "title": "Beetlejuice Beetlejuice",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Beetlejuice Beetlejuice"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q187364",
+   "name": "Robert Zemeckis",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "I Wanna Hold Your Hand",
+     "year": 1978,
+     "type": "movie",
+     "wiki": "I Wanna Hold Your Hand (film)"
+    },
+    {
+     "title": "Used Cars",
+     "year": 1980,
+     "type": "movie",
+     "wiki": "Used Cars"
+    },
+    {
+     "title": "Romancing the Stone",
+     "year": 1984,
+     "type": "movie",
+     "wiki": "Romancing the Stone"
+    },
+    {
+     "title": "Back to the Future",
+     "year": 1985,
+     "type": "movie",
+     "wiki": "Back to the Future"
+    },
+    {
+     "title": "Who Framed Roger Rabbit",
+     "year": 1988,
+     "type": "movie",
+     "wiki": "Who Framed Roger Rabbit"
+    },
+    {
+     "title": "Back to the Future Part II",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "Back to the Future Part II"
+    },
+    {
+     "title": "Back to the Future Part III",
+     "year": 1990,
+     "type": "movie",
+     "wiki": "Back to the Future Part III"
+    },
+    {
+     "title": "Two-Fisted Tales",
+     "year": 1991,
+     "type": "movie",
+     "wiki": "Two-Fisted Tales (film)"
+    },
+    {
+     "title": "Death Becomes Her",
+     "year": 1992,
+     "type": "movie",
+     "wiki": "Death Becomes Her"
+    },
+    {
+     "title": "Contact",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Contact (1997 American film)"
+    },
+    {
+     "title": "What Lies Beneath",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "What Lies Beneath"
+    },
+    {
+     "title": "Cast Away",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Cast Away"
+    },
+    {
+     "title": "The Polar Express",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "The Polar Express (film)"
+    },
+    {
+     "title": "Beowulf",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Beowulf (2007 film)"
+    },
+    {
+     "title": "A Christmas Carol",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "A Christmas Carol (2009 film)"
+    },
+    {
+     "title": "Behind the Burly Q",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Behind the Burly Q"
+    },
+    {
+     "title": "Flight",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Flight (2012 film)"
+    },
+    {
+     "title": "The Walk",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "The Walk (2015 film)"
+    },
+    {
+     "title": "Allied",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Allied (film)"
+    },
+    {
+     "title": "Welcome to Marwen",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Welcome to Marwen"
+    },
+    {
+     "title": "The Witches",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "The Witches (2020 film)"
+    },
+    {
+     "title": "Pinocchio",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Pinocchio (2022 live-action film)"
+    },
+    {
+     "title": "Here",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Here (2024 film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q55400",
+   "name": "Hayao Miyazaki",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "Yuki's Sun",
+     "year": 1972,
+     "type": "movie",
+     "wiki": "Yuki's Sun"
+    },
+    {
+     "title": "The Castle of Cagliostro",
+     "year": 1979,
+     "type": "movie",
+     "wiki": "The Castle of Cagliostro"
+    },
+    {
+     "title": "Nausicaä of the Valley of the Wind",
+     "year": 1984,
+     "type": "movie",
+     "wiki": "Nausicaä of the Valley of the Wind (film)"
+    },
+    {
+     "title": "Castle in the Sky",
+     "year": 1986,
+     "type": "movie",
+     "wiki": "Castle in the Sky"
+    },
+    {
+     "title": "My Neighbor Totoro",
+     "year": 1988,
+     "type": "movie",
+     "wiki": "My Neighbor Totoro"
+    },
+    {
+     "title": "Kiki's Delivery Service",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "Kiki's Delivery Service"
+    },
+    {
+     "title": "Nandarō",
+     "year": 1992,
+     "type": "movie",
+     "wiki": "Nandarō"
+    },
+    {
+     "title": "Porco Rosso",
+     "year": 1992,
+     "type": "movie",
+     "wiki": "Porco Rosso"
+    },
+    {
+     "title": "Princess Mononoke",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Princess Mononoke"
+    },
+    {
+     "title": "Spirited Away",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Spirited Away"
+    },
+    {
+     "title": "Howl's Moving Castle",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Howl's Moving Castle (film)"
+    },
+    {
+     "title": "Ponyo",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Ponyo"
+    },
+    {
+     "title": "The Wind Rises",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "The Wind Rises"
+    },
+    {
+     "title": "The Boy and the Heron",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "The Boy and the Heron"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q4465",
+   "name": "Peter Jackson",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "The Valley",
+     "year": 1976,
+     "type": "movie",
+     "wiki": "The Valley (1976 film)"
+    },
+    {
+     "title": "Bad Taste",
+     "year": 1987,
+     "type": "movie",
+     "wiki": "Bad Taste"
+    },
+    {
+     "title": "Meet the Feebles",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "Meet the Feebles"
+    },
+    {
+     "title": "Braindead",
+     "year": 1992,
+     "type": "movie",
+     "wiki": "Braindead (film)"
+    },
+    {
+     "title": "Heavenly Creatures",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "Heavenly Creatures"
+    },
+    {
+     "title": "Forgotten Silver",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "Forgotten Silver"
+    },
+    {
+     "title": "The Frighteners",
+     "year": 1996,
+     "type": "movie",
+     "wiki": "The Frighteners"
+    },
+    {
+     "title": "The Lord of the Rings: The Fellowship of the Ring",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "The Lord of the Rings: The Fellowship of the Ring"
+    },
+    {
+     "title": "The Lord of the Rings: The Two Towers",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "The Lord of the Rings: The Two Towers"
+    },
+    {
+     "title": "The Lord of the Rings: The Return of the King",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "The Lord of the Rings: The Return of the King"
+    },
+    {
+     "title": "King Kong",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "King Kong (2005 film)"
+    },
+    {
+     "title": "The Lovely Bones",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "The Lovely Bones (film)"
+    },
+    {
+     "title": "The Hobbit: An Unexpected Journey",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "The Hobbit: An Unexpected Journey"
+    },
+    {
+     "title": "The Hobbit: The Desolation of Smaug",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "The Hobbit: The Desolation of Smaug"
+    },
+    {
+     "title": "The Hobbit: The Battle of the Five Armies",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "The Hobbit: The Battle of the Five Armies"
+    },
+    {
+     "title": "They Shall Not Grow Old",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "They Shall Not Grow Old"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q223687",
+   "name": "Wes Anderson",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "Bottle Rocket",
+     "year": 1996,
+     "type": "movie",
+     "wiki": "Bottle Rocket"
+    },
+    {
+     "title": "Rushmore",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "Rushmore (film)"
+    },
+    {
+     "title": "The Royal Tenenbaums",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "The Royal Tenenbaums"
+    },
+    {
+     "title": "The Life Aquatic with Steve Zissou",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "The Life Aquatic with Steve Zissou"
+    },
+    {
+     "title": "The Darjeeling Limited",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "The Darjeeling Limited"
+    },
+    {
+     "title": "Fantastic Mr. Fox",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Fantastic Mr. Fox (film)"
+    },
+    {
+     "title": "Moonrise Kingdom",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Moonrise Kingdom"
+    },
+    {
+     "title": "The Grand Budapest Hotel",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "The Grand Budapest Hotel"
+    },
+    {
+     "title": "Isle of Dogs",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Isle of Dogs (film)"
+    },
+    {
+     "title": "The French Dispatch",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "The French Dispatch"
+    },
+    {
+     "title": "Asteroid City",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Asteroid City"
+    },
+    {
+     "title": "The Wonderful Story of Henry Sugar and Three More",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "The Wonderful Story of Henry Sugar and Three More"
+    },
+    {
+     "title": "The Phoenician Scheme",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "The Phoenician Scheme"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q3378803",
+   "name": "Phil Lord & Christopher Miller",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "Cloudy With A Chance Of Meatballs",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Cloudy with a Chance of Meatballs (film)",
+     "aka": [
+      "Cloudy with a Chance of Meatballs"
+     ]
+    },
+    {
+     "title": "21 Jump Street",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "21 Jump Street (film)"
+    },
+    {
+     "title": "The Lego Movie",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "The Lego Movie"
+    },
+    {
+     "title": "22 Jump Street",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "22 Jump Street"
+    },
+    {
+     "title": "Project Hail Mary",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Project Hail Mary (film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q717015",
+   "name": "James Gunn",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "Tromeo and Juliet",
+     "year": 1996,
+     "type": "movie",
+     "wiki": "Tromeo and Juliet"
+    },
+    {
+     "title": "Slither",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Slither (2006 film)"
+    },
+    {
+     "title": "Super",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Super (2010 American film)"
+    },
+    {
+     "title": "Movie 43",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Movie 43"
+    },
+    {
+     "title": "Guardians of the Galaxy",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Guardians of the Galaxy (film)"
+    },
+    {
+     "title": "Guardians of the Galaxy Vol. 2",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Guardians of the Galaxy Vol. 2"
+    },
+    {
+     "title": "The Suicide Squad",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "The Suicide Squad (film)"
+    },
+    {
+     "title": "The Guardians of the Galaxy Holiday Special",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "The Guardians of the Galaxy Holiday Special"
+    },
+    {
+     "title": "Guardians of the Galaxy Vol. 3",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Guardians of the Galaxy Vol. 3"
+    },
+    {
+     "title": "Superman",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Superman (2025 film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q621818",
+   "name": "Rian Johnson",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "Brick",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Brick (film)"
+    },
+    {
+     "title": "The Brothers Bloom",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "The Brothers Bloom"
+    },
+    {
+     "title": "Looper",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Looper (film)"
+    },
+    {
+     "title": "Star Wars: The Last Jedi",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Star Wars: The Last Jedi",
+     "aka": [
+      "Star Wars: Episode VIII – The Last Jedi"
+     ]
+    },
+    {
+     "title": "Knives Out",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Knives Out"
+    },
+    {
+     "title": "Glass Onion: A Knives Out Mystery",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Glass Onion: A Knives Out Mystery"
+    },
+    {
+     "title": "Wake Up Dead Man: A Knives Out Mystery",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Wake Up Dead Man",
+     "aka": [
+      "Wake Up Dead Man"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q2388576",
+   "name": "Taika Waititi",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "Eagle vs Shark",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Eagle vs Shark"
+    },
+    {
+     "title": "Boy",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Boy (2010 film)"
+    },
+    {
+     "title": "What We Do in the Shadows",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "What We Do in the Shadows"
+    },
+    {
+     "title": "Hunt for the Wilderpeople",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Hunt for the Wilderpeople"
+    },
+    {
+     "title": "Thor: Ragnarok",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Thor: Ragnarok"
+    },
+    {
+     "title": "Team Thor: Part 2",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Team Thor: Part 2"
+    },
+    {
+     "title": "Jojo Rabbit",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Jojo Rabbit"
+    },
+    {
+     "title": "Thor: Love and Thunder",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Thor: Love and Thunder"
+    },
+    {
+     "title": "Next Goal Wins",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Next Goal Wins (2023 film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q310960",
+   "name": "Brad Bird",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "The Iron Giant",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "The Iron Giant"
+    },
+    {
+     "title": "The Incredibles",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "The Incredibles"
+    },
+    {
+     "title": "Jack-Jack Attack",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Jack-Jack Attack"
+    },
+    {
+     "title": "Ratatouille",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Ratatouille (film)"
+    },
+    {
+     "title": "Mission: Impossible – Ghost Protocol",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Mission: Impossible – Ghost Protocol"
+    },
+    {
+     "title": "Tomorrowland",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Tomorrowland (film)"
+    },
+    {
+     "title": "Incredibles 2",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Incredibles 2"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q3772",
+   "name": "Quentin Tarantino",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "Reservoir Dogs",
+     "year": 1992,
+     "type": "movie",
+     "wiki": "Reservoir Dogs"
+    },
+    {
+     "title": "Pulp Fiction",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "Pulp Fiction"
+    },
+    {
+     "title": "Four Rooms",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "Four Rooms"
+    },
+    {
+     "title": "Jackie Brown",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Jackie Brown"
+    },
+    {
+     "title": "Kill Bill: Volume 1",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Kill Bill: Volume 1"
+    },
+    {
+     "title": "Kill Bill: Volume 2",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Kill Bill: Volume 2"
+    },
+    {
+     "title": "Sin City",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Sin City (film)"
+    },
+    {
+     "title": "Death Proof",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Death Proof"
+    },
+    {
+     "title": "Inglourious Basterds",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Inglourious Basterds"
+    },
+    {
+     "title": "Kill Bill: The Whole Bloody Affair",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Kill Bill: The Whole Bloody Affair"
+    },
+    {
+     "title": "Django Unchained",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Django Unchained"
+    },
+    {
+     "title": "The Hateful Eight",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "The Hateful Eight"
+    },
+    {
+     "title": "Once Upon a Time in Hollywood",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Once Upon a Time in Hollywood"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q184903",
+   "name": "David Fincher",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "Alien 3",
+     "year": 1992,
+     "type": "movie",
+     "wiki": "Alien 3"
+    },
+    {
+     "title": "Seven",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "Seven (1995 film)"
+    },
+    {
+     "title": "The Game",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "The Game (1997 film)"
+    },
+    {
+     "title": "Fight Club",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Fight Club"
+    },
+    {
+     "title": "Panic Room",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Panic Room"
+    },
+    {
+     "title": "Zodiac",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Zodiac (film)"
+    },
+    {
+     "title": "The Curious Case of Benjamin Button",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "The Curious Case of Benjamin Button (film)"
+    },
+    {
+     "title": "The Social Network",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "The Social Network"
+    },
+    {
+     "title": "The Girl with the Dragon Tattoo",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "The Girl with the Dragon Tattoo (2011 film)"
+    },
+    {
+     "title": "Gone Girl",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Gone Girl (film)"
+    },
+    {
+     "title": "Mank",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Mank"
+    },
+    {
+     "title": "The Killer",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "The Killer (2023 film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q56604143",
+   "name": "Josh Safdie",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "The Pleasure of Being Robbed",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "The Pleasure of Being Robbed"
+    },
+    {
+     "title": "Daddy Longlegs",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Daddy Longlegs (2009 film)"
+    },
+    {
+     "title": "Lenny Cooke",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Lenny Cooke (film)"
+    },
+    {
+     "title": "Heaven Knows What",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Heaven Knows What"
+    },
+    {
+     "title": "Good Time",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Good Time (film)"
+    },
+    {
+     "title": "Uncut Gems",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Uncut Gems"
+    },
+    {
+     "title": "Marty Supreme",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Marty Supreme"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q7383978",
+   "name": "Ryan Coogler",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "Fruitvale Station",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Fruitvale Station"
+    },
+    {
+     "title": "Creed",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Creed (film)"
+    },
+    {
+     "title": "Black Panther",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Black Panther (film)"
+    },
+    {
+     "title": "Black Panther: Wakanda Forever",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Black Panther: Wakanda Forever"
+    },
+    {
+     "title": "Sinners",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Sinners (2025 film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q21078321",
+   "name": "Chloé Zhao",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "Songs My Brothers Taught Me",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Songs My Brothers Taught Me"
+    },
+    {
+     "title": "The Rider",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "The Rider (film)"
+    },
+    {
+     "title": "Nomadland",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Nomadland"
+    },
+    {
+     "title": "Eternals",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Eternals (film)"
+    },
+    {
+     "title": "Hamnet",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Hamnet (film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q887347",
+   "name": "Bo Burnham",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "Bo Burnham: What.",
+     "year": 2013,
+     "wiki": "What. (Bo Burnham album)",
+     "type": "movie"
+    },
+    {
+     "title": "Bo Burnham: Make Happy",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Make Happy",
+     "aka": [
+      "Make Happy"
+     ]
+    },
+    {
+     "title": "Chris Rock: Tamborine",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Chris Rock: Tamborine"
+    },
+    {
+     "title": "Eighth Grade",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Eighth Grade (film)"
+    },
+    {
+     "title": "Bo Burnham: Inside",
+     "year": 2021,
+     "wiki": "Bo Burnham: Inside",
+     "type": "movie"
+    },
+    {
+     "title": "Bo Burnham: The Inside Outtakes",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Bo Burnham: Inside",
+     "aka": [
+      "Bo Burnham: Inside"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q25209047",
+   "name": "Matt Johnson",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "The Dirties",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "The Dirties"
+    },
+    {
+     "title": "Operation Avalanche",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Operation Avalanche (film)"
+    },
+    {
+     "title": "BlackBerry",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "BlackBerry (film)"
+    },
+    {
+     "title": "Nirvanna the Band the Show the Movie",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Nirvanna the Band the Show the Movie"
+    },
+    {
+     "title": "Tony",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Tony (2026 film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-dir-q522057",
+   "name": "Edgar Wright",
+   "kind": "Director",
+   "items": [
+    {
+     "title": "A Fistful of Fingers",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "A Fistful of Fingers"
+    },
+    {
+     "title": "Shaun of the Dead",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Shaun of the Dead"
+    },
+    {
+     "title": "Hot Fuzz",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Hot Fuzz"
+    },
+    {
+     "title": "Scott Pilgrim vs. the World",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Scott Pilgrim vs. the World"
+    },
+    {
+     "title": "The World's End",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "The World's End (film)"
+    },
+    {
+     "title": "Baby Driver",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Baby Driver"
+    },
+    {
+     "title": "The Sparks Brothers",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "The Sparks Brothers"
+    },
+    {
+     "title": "Last Night in Soho",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Last Night in Soho"
+    },
+    {
+     "title": "The Running Man",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "The Running Man (2025 film)"
+    }
+   ]
+  }
+ ]
+}

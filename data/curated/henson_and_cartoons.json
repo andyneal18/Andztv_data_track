@@ -1,0 +1,2800 @@
+{
+  "collections": [
+    {
+      "id": "cur-the-muppets",
+      "name": "The Muppets",
+      "kind": "Franchise",
+      "items": [
+        {
+          "title": "Sam and Friends",
+          "year": 1955,
+          "type": "tv",
+          "wiki": "Sam and Friends"
+        },
+        {
+          "title": "Hey, Cinderella!",
+          "year": 1969,
+          "type": "movie",
+          "wiki": "Hey, Cinderella!",
+          "format": "TV special"
+        },
+        {
+          "title": "The Great Santa Claus Switch",
+          "year": 1970,
+          "type": "movie",
+          "wiki": "The Great Santa Claus Switch",
+          "format": "TV special"
+        },
+        {
+          "title": "The Muppets on Puppets",
+          "year": 1970,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "The Frog Prince",
+          "year": 1971,
+          "type": "movie",
+          "wiki": "The Frog Prince (1971 film)",
+          "format": "TV special"
+        },
+        {
+          "title": "The Muppet Musicians of Bremen",
+          "year": 1972,
+          "type": "movie",
+          "wiki": "The Muppet Musicians of Bremen",
+          "format": "TV special"
+        },
+        {
+          "title": "The Muppets Valentine Show",
+          "year": 1974,
+          "type": "movie",
+          "wiki": "The Muppets Valentine Show",
+          "format": "TV special",
+          "aka": [
+            "The Muppet Show: Valentine's Day pilot"
+          ]
+        },
+        {
+          "title": "The Muppet Show: Sex and Violence",
+          "year": 1975,
+          "type": "movie",
+          "wiki": "The Muppet Show: Sex and Violence",
+          "format": "TV special"
+        },
+        {
+          "title": "The Muppet Show",
+          "year": 1976,
+          "type": "tv",
+          "wiki": "The Muppet Show"
+        },
+        {
+          "title": "Emmet Otter's Jug-Band Christmas",
+          "year": 1977,
+          "type": "movie",
+          "wiki": "Emmet Otter's Jug-Band Christmas",
+          "format": "TV special"
+        },
+        {
+          "title": "The Muppet Movie",
+          "year": 1979,
+          "type": "movie",
+          "wiki": "The Muppet Movie"
+        },
+        {
+          "title": "The Muppets Go Hollywood",
+          "year": 1979,
+          "type": "movie",
+          "wiki": "The Muppets Go Hollywood",
+          "format": "TV special"
+        },
+        {
+          "title": "John Denver and the Muppets: A Christmas Together",
+          "year": 1979,
+          "type": "movie",
+          "wiki": "John Denver and the Muppets: A Christmas Together",
+          "format": "TV special"
+        },
+        {
+          "title": "The Great Muppet Caper",
+          "year": 1981,
+          "type": "movie",
+          "wiki": "The Great Muppet Caper"
+        },
+        {
+          "title": "The Muppets Go to the Movies",
+          "year": 1981,
+          "type": "movie",
+          "wiki": "The Muppets Go to the Movies",
+          "format": "TV special"
+        },
+        {
+          "title": "Of Muppets and Men",
+          "year": 1981,
+          "type": "movie",
+          "format": "TV documentary",
+          "aka": [
+            "Of Muppets and Men: The Making of The Muppet Show"
+          ]
+        },
+        {
+          "title": "The Fantastic Miss Piggy Show",
+          "year": 1982,
+          "type": "movie",
+          "wiki": "The Fantastic Miss Piggy Show",
+          "format": "TV special"
+        },
+        {
+          "title": "Rocky Mountain Holiday With John Denver And The Muppets",
+          "year": 1983,
+          "type": "movie",
+          "wiki": "Rocky Mountain Holiday",
+          "format": "TV special",
+          "aka": [
+            "Rocky Mountain Holiday"
+          ]
+        },
+        {
+          "title": "The Muppets Take Manhattan",
+          "year": 1984,
+          "type": "movie",
+          "wiki": "The Muppets Take Manhattan"
+        },
+        {
+          "title": "Muppet Babies",
+          "year": 1984,
+          "type": "tv",
+          "wiki": "Muppet Babies (1984 TV series)"
+        },
+        {
+          "title": "Little Muppet Monsters",
+          "year": 1985,
+          "type": "tv",
+          "wiki": "Little Muppet Monsters"
+        },
+        {
+          "title": "The Muppets: A Celebration of 30 Years",
+          "year": 1986,
+          "type": "movie",
+          "wiki": "The Muppets: A Celebration of 30 Years",
+          "format": "TV special"
+        },
+        {
+          "title": "The Tale of the Bunny Picnic",
+          "year": 1986,
+          "type": "movie",
+          "wiki": "The Tale of the Bunny Picnic",
+          "format": "TV special"
+        },
+        {
+          "title": "The Christmas Toy",
+          "year": 1986,
+          "type": "movie",
+          "wiki": "The Christmas Toy",
+          "format": "TV special"
+        },
+        {
+          "title": "A Muppet Family Christmas",
+          "year": 1987,
+          "type": "movie",
+          "wiki": "A Muppet Family Christmas",
+          "format": "TV special"
+        },
+        {
+          "title": "The Jim Henson Hour",
+          "year": 1989,
+          "type": "tv",
+          "wiki": "The Jim Henson Hour"
+        },
+        {
+          "title": "Disneyland's 35th Anniversary Celebration",
+          "year": 1990,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "The Muppets at Walt Disney World",
+          "year": 1990,
+          "type": "movie",
+          "wiki": "The Muppets at Walt Disney World",
+          "format": "TV special"
+        },
+        {
+          "title": "The Muppets Celebrate Jim Henson",
+          "year": 1990,
+          "type": "movie",
+          "wiki": "The Muppets Celebrate Jim Henson",
+          "format": "TV special"
+        },
+        {
+          "title": "Muppet*Vision 3D",
+          "year": 1991,
+          "type": "movie",
+          "wiki": "Muppet*Vision 3D",
+          "format": "attraction film"
+        },
+        {
+          "title": "The Muppet Christmas Carol",
+          "year": 1992,
+          "type": "movie",
+          "wiki": "The Muppet Christmas Carol"
+        },
+        {
+          "title": "Muppet Classic Theater",
+          "year": 1994,
+          "type": "tv",
+          "wiki": "Muppet Classic Theater",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Mr. Willowby's Christmas Tree",
+          "year": 1995,
+          "type": "movie",
+          "wiki": "Mr. Willowby's Christmas Tree",
+          "format": "TV special"
+        },
+        {
+          "title": "Muppet Treasure Island",
+          "year": 1996,
+          "type": "movie",
+          "wiki": "Muppet Treasure Island"
+        },
+        {
+          "title": "Muppets Tonight",
+          "year": 1996,
+          "type": "tv",
+          "wiki": "Muppets Tonight"
+        },
+        {
+          "title": "Muppets from Space",
+          "year": 1999,
+          "type": "movie",
+          "wiki": "Muppets from Space"
+        },
+        {
+          "title": "Kermit's Swamp Years",
+          "year": 2002,
+          "type": "movie",
+          "wiki": "Kermit's Swamp Years",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "It's a Very Merry Muppet Christmas Movie",
+          "year": 2002,
+          "type": "movie",
+          "wiki": "It's a Very Merry Muppet Christmas Movie",
+          "format": "TV film"
+        },
+        {
+          "title": "The Muppets' Wizard of Oz",
+          "year": 2005,
+          "type": "movie",
+          "wiki": "The Muppets' Wizard of Oz",
+          "format": "TV film"
+        },
+        {
+          "title": "Statler and Waldorf: From the Balcony",
+          "year": 2005,
+          "type": "tv",
+          "wiki": "Statler and Waldorf: From the Balcony",
+          "format": "web series"
+        },
+        {
+          "title": "Studio DC: Almost Live",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "Studio DC: Almost Live",
+          "format": "TV special",
+          "aka": [
+            "Studio DC: Almost Live (Dylan and Cole Sprouse)"
+          ]
+        },
+        {
+          "title": "Studio DC: Almost Live 2",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "Studio DC: Almost Live",
+          "format": "TV special",
+          "aka": [
+            "Studio DC: Almost Live (Selena Gomez)"
+          ]
+        },
+        {
+          "title": "A Muppets Christmas: Letters to Santa",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "A Muppets Christmas: Letters to Santa",
+          "format": "TV special"
+        },
+        {
+          "title": "The Muppets",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "The Muppets (film)"
+        },
+        {
+          "title": "Lady Gaga and the Muppets Holiday Spectacular",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Lady Gaga and the Muppets Holiday Spectacular",
+          "format": "TV special",
+          "aka": [
+            "Lady Gaga & the Muppets Holiday Spectacular"
+          ]
+        },
+        {
+          "title": "Muppets Most Wanted",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "Muppets Most Wanted"
+        },
+        {
+          "title": "The Muppets",
+          "year": 2015,
+          "type": "tv",
+          "wiki": "The Muppets (2015 TV series)"
+        },
+        {
+          "title": "Muppet Babies",
+          "year": 2018,
+          "type": "tv",
+          "wiki": "Muppet Babies (2018 TV series)"
+        },
+        {
+          "title": "Muppets Now",
+          "year": 2020,
+          "type": "tv",
+          "wiki": "Muppets Now"
+        },
+        {
+          "title": "Muppets Haunted Mansion",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Muppets Haunted Mansion",
+          "format": "TV special"
+        },
+        {
+          "title": "The Muppets Mayhem",
+          "year": 2023,
+          "type": "tv",
+          "wiki": "The Muppets Mayhem"
+        },
+        {
+          "title": "The Muppet Show",
+          "year": 2026,
+          "type": "movie",
+          "wiki": "The Muppet Show (2026 TV special)",
+          "format": "TV special"
+        }
+      ]
+    },
+    {
+      "id": "cur-jim-henson-company",
+      "name": "Jim Henson Company & Creature Shop",
+      "kind": "Studio",
+      "items": [
+        {
+          "title": "The Cube",
+          "year": 1969,
+          "type": "movie",
+          "wiki": "The Cube (1969 film)",
+          "format": "TV film"
+        },
+        {
+          "title": "The Dark Crystal",
+          "year": 1982,
+          "type": "movie",
+          "wiki": "The Dark Crystal"
+        },
+        {
+          "title": "Fraggle Rock",
+          "year": 1983,
+          "type": "tv",
+          "wiki": "Fraggle Rock"
+        },
+        {
+          "title": "Labyrinth",
+          "year": 1986,
+          "type": "movie",
+          "wiki": "Labyrinth (1986 film)"
+        },
+        {
+          "title": "Jim Henson's The Storyteller",
+          "year": 1987,
+          "type": "tv",
+          "wiki": "The Storyteller (TV series)",
+          "aka": [
+            "The Storyteller"
+          ]
+        },
+        {
+          "title": "Fraggle Rock: The Animated Series",
+          "year": 1987,
+          "type": "tv",
+          "wiki": "Fraggle Rock: The Animated Series"
+        },
+        {
+          "title": "The Ghost of Faffner Hall",
+          "year": 1989,
+          "type": "tv",
+          "wiki": "The Ghost of Faffner Hall"
+        },
+        {
+          "title": "The Witches",
+          "year": 1990,
+          "type": "movie",
+          "wiki": "The Witches (1990 film)"
+        },
+        {
+          "title": "The Storyteller: Greek Myths",
+          "year": 1990,
+          "type": "tv",
+          "wiki": "The Storyteller: Greek Myths"
+        },
+        {
+          "title": "Jim Henson's Mother Goose Stories",
+          "year": 1990,
+          "type": "tv",
+          "wiki": "Jim Henson's Mother Goose Stories"
+        },
+        {
+          "title": "Dinosaurs",
+          "year": 1991,
+          "type": "tv",
+          "wiki": "Dinosaurs (TV series)"
+        },
+        {
+          "title": "Dog City",
+          "year": 1992,
+          "type": "tv",
+          "wiki": "Dog City"
+        },
+        {
+          "title": "Jim Henson's Animal Show with Stinky and Jake",
+          "year": 1994,
+          "type": "tv",
+          "wiki": "Jim Henson's Animal Show"
+        },
+        {
+          "title": "Buddy",
+          "year": 1997,
+          "type": "movie",
+          "wiki": "Buddy (1997 film)"
+        },
+        {
+          "title": "Bear in the Big Blue House",
+          "year": 1997,
+          "type": "tv",
+          "wiki": "Bear in the Big Blue House"
+        },
+        {
+          "title": "Farscape",
+          "year": 1999,
+          "type": "tv",
+          "wiki": "Farscape"
+        },
+        {
+          "title": "Construction Site",
+          "year": 1999,
+          "type": "tv"
+        },
+        {
+          "title": "The Hoobs",
+          "year": 2001,
+          "type": "tv",
+          "wiki": "The Hoobs"
+        },
+        {
+          "title": "Jack and the Beanstalk: The Real Story",
+          "year": 2001,
+          "type": "movie",
+          "wiki": "Jack and the Beanstalk: The Real Story",
+          "format": "TV film"
+        },
+        {
+          "title": "Good Boy!",
+          "year": 2003,
+          "type": "movie",
+          "wiki": "Good Boy! (film)"
+        },
+        {
+          "title": "Farscape: The Peacekeeper Wars",
+          "year": 2004,
+          "type": "movie",
+          "wiki": "Farscape: The Peacekeeper Wars",
+          "format": "TV miniseries"
+        },
+        {
+          "title": "MirrorMask",
+          "year": 2005,
+          "type": "movie",
+          "wiki": "MirrorMask"
+        },
+        {
+          "title": "Sid the Science Kid",
+          "year": 2008,
+          "type": "tv",
+          "wiki": "Sid the Science Kid"
+        },
+        {
+          "title": "Pajanimals",
+          "year": 2008,
+          "type": "tv",
+          "wiki": "Pajanimals"
+        },
+        {
+          "title": "Dinosaur Train",
+          "year": 2009,
+          "type": "tv",
+          "wiki": "Dinosaur Train"
+        },
+        {
+          "title": "Doozers",
+          "year": 2014,
+          "type": "tv",
+          "wiki": "Doozers"
+        },
+        {
+          "title": "Jim Henson's Creature Shop Challenge",
+          "year": 2014,
+          "type": "tv",
+          "wiki": "Jim Henson's Creature Shop Challenge"
+        },
+        {
+          "title": "Jim Henson's Turkey Hollow",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Jim Henson's Turkey Hollow",
+          "format": "TV film",
+          "aka": [
+            "Turkey Hollow"
+          ]
+        },
+        {
+          "title": "Splash and Bubbles",
+          "year": 2016,
+          "type": "tv",
+          "wiki": "Splash and Bubbles"
+        },
+        {
+          "title": "Word Party",
+          "year": 2016,
+          "type": "tv",
+          "wiki": "Word Party"
+        },
+        {
+          "title": "The Happytime Murders",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "The Happytime Murders"
+        },
+        {
+          "title": "The Dark Crystal: Age of Resistance",
+          "year": 2019,
+          "type": "tv",
+          "wiki": "The Dark Crystal: Age of Resistance"
+        },
+        {
+          "title": "Fraggle Rock: Rock On!",
+          "year": 2020,
+          "type": "tv",
+          "wiki": "Fraggle Rock: Rock On!"
+        },
+        {
+          "title": "Earth to Ned",
+          "year": 2020,
+          "type": "tv",
+          "wiki": "Earth to Ned"
+        },
+        {
+          "title": "Harriet the Spy",
+          "year": 2021,
+          "type": "tv",
+          "wiki": "Harriet the Spy (TV series)"
+        },
+        {
+          "title": "Fraggle Rock: Back to the Rock",
+          "year": 2022,
+          "type": "tv",
+          "wiki": "Fraggle Rock: Back to the Rock"
+        },
+        {
+          "title": "Jim Henson: Idea Man",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Jim Henson Idea Man",
+          "format": "documentary",
+          "aka": [
+            "Jim Henson Idea Man"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cur-sesame-street",
+      "name": "Sesame Street",
+      "kind": "Franchise",
+      "items": [
+        {
+          "title": "Sesame Street",
+          "year": 1969,
+          "type": "tv",
+          "wiki": "Sesame Street"
+        },
+        {
+          "title": "Christmas Eve on Sesame Street",
+          "year": 1978,
+          "type": "movie",
+          "wiki": "Christmas Eve on Sesame Street",
+          "format": "TV special"
+        },
+        {
+          "title": "A Special Sesame Street Christmas",
+          "year": 1978,
+          "type": "movie",
+          "wiki": "A Special Sesame Street Christmas",
+          "format": "TV special"
+        },
+        {
+          "title": "Big Bird in China",
+          "year": 1983,
+          "type": "movie",
+          "wiki": "Big Bird in China",
+          "format": "TV special"
+        },
+        {
+          "title": "Don't Eat the Pictures",
+          "year": 1983,
+          "type": "movie",
+          "wiki": "Don't Eat the Pictures",
+          "format": "TV special",
+          "aka": [
+            "Don't Eat the Pictures: Sesame Street at the Metropolitan Museum of Art"
+          ]
+        },
+        {
+          "title": "Follow That Bird",
+          "year": 1985,
+          "type": "movie",
+          "wiki": "Follow That Bird",
+          "aka": [
+            "Sesame Street Presents: Follow That Bird"
+          ]
+        },
+        {
+          "title": "Big Bird in Japan",
+          "year": 1988,
+          "type": "movie",
+          "wiki": "Big Bird in Japan",
+          "format": "TV special"
+        },
+        {
+          "title": "Sesame Street Stays Up Late!",
+          "year": 1993,
+          "type": "movie",
+          "wiki": "Sesame Street Stays Up Late!",
+          "format": "TV special"
+        },
+        {
+          "title": "Sesame Street's 25th Birthday: A Musical Celebration",
+          "year": 1993,
+          "type": "movie",
+          "wiki": "Sesame Street's 25th Birthday: A Musical Celebration",
+          "format": "TV special"
+        },
+        {
+          "title": "Elmo Saves Christmas",
+          "year": 1996,
+          "type": "movie",
+          "wiki": "Elmo Saves Christmas",
+          "format": "TV special"
+        },
+        {
+          "title": "Elmopalooza",
+          "year": 1998,
+          "type": "movie",
+          "wiki": "Elmopalooza",
+          "format": "TV special"
+        },
+        {
+          "title": "The Adventures of Elmo in Grouchland",
+          "year": 1999,
+          "type": "movie",
+          "wiki": "The Adventures of Elmo in Grouchland"
+        },
+        {
+          "title": "Play with Me Sesame",
+          "year": 2002,
+          "type": "tv",
+          "wiki": "Play with Me Sesame"
+        },
+        {
+          "title": "A Sesame Street Christmas Carol",
+          "year": 2006,
+          "type": "movie",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Elmo's Christmas Countdown",
+          "year": 2007,
+          "type": "movie",
+          "wiki": "Elmo's Christmas Countdown",
+          "format": "TV special"
+        },
+        {
+          "title": "Bert and Ernie's Great Adventures",
+          "year": 2008,
+          "type": "tv",
+          "wiki": "Bert and Ernie's Great Adventures"
+        },
+        {
+          "title": "Abby in Wonderland",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "Abby in Wonderland",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "The Furchester Hotel",
+          "year": 2014,
+          "type": "tv",
+          "wiki": "The Furchester Hotel"
+        },
+        {
+          "title": "Once Upon a Sesame Street Christmas",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Once Upon a Sesame Street Christmas",
+          "format": "TV special"
+        },
+        {
+          "title": "Sesame Street: The Magical Wand Chase",
+          "year": 2017,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "Sesame Street's 50th Anniversary Celebration",
+          "year": 2019,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "The Not-Too-Late Show with Elmo",
+          "year": 2020,
+          "type": "tv",
+          "wiki": "The Not-Too-Late Show with Elmo"
+        },
+        {
+          "title": "Elmo's Playdate",
+          "year": 2020,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "Mecha Builders",
+          "year": 2022,
+          "type": "tv",
+          "wiki": "Mecha Builders",
+          "aka": [
+            "Sesame Street Mecha Builders"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cur-scooby-doo",
+      "name": "Scooby-Doo",
+      "kind": "Franchise",
+      "items": [
+        {
+          "title": "Scooby-Doo, Where Are You!",
+          "year": 1969,
+          "type": "tv",
+          "wiki": "Scooby-Doo, Where Are You!"
+        },
+        {
+          "title": "The New Scooby-Doo Movies",
+          "year": 1972,
+          "type": "tv",
+          "wiki": "The New Scooby-Doo Movies"
+        },
+        {
+          "title": "The Scooby-Doo Show",
+          "year": 1976,
+          "type": "tv",
+          "wiki": "The Scooby-Doo Show",
+          "aka": [
+            "The Scooby-Doo/Dynomutt Hour"
+          ]
+        },
+        {
+          "title": "Scooby's All-Stars",
+          "year": 1977,
+          "type": "tv",
+          "wiki": "Scooby's All-Star Laff-A-Lympics",
+          "aka": [
+            "Scooby's All-Star Laff-A-Lympics",
+            "Laff-A-Lympics"
+          ]
+        },
+        {
+          "title": "Scooby-Doo and Scrappy-Doo",
+          "year": 1979,
+          "type": "tv",
+          "wiki": "Scooby-Doo and Scrappy-Doo (1979 TV series)"
+        },
+        {
+          "title": "Scooby-Doo Goes Hollywood",
+          "year": 1980,
+          "type": "movie",
+          "wiki": "Scooby Goes Hollywood",
+          "format": "TV special",
+          "aka": [
+            "Scooby Goes Hollywood"
+          ]
+        },
+        {
+          "title": "Scooby-Doo and Scrappy-Doo (shorts)",
+          "year": 1980,
+          "type": "tv",
+          "wiki": "Scooby-Doo and Scrappy-Doo (1980 TV series)",
+          "aka": [
+            "Scooby-Doo and Scrappy-Doo"
+          ]
+        },
+        {
+          "title": "The Scooby & Scrappy-Doo/Puppy Hour",
+          "year": 1982,
+          "type": "tv",
+          "wiki": "The Scooby & Scrappy-Doo/Puppy Hour"
+        },
+        {
+          "title": "The New Scooby and Scrappy-Doo Show",
+          "year": 1983,
+          "type": "tv",
+          "wiki": "The New Scooby and Scrappy-Doo Show"
+        },
+        {
+          "title": "The New Scooby-Doo Mysteries",
+          "year": 1984,
+          "type": "tv",
+          "wiki": "The New Scooby-Doo Mysteries"
+        },
+        {
+          "title": "The 13 Ghosts of Scooby-Doo",
+          "year": 1985,
+          "type": "tv",
+          "wiki": "The 13 Ghosts of Scooby-Doo"
+        },
+        {
+          "title": "Scooby-Doo Meets the Boo Brothers",
+          "year": 1987,
+          "type": "movie",
+          "wiki": "Scooby-Doo Meets the Boo Brothers",
+          "format": "TV film",
+          "aka": [
+            "Hanna-Barbera Superstars 10"
+          ]
+        },
+        {
+          "title": "Scooby-Doo and the Ghoul School",
+          "year": 1988,
+          "type": "movie",
+          "wiki": "Scooby-Doo and the Ghoul School",
+          "format": "TV film"
+        },
+        {
+          "title": "Scooby-Doo! and the Reluctant Werewolf",
+          "year": 1988,
+          "type": "movie",
+          "wiki": "Scooby-Doo! and the Reluctant Werewolf",
+          "format": "TV film"
+        },
+        {
+          "title": "A Pup Named Scooby-Doo",
+          "year": 1988,
+          "type": "tv",
+          "wiki": "A Pup Named Scooby-Doo"
+        },
+        {
+          "title": "Scooby-Doo in Arabian Nights",
+          "year": 1994,
+          "type": "movie",
+          "wiki": "Scooby-Doo! in Arabian Nights",
+          "format": "TV film",
+          "aka": [
+            "Scooby-Doo! in Arabian Nights"
+          ]
+        },
+        {
+          "title": "Scooby-Doo on Zombie Island",
+          "year": 1998,
+          "type": "movie",
+          "wiki": "Scooby-Doo on Zombie Island",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! and the Witch's Ghost",
+          "year": 1999,
+          "type": "movie",
+          "wiki": "Scooby-Doo! and the Witch's Ghost",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "The Scooby-Doo Project",
+          "year": 1999,
+          "type": "movie",
+          "wiki": "The Scooby-Doo Project",
+          "format": "TV special"
+        },
+        {
+          "title": "Scooby-Doo and the Alien Invaders",
+          "year": 2000,
+          "type": "movie",
+          "wiki": "Scooby-Doo and the Alien Invaders",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo and the Cyber Chase",
+          "year": 2001,
+          "type": "movie",
+          "wiki": "Scooby-Doo and the Cyber Chase",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Night of the Living Doo",
+          "year": 2001,
+          "type": "movie",
+          "wiki": "Night of the Living Doo",
+          "format": "TV special"
+        },
+        {
+          "title": "Scooby-Doo",
+          "year": 2002,
+          "type": "movie",
+          "wiki": "Scooby-Doo (film)"
+        },
+        {
+          "title": "What's New, Scooby-Doo?",
+          "year": 2002,
+          "type": "tv",
+          "wiki": "What's New, Scooby-Doo?"
+        },
+        {
+          "title": "Scooby-Doo! and the Legend of the Vampire",
+          "year": 2003,
+          "type": "movie",
+          "wiki": "Scooby-Doo! and the Legend of the Vampire",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! and the Monster of Mexico",
+          "year": 2003,
+          "type": "movie",
+          "wiki": "Scooby-Doo! and the Monster of Mexico",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo 2: Monsters Unleashed",
+          "year": 2004,
+          "type": "movie",
+          "wiki": "Scooby-Doo 2: Monsters Unleashed"
+        },
+        {
+          "title": "Scooby-Doo! and the Loch Ness Monster",
+          "year": 2004,
+          "type": "movie",
+          "wiki": "Scooby-Doo! and the Loch Ness Monster",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Aloha Scooby-Doo!",
+          "year": 2005,
+          "type": "movie",
+          "wiki": "Aloha, Scooby-Doo!",
+          "format": "direct-to-video",
+          "aka": [
+            "Aloha, Scooby-Doo!"
+          ]
+        },
+        {
+          "title": "Scooby-Doo! in Where's My Mummy?",
+          "year": 2005,
+          "type": "movie",
+          "wiki": "Scooby-Doo! in Where's My Mummy?",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Shaggy & Scooby-Doo Get a Clue!",
+          "year": 2006,
+          "type": "tv",
+          "wiki": "Shaggy & Scooby-Doo Get a Clue!"
+        },
+        {
+          "title": "Scooby-Doo! Pirates Ahoy!",
+          "year": 2006,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Pirates Ahoy!",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo: Chill Out, Scooby-Doo!",
+          "year": 2007,
+          "type": "movie",
+          "wiki": "Chill Out, Scooby-Doo!",
+          "format": "direct-to-video",
+          "aka": [
+            "Chill Out, Scooby-Doo!"
+          ]
+        },
+        {
+          "title": "Scooby-Doo! and the Goblin King",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "Scooby-Doo! and the Goblin King",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! and the Samurai Sword",
+          "year": 2009,
+          "type": "movie",
+          "wiki": "Scooby-Doo! and the Samurai Sword",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! The Mystery Begins",
+          "year": 2009,
+          "type": "movie",
+          "wiki": "Scooby-Doo! The Mystery Begins",
+          "format": "TV film"
+        },
+        {
+          "title": "Scooby-Doo! Abracadabra-Doo",
+          "year": 2010,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Abracadabra-Doo",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! Camp Scare",
+          "year": 2010,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Camp Scare",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! Curse of the Lake Monster",
+          "year": 2010,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Curse of the Lake Monster",
+          "format": "TV film"
+        },
+        {
+          "title": "Scooby-Doo! Mystery Incorporated",
+          "year": 2010,
+          "type": "tv",
+          "wiki": "Scooby-Doo! Mystery Incorporated"
+        },
+        {
+          "title": "Scooby-Doo! Legend of the Phantosaur",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Legend of the Phantosaur",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! Music of the Vampire",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Music of the Vampire",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! Spooky Games",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Spooky Games",
+          "format": "TV special"
+        },
+        {
+          "title": "Big Top Scooby-Doo!",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "Big Top Scooby-Doo!",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! Haunted Holidays",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Haunted Holidays",
+          "format": "TV special"
+        },
+        {
+          "title": "Scooby-Doo! Mask of the Blue Falcon",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Mask of the Blue Falcon",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! Adventures: The Mystery Map",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Adventures: The Mystery Map",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! and the Spooky Scarecrow",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Scooby-Doo! and the Spooky Scarecrow",
+          "format": "TV special"
+        },
+        {
+          "title": "Scooby-Doo! Stage Fright",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Stage Fright",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! Mecha Mutt Menace",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Mecha Mutt Menace",
+          "format": "TV special"
+        },
+        {
+          "title": "Scooby-Doo! WrestleMania Mystery",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "Scooby-Doo! WrestleMania Mystery",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! Ghastly Goals",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Ghastly Goals",
+          "format": "TV special"
+        },
+        {
+          "title": "Scooby-Doo! Frankencreepy",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Frankencreepy",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! Moon Monster Madness",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Moon Monster Madness",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! and the Beach Beastie",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Scooby-Doo! and the Beach Beastie",
+          "format": "TV special"
+        },
+        {
+          "title": "Scooby-Doo! and KISS: Rock and Roll Mystery",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Scooby-Doo! and Kiss: Rock and Roll Mystery",
+          "format": "direct-to-video",
+          "aka": [
+            "Scooby-Doo! and Kiss: Rock and Roll Mystery"
+          ]
+        },
+        {
+          "title": "Be Cool, Scooby-Doo!",
+          "year": 2015,
+          "type": "tv",
+          "wiki": "Be Cool, Scooby-Doo!"
+        },
+        {
+          "title": "Lego Scooby-Doo! Knight Time Terror",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Lego Scooby-Doo! Knight Time Terror",
+          "format": "TV special"
+        },
+        {
+          "title": "LEGO Scooby-Doo! Haunted Hollywood",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Lego Scooby-Doo! Haunted Hollywood",
+          "format": "direct-to-video",
+          "aka": [
+            "Lego Scooby-Doo! Haunted Hollywood"
+          ]
+        },
+        {
+          "title": "Scooby-Doo! and WWE: Curse of the Speed Demon",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Scooby-Doo! and WWE: Curse of the Speed Demon",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! Shaggy's Showdown",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Shaggy's Showdown",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Lego Scooby-Doo! Blowout Beach Bash",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "Lego Scooby-Doo! Blowout Beach Bash",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! & Batman: The Brave and the Bold",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Scooby-Doo! & Batman: The Brave and the Bold",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Daphne & Velma",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Daphne & Velma",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! and the Gourmet Ghost",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Scooby-Doo! and the Gourmet Ghost",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! and the Curse of the 13th Ghost",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "Scooby-Doo! and the Curse of the 13th Ghost",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo and Guess Who?",
+          "year": 2019,
+          "type": "tv",
+          "wiki": "Scooby-Doo and Guess Who?"
+        },
+        {
+          "title": "Scooby-Doo! Return to Zombie Island",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "Scooby-Doo! Return to Zombie Island",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scoob!",
+          "year": 2020,
+          "type": "movie",
+          "wiki": "Scoob!"
+        },
+        {
+          "title": "Happy Halloween, Scooby-Doo!",
+          "year": 2020,
+          "type": "movie",
+          "wiki": "Happy Halloween, Scooby-Doo!",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo! The Sword and the Scoob",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Scooby-Doo! The Sword and the Scoob",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Scooby-Doo, Where Are You Now!",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Scooby-Doo, Where Are You Now!",
+          "format": "TV special"
+        },
+        {
+          "title": "Trick or Treat Scooby-Doo",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Trick or Treat Scooby-Doo!",
+          "format": "direct-to-video",
+          "aka": [
+            "Trick or Treat Scooby-Doo!"
+          ]
+        },
+        {
+          "title": "Velma",
+          "year": 2023,
+          "type": "tv",
+          "wiki": "Velma (TV series)"
+        },
+        {
+          "title": "Scooby-Doo! and Krypto, Too!",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "Scooby-Doo! and Krypto, Too!",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Velma: This Halloween Needs To Be More Special!",
+          "year": 2024,
+          "type": "movie",
+          "format": "TV special"
+        }
+      ]
+    },
+    {
+      "id": "cur-hanna-barbera",
+      "name": "Hanna-Barbera",
+      "kind": "Studio",
+      "items": [
+        {
+          "title": "The Ruff and Reddy Show",
+          "year": 1957,
+          "type": "tv",
+          "wiki": "The Ruff and Reddy Show"
+        },
+        {
+          "title": "The Huckleberry Hound Show",
+          "year": 1958,
+          "type": "tv",
+          "wiki": "The Huckleberry Hound Show"
+        },
+        {
+          "title": "The Quick Draw McGraw Show",
+          "year": 1959,
+          "type": "tv",
+          "wiki": "The Quick Draw McGraw Show"
+        },
+        {
+          "title": "The Flintstones",
+          "year": 1960,
+          "type": "tv",
+          "wiki": "The Flintstones"
+        },
+        {
+          "title": "The Yogi Bear Show",
+          "year": 1961,
+          "type": "tv",
+          "wiki": "The Yogi Bear Show"
+        },
+        {
+          "title": "Top Cat",
+          "year": 1961,
+          "type": "tv",
+          "wiki": "Top Cat"
+        },
+        {
+          "title": "The Jetsons",
+          "year": 1962,
+          "type": "tv",
+          "wiki": "The Jetsons"
+        },
+        {
+          "title": "The Magilla Gorilla Show",
+          "year": 1964,
+          "type": "tv",
+          "wiki": "The Magilla Gorilla Show"
+        },
+        {
+          "title": "Jonny Quest",
+          "year": 1964,
+          "type": "tv",
+          "wiki": "Jonny Quest (TV series)"
+        },
+        {
+          "title": "Hey There, It's Yogi Bear!",
+          "year": 1964,
+          "type": "movie",
+          "wiki": "Hey There, It's Yogi Bear!"
+        },
+        {
+          "title": "The Atom Ant/Secret Squirrel Show",
+          "year": 1965,
+          "type": "tv",
+          "wiki": "The Atom Ant/Secret Squirrel Show"
+        },
+        {
+          "title": "The Man Called Flintstone",
+          "year": 1966,
+          "type": "movie",
+          "wiki": "The Man Called Flintstone"
+        },
+        {
+          "title": "Space Ghost and Dino Boy",
+          "year": 1966,
+          "type": "tv",
+          "wiki": "Space Ghost and Dino Boy",
+          "aka": [
+            "Space Ghost"
+          ]
+        },
+        {
+          "title": "The Herculoids",
+          "year": 1967,
+          "type": "tv",
+          "wiki": "The Herculoids"
+        },
+        {
+          "title": "Wacky Races",
+          "year": 1968,
+          "type": "tv",
+          "wiki": "Wacky Races (1968 TV series)"
+        },
+        {
+          "title": "Dastardly and Muttley in Their Flying Machines",
+          "year": 1969,
+          "type": "tv",
+          "wiki": "Dastardly and Muttley in Their Flying Machines"
+        },
+        {
+          "title": "The Perils of Penelope Pitstop",
+          "year": 1969,
+          "type": "tv",
+          "wiki": "The Perils of Penelope Pitstop"
+        },
+        {
+          "title": "Josie and the Pussycats",
+          "year": 1970,
+          "type": "tv",
+          "wiki": "Josie and the Pussycats (TV series)"
+        },
+        {
+          "title": "The Pebbles and Bamm-Bamm Show",
+          "year": 1971,
+          "type": "tv",
+          "wiki": "The Pebbles and Bamm-Bamm Show"
+        },
+        {
+          "title": "Yogi's Ark Lark",
+          "year": 1972,
+          "type": "movie",
+          "wiki": "Yogi's Ark Lark",
+          "format": "TV film"
+        },
+        {
+          "title": "Charlotte's Web",
+          "year": 1973,
+          "type": "movie",
+          "wiki": "Charlotte's Web (1973 film)"
+        },
+        {
+          "title": "Yogi's Gang",
+          "year": 1973,
+          "type": "tv",
+          "wiki": "Yogi's Gang"
+        },
+        {
+          "title": "Hong Kong Phooey",
+          "year": 1974,
+          "type": "tv",
+          "wiki": "Hong Kong Phooey"
+        },
+        {
+          "title": "Jabberjaw",
+          "year": 1976,
+          "type": "tv",
+          "wiki": "Jabberjaw"
+        },
+        {
+          "title": "A Flintstone Christmas",
+          "year": 1977,
+          "type": "movie",
+          "wiki": "A Flintstone Christmas",
+          "format": "TV special"
+        },
+        {
+          "title": "Captain Caveman and the Teen Angels",
+          "year": 1977,
+          "type": "tv",
+          "wiki": "Captain Caveman and the Teen Angels"
+        },
+        {
+          "title": "Yogi's Space Race",
+          "year": 1978,
+          "type": "tv",
+          "wiki": "Yogi's Space Race"
+        },
+        {
+          "title": "The Flintstones: Little Big League",
+          "year": 1978,
+          "type": "movie",
+          "wiki": "The Flintstones: Little Big League",
+          "format": "TV special"
+        },
+        {
+          "title": "The New Fred and Barney Show",
+          "year": 1979,
+          "type": "tv",
+          "wiki": "The New Fred and Barney Show"
+        },
+        {
+          "title": "C.H.O.M.P.S.",
+          "year": 1979,
+          "type": "movie",
+          "wiki": "C.H.O.M.P.S."
+        },
+        {
+          "title": "The Flintstones Meet Rockula and Frankenstone",
+          "year": 1979,
+          "type": "movie",
+          "wiki": "The Flintstones Meet Rockula and Frankenstone",
+          "format": "TV special"
+        },
+        {
+          "title": "Casper's First Christmas",
+          "year": 1979,
+          "type": "movie",
+          "wiki": "Casper's First Christmas",
+          "format": "TV special"
+        },
+        {
+          "title": "Yogi's First Christmas",
+          "year": 1980,
+          "type": "movie",
+          "wiki": "Yogi's First Christmas",
+          "format": "TV film"
+        },
+        {
+          "title": "Heidi's Song",
+          "year": 1982,
+          "type": "movie",
+          "wiki": "Heidi's Song"
+        },
+        {
+          "title": "Yogi Bear's All-Star Comedy Christmas Caper",
+          "year": 1982,
+          "type": "movie",
+          "wiki": "Yogi Bear's All-Star Comedy Christmas Caper",
+          "format": "TV special"
+        },
+        {
+          "title": "The Flintstone Kids",
+          "year": 1986,
+          "type": "tv",
+          "wiki": "The Flintstone Kids"
+        },
+        {
+          "title": "The New Adventures of Jonny Quest",
+          "year": 1986,
+          "type": "tv",
+          "wiki": "The New Adventures of Jonny Quest"
+        },
+        {
+          "title": "Yogi's Great Escape",
+          "year": 1987,
+          "type": "movie",
+          "wiki": "Yogi's Great Escape",
+          "format": "TV film",
+          "aka": [
+            "Hanna-Barbera Superstars 10"
+          ]
+        },
+        {
+          "title": "The Jetsons Meet the Flintstones",
+          "year": 1987,
+          "type": "movie",
+          "wiki": "The Jetsons Meet the Flintstones",
+          "format": "TV film"
+        },
+        {
+          "title": "Yogi Bear and the Magical Flight of the Spruce Goose",
+          "year": 1987,
+          "type": "movie",
+          "wiki": "Yogi Bear and the Magical Flight of the Spruce Goose",
+          "format": "TV film"
+        },
+        {
+          "title": "Top Cat and the Beverly Hills Cats",
+          "year": 1988,
+          "type": "movie",
+          "wiki": "Top Cat and the Beverly Hills Cats",
+          "format": "TV film"
+        },
+        {
+          "title": "The Good, the Bad, and Huckleberry Hound",
+          "year": 1988,
+          "type": "movie",
+          "wiki": "The Good, the Bad, and Huckleberry Hound",
+          "format": "TV film"
+        },
+        {
+          "title": "Rockin' with Judy Jetson",
+          "year": 1988,
+          "type": "movie",
+          "wiki": "Rockin' with Judy Jetson",
+          "format": "TV film"
+        },
+        {
+          "title": "Yogi and the Invasion of the Space Bears",
+          "year": 1988,
+          "type": "movie",
+          "wiki": "Yogi and the Invasion of the Space Bears",
+          "format": "TV film"
+        },
+        {
+          "title": "Hanna-Barbera's 50th: A Yabba Dabba Doo Celebration",
+          "year": 1989,
+          "type": "movie",
+          "wiki": "Hanna-Barbera's 50th: A Yabba Dabba Doo Celebration",
+          "format": "TV special"
+        },
+        {
+          "title": "Jetsons: The Movie",
+          "year": 1990,
+          "type": "movie",
+          "wiki": "Jetsons: The Movie"
+        },
+        {
+          "title": "Yo Yogi!",
+          "year": 1991,
+          "type": "tv",
+          "wiki": "Yo Yogi!"
+        },
+        {
+          "title": "I Yabba-Dabba Do!",
+          "year": 1993,
+          "type": "movie",
+          "wiki": "I Yabba-Dabba Do!",
+          "format": "TV special"
+        },
+        {
+          "title": "Jonny's Golden Quest",
+          "year": 1993,
+          "type": "movie",
+          "wiki": "Jonny's Golden Quest",
+          "format": "TV film"
+        },
+        {
+          "title": "Hollyrock-a-Bye Baby",
+          "year": 1993,
+          "type": "movie",
+          "wiki": "Hollyrock-a-Bye Baby",
+          "format": "TV special"
+        },
+        {
+          "title": "A Flintstone Family Christmas",
+          "year": 1993,
+          "type": "movie",
+          "wiki": "A Flintstone Family Christmas",
+          "format": "TV special"
+        },
+        {
+          "title": "Once Upon a Forest",
+          "year": 1993,
+          "type": "movie",
+          "wiki": "Once Upon a Forest"
+        },
+        {
+          "title": "The Flintstones",
+          "year": 1994,
+          "type": "movie",
+          "wiki": "The Flintstones (film)"
+        },
+        {
+          "title": "A Flintstones Christmas Carol",
+          "year": 1994,
+          "type": "movie",
+          "wiki": "A Flintstones Christmas Carol",
+          "format": "TV special"
+        },
+        {
+          "title": "Space Ghost Coast to Coast",
+          "year": 1994,
+          "type": "tv",
+          "wiki": "Space Ghost Coast to Coast"
+        },
+        {
+          "title": "Jonny Quest vs. The Cyber Insects",
+          "year": 1995,
+          "type": "movie",
+          "wiki": "Jonny Quest vs. The Cyber Insects",
+          "format": "TV film"
+        },
+        {
+          "title": "The Real Adventures of Jonny Quest",
+          "year": 1996,
+          "type": "tv",
+          "wiki": "The Real Adventures of Jonny Quest"
+        },
+        {
+          "title": "The Flintstones in Viva Rock Vegas",
+          "year": 2000,
+          "type": "movie",
+          "wiki": "The Flintstones in Viva Rock Vegas"
+        },
+        {
+          "title": "Harvey Birdman, Attorney at Law",
+          "year": 2000,
+          "type": "tv",
+          "wiki": "Harvey Birdman, Attorney at Law"
+        },
+        {
+          "title": "The Flintstones: On the Rocks",
+          "year": 2001,
+          "type": "movie",
+          "wiki": "The Flintstones: On the Rocks",
+          "format": "TV film"
+        },
+        {
+          "title": "Yogi Bear",
+          "year": 2010,
+          "type": "movie",
+          "wiki": "Yogi Bear (film)"
+        },
+        {
+          "title": "Top Cat: The Movie",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Top Cat: The Movie",
+          "aka": [
+            "Don Gato y su pandilla"
+          ]
+        },
+        {
+          "title": "The Flintstones & WWE: Stone Age SmackDown!",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "The Flintstones & WWE: Stone Age SmackDown!",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Top Cat Begins",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Top Cat Begins"
+        },
+        {
+          "title": "The Jetsons & WWE: Robo-WrestleMania!",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "The Jetsons & WWE: Robo-WrestleMania!",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Wacky Races",
+          "year": 2017,
+          "type": "tv",
+          "wiki": "Wacky Races (2017 TV series)"
+        },
+        {
+          "title": "Yabba Dabba Dinosaurs",
+          "year": 2020,
+          "type": "tv",
+          "wiki": "Yabba Dabba Dinosaurs"
+        },
+        {
+          "title": "Jellystone!",
+          "year": 2021,
+          "type": "tv",
+          "wiki": "Jellystone!"
+        }
+      ]
+    },
+    {
+      "id": "cur-looney-tunes",
+      "name": "Looney Tunes",
+      "kind": "Franchise",
+      "items": [
+        {
+          "title": "The Bugs Bunny Show",
+          "year": 1960,
+          "type": "tv",
+          "wiki": "The Bugs Bunny Show"
+        },
+        {
+          "title": "The Porky Pig Show",
+          "year": 1964,
+          "type": "tv",
+          "wiki": "The Porky Pig Show"
+        },
+        {
+          "title": "The Road Runner Show",
+          "year": 1966,
+          "type": "tv",
+          "wiki": "The Road Runner Show"
+        },
+        {
+          "title": "Bugs and Daffy's Carnival of the Animals",
+          "year": 1976,
+          "type": "movie",
+          "wiki": "Bugs and Daffy's Carnival of the Animals",
+          "format": "TV special"
+        },
+        {
+          "title": "Bugs Bunny's Easter Special",
+          "year": 1977,
+          "type": "movie",
+          "wiki": "Bugs Bunny's Easter Special",
+          "format": "TV special"
+        },
+        {
+          "title": "Bugs Bunny's Howl-oween Special",
+          "year": 1977,
+          "type": "movie",
+          "wiki": "Bugs Bunny's Howl-oween Special",
+          "format": "TV special"
+        },
+        {
+          "title": "The Bugs Bunny/Road Runner Movie",
+          "year": 1979,
+          "type": "movie",
+          "wiki": "The Bugs Bunny/Road Runner Movie"
+        },
+        {
+          "title": "Bugs Bunny's Looney Christmas Tales",
+          "year": 1979,
+          "type": "movie",
+          "wiki": "Bugs Bunny's Looney Christmas Tales",
+          "format": "TV special"
+        },
+        {
+          "title": "Bugs Bunny's Thanksgiving Diet",
+          "year": 1979,
+          "type": "movie",
+          "wiki": "Bugs Bunny's Thanksgiving Diet",
+          "format": "TV special"
+        },
+        {
+          "title": "The Bugs Bunny Mystery Special",
+          "year": 1980,
+          "type": "movie",
+          "wiki": "The Bugs Bunny Mystery Special",
+          "format": "TV special"
+        },
+        {
+          "title": "The Looney Looney Looney Bugs Bunny Movie",
+          "year": 1981,
+          "type": "movie",
+          "wiki": "The Looney Looney Looney Bugs Bunny Movie"
+        },
+        {
+          "title": "Bugs Bunny's 3rd Movie: 1001 Rabbit Tales",
+          "year": 1982,
+          "type": "movie",
+          "wiki": "Bugs Bunny's 3rd Movie: 1001 Rabbit Tales"
+        },
+        {
+          "title": "Daffy Duck's Fantastic Island",
+          "year": 1983,
+          "type": "movie",
+          "wiki": "Daffy Duck's Fantastic Island"
+        },
+        {
+          "title": "Daffy Duck's Quackbusters",
+          "year": 1988,
+          "type": "movie",
+          "wiki": "Daffy Duck's Quackbusters"
+        },
+        {
+          "title": "Bugs vs. Daffy: Battle of the Music Video Stars",
+          "year": 1988,
+          "type": "movie",
+          "wiki": "Bugs vs. Daffy: Battle of the Music Video Stars",
+          "format": "TV special"
+        },
+        {
+          "title": "Tiny Toon Adventures",
+          "year": 1990,
+          "type": "tv",
+          "wiki": "Tiny Toon Adventures"
+        },
+        {
+          "title": "Taz-Mania",
+          "year": 1991,
+          "type": "tv",
+          "wiki": "Taz-Mania"
+        },
+        {
+          "title": "Bugs Bunny's Overtures to Disaster",
+          "year": 1991,
+          "type": "movie",
+          "wiki": "Bugs Bunny's Overtures to Disaster",
+          "format": "TV special"
+        },
+        {
+          "title": "Tiny Toon Adventures: How I Spent My Vacation",
+          "year": 1992,
+          "type": "movie",
+          "wiki": "Tiny Toon Adventures: How I Spent My Vacation",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "The Sylvester & Tweety Mysteries",
+          "year": 1995,
+          "type": "tv",
+          "wiki": "The Sylvester & Tweety Mysteries"
+        },
+        {
+          "title": "Space Jam",
+          "year": 1996,
+          "type": "movie",
+          "wiki": "Space Jam"
+        },
+        {
+          "title": "Tweety's High-Flying Adventure",
+          "year": 2000,
+          "type": "movie",
+          "wiki": "Tweety's High-Flying Adventure",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Baby Looney Tunes",
+          "year": 2002,
+          "type": "tv",
+          "wiki": "Baby Looney Tunes"
+        },
+        {
+          "title": "Looney Tunes: Back in Action",
+          "year": 2003,
+          "type": "movie",
+          "wiki": "Looney Tunes: Back in Action"
+        },
+        {
+          "title": "Baby Looney Tunes' Eggs-traordinary Adventure",
+          "year": 2003,
+          "type": "movie",
+          "wiki": "Baby Looney Tunes' Eggs-traordinary Adventure",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Duck Dodgers",
+          "year": 2003,
+          "type": "tv",
+          "wiki": "Duck Dodgers (TV series)"
+        },
+        {
+          "title": "Loonatics Unleashed",
+          "year": 2005,
+          "type": "tv",
+          "wiki": "Loonatics Unleashed"
+        },
+        {
+          "title": "Bah, Humduck! A Looney Tunes Christmas",
+          "year": 2006,
+          "type": "movie",
+          "wiki": "Bah, Humduck! A Looney Tunes Christmas",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "The Looney Tunes Show",
+          "year": 2011,
+          "type": "tv",
+          "wiki": "The Looney Tunes Show"
+        },
+        {
+          "title": "Looney Tunes: Rabbits Run",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Looney Tunes: Rabbits Run",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "New Looney Tunes",
+          "year": 2015,
+          "type": "tv",
+          "wiki": "New Looney Tunes",
+          "aka": [
+            "Wabbit: A Looney Tunes Production"
+          ]
+        },
+        {
+          "title": "Looney Tunes Cartoons",
+          "year": 2020,
+          "type": "tv",
+          "wiki": "Looney Tunes Cartoons"
+        },
+        {
+          "title": "Space Jam: A New Legacy",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Space Jam: A New Legacy"
+        },
+        {
+          "title": "King Tweety",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "King Tweety",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Bugs Bunny Builders",
+          "year": 2022,
+          "type": "tv",
+          "wiki": "Bugs Bunny Builders"
+        },
+        {
+          "title": "Taz: Quest for Burger",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "Taz: Quest for Burger",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Tiny Toons Looniversity",
+          "year": 2023,
+          "type": "tv",
+          "wiki": "Tiny Toons Looniversity"
+        },
+        {
+          "title": "The Day the Earth Blew Up: A Looney Tunes Movie",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "The Day the Earth Blew Up: A Looney Tunes Movie"
+        },
+        {
+          "title": "Coyote vs. Acme",
+          "year": 2026,
+          "type": "movie",
+          "wiki": "Coyote vs. Acme"
+        }
+      ]
+    },
+    {
+      "id": "cur-tom-and-jerry",
+      "name": "Tom and Jerry",
+      "kind": "Franchise",
+      "items": [
+        {
+          "title": "The Tom and Jerry Show",
+          "year": 1975,
+          "type": "tv",
+          "wiki": "The Tom and Jerry Show (1975 TV series)",
+          "aka": [
+            "The Tom & Jerry Show"
+          ]
+        },
+        {
+          "title": "The Tom and Jerry Comedy Show",
+          "year": 1980,
+          "type": "tv",
+          "wiki": "The Tom and Jerry Comedy Show"
+        },
+        {
+          "title": "Tom & Jerry Kids",
+          "year": 1990,
+          "type": "tv",
+          "wiki": "Tom & Jerry Kids"
+        },
+        {
+          "title": "Tom and Jerry: The Movie",
+          "year": 1992,
+          "type": "movie",
+          "wiki": "Tom and Jerry: The Movie"
+        },
+        {
+          "title": "Tom and Jerry: The Magic Ring",
+          "year": 2002,
+          "type": "movie",
+          "wiki": "Tom and Jerry: The Magic Ring",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Tom and Jerry: Blast Off to Mars",
+          "year": 2005,
+          "type": "movie",
+          "wiki": "Tom and Jerry: Blast Off to Mars",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Tom and Jerry: The Fast and the Furry",
+          "year": 2005,
+          "type": "movie",
+          "wiki": "Tom and Jerry: The Fast and the Furry",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Tom and Jerry Tales",
+          "year": 2006,
+          "type": "tv",
+          "wiki": "Tom and Jerry Tales"
+        },
+        {
+          "title": "Tom and Jerry: Shiver Me Whiskers",
+          "year": 2006,
+          "type": "movie",
+          "wiki": "Tom and Jerry: Shiver Me Whiskers",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Tom and Jerry: A Nutcracker Tale",
+          "year": 2007,
+          "type": "movie",
+          "wiki": "Tom and Jerry: A Nutcracker Tale",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Tom and Jerry Meet Sherlock Holmes",
+          "year": 2010,
+          "type": "movie",
+          "wiki": "Tom and Jerry Meet Sherlock Holmes",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Tom and Jerry and the Wizard of Oz",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Tom and Jerry and the Wizard of Oz",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Tom and Jerry: Robin Hood and His Merry Mouse",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "Tom and Jerry: Robin Hood and His Merry Mouse",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Tom and Jerry's Giant Adventure",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Tom and Jerry's Giant Adventure",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "The Tom and Jerry Show",
+          "year": 2014,
+          "type": "tv",
+          "wiki": "The Tom and Jerry Show (2014 TV series)"
+        },
+        {
+          "title": "Tom and Jerry: The Lost Dragon",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "Tom and Jerry: The Lost Dragon",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Tom and Jerry: Santa's Little Helpers",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "Tom and Jerry: Santa's Little Helpers",
+          "format": "TV special"
+        },
+        {
+          "title": "Tom and Jerry: Spy Quest",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Tom and Jerry: Spy Quest",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Tom and Jerry: Back to Oz",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Tom and Jerry: Back to Oz",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Tom and Jerry: Willy Wonka and the Chocolate Factory",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "Tom and Jerry: Willy Wonka and the Chocolate Factory",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Tom & Jerry",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Tom & Jerry (2021 film)",
+          "aka": [
+            "Tom and Jerry"
+          ]
+        },
+        {
+          "title": "Tom and Jerry in New York",
+          "year": 2021,
+          "type": "tv",
+          "wiki": "Tom and Jerry in New York"
+        },
+        {
+          "title": "Tom and Jerry: Cowboy Up!",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Tom and Jerry: Cowboy Up!",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Tom and Jerry: Snowman's Land",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Tom and Jerry: Snowman's Land",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Tom and Jerry",
+          "year": 2023,
+          "type": "tv",
+          "wiki": "Tom and Jerry (2023 TV series)",
+          "aka": [
+            "Tom and Jerry (Singapore)"
+          ]
+        },
+        {
+          "title": "Tom and Jerry: Forbidden Compass",
+          "year": 2025,
+          "type": "movie",
+          "wiki": "Tom and Jerry: Forbidden Compass"
+        },
+        {
+          "title": "Tom and Jerry Time",
+          "year": 2025,
+          "type": "tv"
+        }
+      ]
+    },
+    {
+      "id": "cur-peanuts",
+      "name": "Peanuts",
+      "kind": "Franchise",
+      "items": [
+        {
+          "title": "A Charlie Brown Christmas",
+          "year": 1965,
+          "type": "movie",
+          "wiki": "A Charlie Brown Christmas",
+          "format": "TV special"
+        },
+        {
+          "title": "Charlie Brown's All Stars!",
+          "year": 1966,
+          "type": "movie",
+          "wiki": "Charlie Brown's All Stars!",
+          "format": "TV special"
+        },
+        {
+          "title": "It's the Great Pumpkin, Charlie Brown",
+          "year": 1966,
+          "type": "movie",
+          "wiki": "It's the Great Pumpkin, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "You're in Love, Charlie Brown",
+          "year": 1967,
+          "type": "movie",
+          "wiki": "You're in Love, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "He's Your Dog, Charlie Brown",
+          "year": 1968,
+          "type": "movie",
+          "wiki": "He's Your Dog, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "It Was a Short Summer, Charlie Brown",
+          "year": 1969,
+          "type": "movie",
+          "wiki": "It Was a Short Summer, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "A Boy Named Charlie Brown",
+          "year": 1969,
+          "type": "movie",
+          "wiki": "A Boy Named Charlie Brown"
+        },
+        {
+          "title": "Play It Again, Charlie Brown",
+          "year": 1971,
+          "type": "movie",
+          "wiki": "Play It Again, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "You're Not Elected, Charlie Brown",
+          "year": 1972,
+          "type": "movie",
+          "wiki": "You're Not Elected, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "Snoopy Come Home",
+          "year": 1972,
+          "type": "movie",
+          "wiki": "Snoopy Come Home"
+        },
+        {
+          "title": "There's No Time for Love, Charlie Brown",
+          "year": 1973,
+          "type": "movie",
+          "wiki": "There's No Time for Love, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "A Charlie Brown Thanksgiving",
+          "year": 1973,
+          "type": "movie",
+          "wiki": "A Charlie Brown Thanksgiving",
+          "format": "TV special"
+        },
+        {
+          "title": "It's a Mystery, Charlie Brown",
+          "year": 1974,
+          "type": "movie",
+          "wiki": "It's a Mystery, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "It's the Easter Beagle, Charlie Brown",
+          "year": 1974,
+          "type": "movie",
+          "wiki": "It's the Easter Beagle, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "Be My Valentine, Charlie Brown",
+          "year": 1975,
+          "type": "movie",
+          "wiki": "Be My Valentine, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "You're a Good Sport, Charlie Brown",
+          "year": 1975,
+          "type": "movie",
+          "wiki": "You're a Good Sport, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "It's Arbor Day, Charlie Brown",
+          "year": 1976,
+          "type": "movie",
+          "wiki": "It's Arbor Day, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "It's Your First Kiss, Charlie Brown",
+          "year": 1977,
+          "type": "movie",
+          "wiki": "It's Your First Kiss, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "Race for Your Life, Charlie Brown",
+          "year": 1977,
+          "type": "movie",
+          "wiki": "Race for Your Life, Charlie Brown"
+        },
+        {
+          "title": "What a Nightmare, Charlie Brown!",
+          "year": 1978,
+          "type": "movie",
+          "wiki": "What a Nightmare, Charlie Brown!",
+          "format": "TV special"
+        },
+        {
+          "title": "You're the Greatest, Charlie Brown",
+          "year": 1979,
+          "type": "movie",
+          "wiki": "You're the Greatest, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "She's a Good Skate, Charlie Brown",
+          "year": 1980,
+          "type": "movie",
+          "wiki": "She's a Good Skate, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "Life Is a Circus, Charlie Brown",
+          "year": 1980,
+          "type": "movie",
+          "wiki": "Life Is a Circus, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "Bon Voyage, Charlie Brown (and Don't Come Back!!)",
+          "year": 1980,
+          "type": "movie",
+          "wiki": "Bon Voyage, Charlie Brown (and Don't Come Back!!)"
+        },
+        {
+          "title": "It's Magic, Charlie Brown",
+          "year": 1981,
+          "type": "movie",
+          "wiki": "It's Magic, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "Someday You'll Find Her, Charlie Brown",
+          "year": 1981,
+          "type": "movie",
+          "wiki": "Someday You'll Find Her, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "A Charlie Brown Celebration",
+          "year": 1982,
+          "type": "movie",
+          "wiki": "A Charlie Brown Celebration",
+          "format": "TV special"
+        },
+        {
+          "title": "Is This Goodbye, Charlie Brown?",
+          "year": 1983,
+          "type": "movie",
+          "wiki": "Is This Goodbye, Charlie Brown?",
+          "format": "TV special"
+        },
+        {
+          "title": "It's an Adventure, Charlie Brown",
+          "year": 1983,
+          "type": "movie",
+          "wiki": "It's an Adventure, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "What Have We Learned, Charlie Brown?",
+          "year": 1983,
+          "type": "movie",
+          "wiki": "What Have We Learned, Charlie Brown?",
+          "format": "TV special"
+        },
+        {
+          "title": "The Charlie Brown and Snoopy Show",
+          "year": 1983,
+          "type": "tv",
+          "wiki": "The Charlie Brown and Snoopy Show"
+        },
+        {
+          "title": "It's Flashbeagle, Charlie Brown",
+          "year": 1984,
+          "type": "movie",
+          "wiki": "It's Flashbeagle, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "Snoopy's Getting Married, Charlie Brown",
+          "year": 1985,
+          "type": "movie",
+          "wiki": "Snoopy's Getting Married, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "You're a Good Man, Charlie Brown",
+          "year": 1985,
+          "type": "movie",
+          "wiki": "You're a Good Man, Charlie Brown (1985 TV special)",
+          "format": "TV special"
+        },
+        {
+          "title": "Happy New Year, Charlie Brown!",
+          "year": 1986,
+          "type": "movie",
+          "wiki": "Happy New Year, Charlie Brown!",
+          "format": "TV special"
+        },
+        {
+          "title": "Snoopy! The Musical",
+          "year": 1988,
+          "type": "movie",
+          "wiki": "Snoopy! The Musical",
+          "format": "TV special"
+        },
+        {
+          "title": "It's the Girl in the Red Truck, Charlie Brown",
+          "year": 1988,
+          "type": "movie",
+          "wiki": "It's the Girl in the Red Truck, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "This Is America, Charlie Brown",
+          "year": 1988,
+          "type": "tv",
+          "wiki": "This Is America, Charlie Brown",
+          "format": "miniseries"
+        },
+        {
+          "title": "Why, Charlie Brown, Why?",
+          "year": 1990,
+          "type": "movie",
+          "wiki": "Why, Charlie Brown, Why?",
+          "format": "TV special"
+        },
+        {
+          "title": "Snoopy's Reunion",
+          "year": 1991,
+          "type": "movie",
+          "wiki": "Snoopy's Reunion",
+          "format": "TV special"
+        },
+        {
+          "title": "It's Christmastime Again, Charlie Brown",
+          "year": 1992,
+          "type": "movie",
+          "wiki": "It's Christmastime Again, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "You're in the Super Bowl, Charlie Brown",
+          "year": 1994,
+          "type": "movie",
+          "wiki": "You're in the Super Bowl, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "It Was My Best Birthday Ever, Charlie Brown",
+          "year": 1997,
+          "type": "movie",
+          "wiki": "It Was My Best Birthday Ever, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "A Charlie Brown Valentine",
+          "year": 2002,
+          "type": "movie",
+          "wiki": "A Charlie Brown Valentine",
+          "format": "TV special"
+        },
+        {
+          "title": "Charlie Brown's Christmas Tales",
+          "year": 2002,
+          "type": "movie",
+          "wiki": "Charlie Brown's Christmas Tales",
+          "format": "TV special"
+        },
+        {
+          "title": "Lucy Must Be Traded, Charlie Brown",
+          "year": 2003,
+          "type": "movie",
+          "wiki": "Lucy Must Be Traded, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "I Want a Dog for Christmas, Charlie Brown",
+          "year": 2003,
+          "type": "movie",
+          "wiki": "I Want a Dog for Christmas, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "He's a Bully, Charlie Brown",
+          "year": 2006,
+          "type": "movie",
+          "wiki": "He's a Bully, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "Happiness Is a Warm Blanket, Charlie Brown",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Happiness Is a Warm Blanket, Charlie Brown",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Peanuts",
+          "year": 2014,
+          "type": "tv",
+          "wiki": "Peanuts (2014 TV series)"
+        },
+        {
+          "title": "The Peanuts Movie",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "The Peanuts Movie"
+        },
+        {
+          "title": "Snoopy in Space",
+          "year": 2019,
+          "type": "tv",
+          "wiki": "Snoopy in Space"
+        },
+        {
+          "title": "The Snoopy Show",
+          "year": 2021,
+          "type": "tv",
+          "wiki": "The Snoopy Show"
+        },
+        {
+          "title": "Snoopy Presents: For Auld Lang Syne",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Snoopy Presents: For Auld Lang Syne",
+          "format": "TV special"
+        },
+        {
+          "title": "Snoopy Presents: To Mom (and Dad), With Love",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Snoopy Presents: To Mom (and Dad), With Love",
+          "format": "TV special"
+        },
+        {
+          "title": "Snoopy Presents: It's the Small Things, Charlie Brown",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Snoopy Presents: It's the Small Things, Charlie Brown",
+          "format": "TV special"
+        },
+        {
+          "title": "Snoopy Presents: Lucy's School",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Snoopy Presents: Lucy's School",
+          "format": "TV special"
+        },
+        {
+          "title": "Snoopy Presents: One-of-a-Kind Marcie",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "Snoopy Presents: One-of-a-Kind Marcie",
+          "format": "TV special"
+        },
+        {
+          "title": "Snoopy Presents: Welcome Home, Franklin",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Snoopy Presents: Welcome Home, Franklin",
+          "format": "TV special"
+        },
+        {
+          "title": "Camp Snoopy",
+          "year": 2024,
+          "type": "tv",
+          "wiki": "Camp Snoopy (TV series)"
+        },
+        {
+          "title": "Snoopy Presents: A Summer Musical",
+          "year": 2025,
+          "type": "movie",
+          "wiki": "Snoopy Presents: A Summer Musical",
+          "format": "TV special"
+        },
+        {
+          "title": "Snoopy Presents: There's No Place Like Home, Snoopy",
+          "year": 2026,
+          "type": "movie",
+          "format": "TV special"
+        }
+      ]
+    },
+    {
+      "id": "cur-alvin-and-the-chipmunks",
+      "name": "Alvin and the Chipmunks",
+      "kind": "Franchise",
+      "items": [
+        {
+          "title": "The Alvin Show",
+          "year": 1961,
+          "type": "tv",
+          "wiki": "The Alvin Show"
+        },
+        {
+          "title": "A Chipmunk Christmas",
+          "year": 1981,
+          "type": "movie",
+          "wiki": "A Chipmunk Christmas",
+          "format": "TV special"
+        },
+        {
+          "title": "Alvin and the Chipmunks",
+          "year": 1983,
+          "type": "tv",
+          "wiki": "Alvin and the Chipmunks (1983 TV series)"
+        },
+        {
+          "title": "I Love the Chipmunks Valentine Special",
+          "year": 1984,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "A Chipmunk Reunion",
+          "year": 1985,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "The Chipmunk Adventure",
+          "year": 1987,
+          "type": "movie",
+          "wiki": "The Chipmunk Adventure"
+        },
+        {
+          "title": "Rockin' Through the Decades",
+          "year": 1990,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "Trick or Treason",
+          "year": 1994,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "Rockin' with the Chipmunks",
+          "year": 1994,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "The Easter Chipmunk",
+          "year": 1995,
+          "type": "movie",
+          "format": "TV special"
+        },
+        {
+          "title": "Alvin and the Chipmunks Meet Frankenstein",
+          "year": 1999,
+          "type": "movie",
+          "wiki": "Alvin and the Chipmunks Meet Frankenstein",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Alvin and the Chipmunks Meet the Wolfman",
+          "year": 2000,
+          "type": "movie",
+          "wiki": "Alvin and the Chipmunks Meet the Wolfman",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Little Alvin and the Mini-Munks",
+          "year": 2003,
+          "type": "movie",
+          "wiki": "Little Alvin and the Mini-Munks",
+          "format": "direct-to-video"
+        },
+        {
+          "title": "Alvin and the Chipmunks",
+          "year": 2007,
+          "type": "movie",
+          "wiki": "Alvin and the Chipmunks (film)"
+        },
+        {
+          "title": "Alvin and the Chipmunks: The Squeakquel",
+          "year": 2009,
+          "type": "movie",
+          "wiki": "Alvin and the Chipmunks: The Squeakquel"
+        },
+        {
+          "title": "Alvin and the Chipmunks: Chipwrecked",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Alvin and the Chipmunks: Chipwrecked"
+        },
+        {
+          "title": "Alvin and the Chipmunks: Halloween Collection",
+          "year": 2012,
+          "type": "movie",
+          "format": "compilation"
+        },
+        {
+          "title": "Alvin and the Chipmunks: The Road Chip",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Alvin and the Chipmunks: The Road Chip"
+        },
+        {
+          "title": "ALVINNN!!! and the Chipmunks",
+          "year": 2015,
+          "type": "tv",
+          "wiki": "ALVINNN!!! and the Chipmunks"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4126 @@
+{
+ "collections": [
+  {
+   "id": "cur-walt-disney-animation-studios",
+   "name": "Walt Disney Animation Studios",
+   "kind": "Studio",
+   "items": [
+    {
+     "title": "Snow White and the Seven Dwarfs",
+     "year": 1937,
+     "type": "movie",
+     "wiki": "Snow White and the Seven Dwarfs (film)"
+    },
+    {
+     "title": "Pinocchio",
+     "year": 1940,
+     "type": "movie",
+     "wiki": "Pinocchio (1940 film)"
+    },
+    {
+     "title": "Fantasia",
+     "year": 1940,
+     "type": "movie",
+     "wiki": "Fantasia (1940 film)"
+    },
+    {
+     "title": "Dumbo",
+     "year": 1941,
+     "type": "movie",
+     "wiki": "Dumbo"
+    },
+    {
+     "title": "Bambi",
+     "year": 1942,
+     "type": "movie",
+     "wiki": "Bambi"
+    },
+    {
+     "title": "Saludos Amigos",
+     "year": 1943,
+     "type": "movie",
+     "wiki": "Saludos Amigos"
+    },
+    {
+     "title": "The Three Caballeros",
+     "year": 1945,
+     "type": "movie",
+     "wiki": "The Three Caballeros"
+    },
+    {
+     "title": "Make Mine Music",
+     "year": 1946,
+     "type": "movie",
+     "wiki": "Make Mine Music"
+    },
+    {
+     "title": "Fun and Fancy Free",
+     "year": 1947,
+     "type": "movie",
+     "wiki": "Fun and Fancy Free"
+    },
+    {
+     "title": "Melody Time",
+     "year": 1948,
+     "type": "movie",
+     "wiki": "Melody Time"
+    },
+    {
+     "title": "The Adventures of Ichabod and Mr. Toad",
+     "year": 1949,
+     "type": "movie",
+     "wiki": "The Adventures of Ichabod and Mr. Toad"
+    },
+    {
+     "title": "Cinderella",
+     "year": 1950,
+     "type": "movie",
+     "wiki": "Cinderella (1950 film)"
+    },
+    {
+     "title": "Alice in Wonderland",
+     "year": 1951,
+     "type": "movie",
+     "wiki": "Alice in Wonderland (1951 film)"
+    },
+    {
+     "title": "Peter Pan",
+     "year": 1953,
+     "type": "movie",
+     "wiki": "Peter Pan (1953 film)"
+    },
+    {
+     "title": "Lady and the Tramp",
+     "year": 1955,
+     "type": "movie",
+     "wiki": "Lady and the Tramp"
+    },
+    {
+     "title": "Sleeping Beauty",
+     "year": 1959,
+     "type": "movie",
+     "wiki": "Sleeping Beauty (1959 film)"
+    },
+    {
+     "title": "One Hundred and One Dalmatians",
+     "year": 1961,
+     "type": "movie",
+     "wiki": "One Hundred and One Dalmatians"
+    },
+    {
+     "title": "The Sword in the Stone",
+     "year": 1963,
+     "type": "movie",
+     "wiki": "The Sword in the Stone (1963 film)"
+    },
+    {
+     "title": "The Jungle Book",
+     "year": 1967,
+     "type": "movie",
+     "wiki": "The Jungle Book (1967 film)"
+    },
+    {
+     "title": "The Aristocats",
+     "year": 1970,
+     "type": "movie",
+     "wiki": "The Aristocats"
+    },
+    {
+     "title": "Robin Hood",
+     "year": 1973,
+     "type": "movie",
+     "wiki": "Robin Hood (1973 film)"
+    },
+    {
+     "title": "The Many Adventures of Winnie the Pooh",
+     "year": 1977,
+     "type": "movie",
+     "wiki": "The Many Adventures of Winnie the Pooh"
+    },
+    {
+     "title": "The Rescuers",
+     "year": 1977,
+     "type": "movie",
+     "wiki": "The Rescuers"
+    },
+    {
+     "title": "The Fox and the Hound",
+     "year": 1981,
+     "type": "movie",
+     "wiki": "The Fox and the Hound"
+    },
+    {
+     "title": "The Black Cauldron",
+     "year": 1985,
+     "type": "movie",
+     "wiki": "The Black Cauldron (film)"
+    },
+    {
+     "title": "The Great Mouse Detective",
+     "year": 1986,
+     "type": "movie",
+     "wiki": "The Great Mouse Detective"
+    },
+    {
+     "title": "Oliver & Company",
+     "year": 1988,
+     "type": "movie",
+     "wiki": "Oliver & Company"
+    },
+    {
+     "title": "The Little Mermaid",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "The Little Mermaid (1989 film)"
+    },
+    {
+     "title": "The Rescuers Down Under",
+     "year": 1990,
+     "type": "movie",
+     "wiki": "The Rescuers Down Under"
+    },
+    {
+     "title": "Beauty and the Beast",
+     "year": 1991,
+     "type": "movie",
+     "wiki": "Beauty and the Beast (1991 film)"
+    },
+    {
+     "title": "Aladdin",
+     "year": 1992,
+     "type": "movie",
+     "wiki": "Aladdin (1992 Disney film)"
+    },
+    {
+     "title": "The Lion King",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "The Lion King"
+    },
+    {
+     "title": "Pocahontas",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "Pocahontas (1995 film)"
+    },
+    {
+     "title": "The Hunchback of Notre Dame",
+     "year": 1996,
+     "type": "movie",
+     "wiki": "The Hunchback of Notre Dame (1996 film)"
+    },
+    {
+     "title": "Hercules",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Hercules (1997 film)"
+    },
+    {
+     "title": "Mulan",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "Mulan (1998 film)"
+    },
+    {
+     "title": "Tarzan",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Tarzan (1999 film)"
+    },
+    {
+     "title": "Fantasia 2000",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Fantasia 2000"
+    },
+    {
+     "title": "Dinosaur",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Dinosaur (2000 film)"
+    },
+    {
+     "title": "The Emperor's New Groove",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "The Emperor's New Groove"
+    },
+    {
+     "title": "Atlantis: The Lost Empire",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Atlantis: The Lost Empire"
+    },
+    {
+     "title": "Lilo and Stitch",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Lilo & Stitch",
+     "aka": [
+      "Lilo & Stitch"
+     ]
+    },
+    {
+     "title": "Treasure Planet",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Treasure Planet"
+    },
+    {
+     "title": "Brother Bear",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Brother Bear"
+    },
+    {
+     "title": "Home on the Range",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Home on the Range (2004 film)"
+    },
+    {
+     "title": "Chicken Little",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Chicken Little (2005 film)"
+    },
+    {
+     "title": "Meet the Robinsons",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Meet the Robinsons"
+    },
+    {
+     "title": "Bolt",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Bolt (2008 film)"
+    },
+    {
+     "title": "The Princess and the Frog",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "The Princess and the Frog"
+    },
+    {
+     "title": "Tangled",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Tangled"
+    },
+    {
+     "title": "Winnie the Pooh",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Winnie the Pooh (2011 film)"
+    },
+    {
+     "title": "Wreck-It Ralph",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Wreck-It Ralph"
+    },
+    {
+     "title": "Frozen",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Frozen (2013 film)"
+    },
+    {
+     "title": "Big Hero 6",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Big Hero 6 (film)"
+    },
+    {
+     "title": "Zootopia",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Zootopia",
+     "aka": [
+      "Zootropolis"
+     ]
+    },
+    {
+     "title": "Moana",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Moana (2016 film)"
+    },
+    {
+     "title": "Ralph Breaks the Internet",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Ralph Breaks the Internet"
+    },
+    {
+     "title": "Frozen II",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Frozen 2",
+     "aka": [
+      "Frozen 2"
+     ]
+    },
+    {
+     "title": "Raya and the Last Dragon",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Raya and the Last Dragon"
+    },
+    {
+     "title": "Encanto",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Encanto"
+    },
+    {
+     "title": "Strange World",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Strange World (film)"
+    },
+    {
+     "title": "Wish",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Wish (film)"
+    },
+    {
+     "title": "Moana 2",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Moana 2"
+    },
+    {
+     "title": "Zootopia 2",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Zootopia 2",
+     "aka": [
+      "Zootropolis 2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-disney-dtv-disneytoon",
+   "name": "Disney Direct-to-Video & DisneyToon Sequels",
+   "kind": "Studio",
+   "items": [
+    {
+     "title": "DuckTales the Movie: Treasure of the Lost Lamp",
+     "year": 1990,
+     "type": "movie",
+     "wiki": "DuckTales the Movie: Treasure of the Lost Lamp"
+    },
+    {
+     "title": "The Return of Jafar",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "The Return of Jafar",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "A Goofy Movie",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "A Goofy Movie"
+    },
+    {
+     "title": "Aladdin and the King of Thieves",
+     "year": 1996,
+     "type": "movie",
+     "wiki": "Aladdin and the King of Thieves",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Pooh's Grand Adventure: The Search for Christopher Robin",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Pooh's Grand Adventure: The Search for Christopher Robin",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Beauty and the Beast: The Enchanted Christmas",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Beauty and the Beast: The Enchanted Christmas",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Belle's Magical World",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "Belle's Magical World",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Pocahontas II: Journey to a New World",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "Pocahontas II: Journey to a New World",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "The Lion King II: Simba's Pride",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "The Lion King II: Simba's Pride",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Mickey's Once Upon a Christmas",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Mickey's Once Upon a Christmas",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Winnie the Pooh: Seasons of Giving",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Seasons of Giving",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "The Tigger Movie",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "The Tigger Movie"
+    },
+    {
+     "title": "An Extremely Goofy Movie",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "An Extremely Goofy Movie",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "The Little Mermaid II: Return to the Sea",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "The Little Mermaid II: Return to the Sea",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Lady and the Tramp II: Scamp's Adventure",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Lady and the Tramp II: Scamp's Adventure",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Mickey's Magical Christmas: Snowed in at the House of Mouse",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Mickey's Magical Christmas: Snowed in at the House of Mouse",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Return to Never Land",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Return to Never Land"
+    },
+    {
+     "title": "Cinderella II: Dreams Come True",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Cinderella II: Dreams Come True",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "The Hunchback of Notre Dame II",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "The Hunchback of Notre Dame II",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Tarzan & Jane",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Tarzan & Jane",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Mickey's House of Villains",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Mickey's House of Villains",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Winnie the Pooh: A Very Merry Pooh Year",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "A Very Merry Pooh Year",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "101 Dalmatians II: Patch's London Adventure",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "101 Dalmatians II: Patch's London Adventure",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "The Jungle Book 2",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "The Jungle Book 2"
+    },
+    {
+     "title": "Piglet's Big Movie",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Piglet's Big Movie"
+    },
+    {
+     "title": "Atlantis: Milo's Return",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Atlantis: Milo's Return",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Stitch! The Movie",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Stitch! The Movie",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "The Lion King 1½",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "The Lion King 1½",
+     "format": "Direct-to-video",
+     "aka": [
+      "The Lion King 3: Hakuna Matata"
+     ]
+    },
+    {
+     "title": "Winnie the Pooh: Springtime with Roo",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Springtime with Roo",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Mickey, Donald, Goofy: The Three Musketeers",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Mickey, Donald, Goofy: The Three Musketeers",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Mickey's Twice Upon a Christmas",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Mickey's Twice Upon a Christmas",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Mulan II",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Mulan II",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Pooh's Heffalump Movie",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Pooh's Heffalump Movie"
+    },
+    {
+     "title": "Tarzan II",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Tarzan II",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Lilo and Stitch 2 Stitch Has A Glitch",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Lilo & Stitch 2: Stitch Has a Glitch",
+     "format": "Direct-to-video",
+     "aka": [
+      "Lilo & Stitch 2: Stitch Has a Glitch"
+     ]
+    },
+    {
+     "title": "Pooh's Heffalump Halloween Movie",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Pooh's Heffalump Halloween Movie",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Kronk's New Groove",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Kronk's New Groove",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Bambi II",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Bambi II",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Leroy & Stitch",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Leroy & Stitch",
+     "format": "TV film"
+    },
+    {
+     "title": "Brother Bear 2",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Brother Bear 2",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "The Fox and the Hound 2",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "The Fox and the Hound 2",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Cinderella III: A Twist in Time",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Cinderella III: A Twist in Time",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Disney Princess Enchanted Tales: Follow Your Dreams",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Disney Princess Enchanted Tales: Follow Your Dreams",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Super Sleuth Christmas Movie",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Super Sleuth Christmas Movie",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "The Little Mermaid: Ariel's Beginning",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "The Little Mermaid: Ariel's Beginning",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Tinker Bell",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Tinker Bell (film)",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Tinker Bell And The Lost Treasure",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Tinker Bell and the Lost Treasure",
+     "format": "Direct-to-video",
+     "aka": [
+      "Tinker Bell and the Lost Treasure"
+     ]
+    },
+    {
+     "title": "Tigger & Pooh and a Musical Too",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Tigger & Pooh and a Musical Too",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Tinker Bell and the Great Fairy Rescue",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Tinker Bell and the Great Fairy Rescue",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Pixie Hollow Games",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Pixie Hollow Games",
+     "format": "TV special"
+    },
+    {
+     "title": "Tangled Ever After",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Tangled Ever After",
+     "format": "Short"
+    },
+    {
+     "title": "Tinker Bell Secret of the Wings",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Secret of the Wings",
+     "format": "Direct-to-video",
+     "aka": [
+      "Secret of the Wings"
+     ]
+    },
+    {
+     "title": "Planes",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Planes (film)"
+    },
+    {
+     "title": "Pixie Hollow Bake Off",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Pixie Hollow Bake Off",
+     "format": "Short"
+    },
+    {
+     "title": "Tinker Bell and the Pirate Fairy",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "The Pirate Fairy",
+     "format": "Direct-to-video",
+     "aka": [
+      "The Pirate Fairy"
+     ]
+    },
+    {
+     "title": "Planes: Fire & Rescue",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Planes: Fire & Rescue"
+    },
+    {
+     "title": "Tinker Bell and the Legend of the NeverBeast",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Tinker Bell and the Legend of the NeverBeast",
+     "format": "Direct-to-video",
+     "aka": [
+      "Legend of the NeverBeast"
+     ]
+    },
+    {
+     "title": "Frozen Fever",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Frozen Fever",
+     "format": "Short"
+    },
+    {
+     "title": "Olaf's Frozen Adventure",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Olaf's Frozen Adventure",
+     "format": "Featurette"
+    },
+    {
+     "title": "Once Upon a Snowman",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Once Upon a Snowman",
+     "format": "Short"
+    }
+   ]
+  },
+  {
+   "id": "cur-disney-other-animated-features",
+   "name": "Disney Animated Features (Outside the Canon)",
+   "kind": "Studio",
+   "items": [
+    {
+     "title": "Who Framed Roger Rabbit",
+     "year": 1988,
+     "type": "movie",
+     "wiki": "Who Framed Roger Rabbit",
+     "format": "Live-action/animation hybrid"
+    },
+    {
+     "title": "The Nightmare Before Christmas",
+     "year": 1993,
+     "type": "movie",
+     "wiki": "The Nightmare Before Christmas",
+     "aka": [
+      "Tim Burton's The Nightmare Before Christmas"
+     ]
+    },
+    {
+     "title": "James and the Giant Peach",
+     "year": 1996,
+     "type": "movie",
+     "wiki": "James and the Giant Peach (film)"
+    },
+    {
+     "title": "Doug's 1st Movie",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Doug's 1st Movie"
+    },
+    {
+     "title": "Recess: School's Out",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Recess: School's Out"
+    },
+    {
+     "title": "Teacher's Pet",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Teacher's Pet (2004 film)"
+    },
+    {
+     "title": "The Wild",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "The Wild"
+    },
+    {
+     "title": "A Christmas Carol",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "A Christmas Carol (2009 film)",
+     "aka": [
+      "Disney's A Christmas Carol"
+     ]
+    },
+    {
+     "title": "Gnomeo & Juliet",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Gnomeo & Juliet"
+    },
+    {
+     "title": "Mars Needs Moms",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Mars Needs Moms"
+    },
+    {
+     "title": "Frankenweenie",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Frankenweenie (2012 film)"
+    },
+    {
+     "title": "Strange Magic",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Strange Magic (film)"
+    },
+    {
+     "title": "Phineas and Ferb the Movie: Candace Against the Universe",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Phineas and Ferb the Movie: Candace Against the Universe",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Chip 'n' Dale: Rescue Rangers",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Chip 'n Dale: Rescue Rangers (film)",
+     "format": "Disney+ original",
+     "aka": [
+      "Chip 'n Dale: Rescue Rangers"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-disney-animated-series-spinoffs",
+   "name": "Disney Animated Series (Film Spin-offs)",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "The New Adventures of Winnie the Pooh",
+     "year": 1988,
+     "type": "tv",
+     "wiki": "The New Adventures of Winnie the Pooh"
+    },
+    {
+     "title": "The Little Mermaid",
+     "year": 1992,
+     "type": "tv",
+     "wiki": "The Little Mermaid (TV series)"
+    },
+    {
+     "title": "Aladdin",
+     "year": 1994,
+     "type": "tv",
+     "wiki": "Aladdin (animated TV series)"
+    },
+    {
+     "title": "Timon & Pumbaa",
+     "year": 1995,
+     "type": "tv",
+     "wiki": "Timon & Pumbaa (TV series)"
+    },
+    {
+     "title": "Jungle Cubs",
+     "year": 1996,
+     "type": "tv",
+     "wiki": "Jungle Cubs"
+    },
+    {
+     "title": "101 Dalmatians: The Series",
+     "year": 1997,
+     "type": "tv",
+     "wiki": "101 Dalmatians: The Series"
+    },
+    {
+     "title": "Hercules",
+     "year": 1998,
+     "type": "tv",
+     "wiki": "Hercules (1998 TV series)",
+     "aka": [
+      "Hercules: The Animated Series"
+     ]
+    },
+    {
+     "title": "The Legend of Tarzan",
+     "year": 2001,
+     "type": "tv",
+     "wiki": "The Legend of Tarzan (TV series)"
+    },
+    {
+     "title": "Lilo & Stitch: The Series",
+     "year": 2003,
+     "type": "tv",
+     "wiki": "Lilo & Stitch: The Series"
+    },
+    {
+     "title": "The Emperor's New School",
+     "year": 2006,
+     "type": "tv",
+     "wiki": "The Emperor's New School"
+    },
+    {
+     "title": "My Friends Tigger & Pooh",
+     "year": 2007,
+     "type": "tv",
+     "wiki": "My Friends Tigger & Pooh"
+    },
+    {
+     "title": "Stitch!",
+     "year": 2008,
+     "type": "tv",
+     "wiki": "Stitch!"
+    },
+    {
+     "title": "Jake and the Never Land Pirates",
+     "year": 2011,
+     "type": "tv",
+     "wiki": "Jake and the Never Land Pirates"
+    },
+    {
+     "title": "The Lion Guard: Return of the Roar",
+     "year": 2015,
+     "type": "movie",
+     "format": "TV film"
+    },
+    {
+     "title": "The Lion Guard",
+     "year": 2016,
+     "type": "tv",
+     "wiki": "The Lion Guard"
+    },
+    {
+     "title": "Tangled: Before Ever After",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Tangled: Before Ever After",
+     "format": "TV film"
+    },
+    {
+     "title": "Rapunzel's Tangled Adventure",
+     "year": 2017,
+     "type": "tv",
+     "wiki": "Rapunzel's Tangled Adventure",
+     "aka": [
+      "Tangled: The Series"
+     ]
+    },
+    {
+     "title": "Stitch & Ai",
+     "year": 2017,
+     "type": "tv",
+     "wiki": "Stitch & Ai"
+    },
+    {
+     "title": "Big Hero 6: The Series",
+     "year": 2017,
+     "type": "tv",
+     "wiki": "Big Hero 6: The Series"
+    },
+    {
+     "title": "101 Dalmatian Street",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "101 Dalmatian Street"
+    },
+    {
+     "title": "Olaf Presents",
+     "year": 2021,
+     "type": "tv",
+     "wiki": "Olaf Presents",
+     "format": "Shorts series"
+    },
+    {
+     "title": "Alice's Wonderland Bakery",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "Alice's Wonderland Bakery"
+    },
+    {
+     "title": "Baymax!",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "Baymax!"
+    },
+    {
+     "title": "Zootopia+",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "Zootopia+"
+    },
+    {
+     "title": "Ariel",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Ariel (TV series)"
+    }
+   ]
+  },
+  {
+   "id": "cur-disney-live-action-remakes",
+   "name": "Disney Live-Action Remakes",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Rudyard Kipling's The Jungle Book",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "The Jungle Book (1994 film)",
+     "aka": [
+      "The Jungle Book"
+     ]
+    },
+    {
+     "title": "101 Dalmatians",
+     "year": 1996,
+     "type": "movie",
+     "wiki": "101 Dalmatians (1996 film)"
+    },
+    {
+     "title": "The Jungle Book: Mowgli's Story",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "The Jungle Book: Mowgli's Story",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "102 Dalmatians",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "102 Dalmatians"
+    },
+    {
+     "title": "Alice in Wonderland",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Alice in Wonderland (2010 film)"
+    },
+    {
+     "title": "The Sorcerer's Apprentice",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "The Sorcerer's Apprentice (2010 film)"
+    },
+    {
+     "title": "Maleficent",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Maleficent (film)"
+    },
+    {
+     "title": "Cinderella",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Cinderella (2015 American film)"
+    },
+    {
+     "title": "The Jungle Book",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "The Jungle Book (2016 film)"
+    },
+    {
+     "title": "Alice Through the Looking Glass",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Alice Through the Looking Glass (2016 film)"
+    },
+    {
+     "title": "Beauty and the Beast",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Beauty and the Beast (2017 film)"
+    },
+    {
+     "title": "Christopher Robin",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Christopher Robin (film)"
+    },
+    {
+     "title": "Dumbo",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Dumbo (2019 film)"
+    },
+    {
+     "title": "Aladdin",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Aladdin (2019 film)"
+    },
+    {
+     "title": "The Lion King",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "The Lion King (2019 film)"
+    },
+    {
+     "title": "Maleficent: Mistress of Evil",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Maleficent: Mistress of Evil"
+    },
+    {
+     "title": "Lady and the Tramp",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Lady and the Tramp (2019 film)",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Mulan",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Mulan (2020 film)"
+    },
+    {
+     "title": "Cruella",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Cruella (film)"
+    },
+    {
+     "title": "Pinocchio",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Pinocchio (2022 live-action film)",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Peter Pan & Wendy",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Peter Pan & Wendy (film)",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "The Little Mermaid",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "The Little Mermaid (2023 film)"
+    },
+    {
+     "title": "Mufasa: The Lion King",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Mufasa: The Lion King"
+    },
+    {
+     "title": "Snow White",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Snow White (2025 film)"
+    },
+    {
+     "title": "Lilo & Stitch",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Lilo & Stitch (2025 film)"
+    },
+    {
+     "title": "Moana",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Moana (2026 film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-classic-disney-live-action",
+   "name": "Classic Disney Live-Action",
+   "kind": "Studio",
+   "items": [
+    {
+     "title": "The Reluctant Dragon",
+     "year": 1941,
+     "type": "movie",
+     "wiki": "The Reluctant Dragon (1941 film)",
+     "format": "Live-action/animation hybrid"
+    },
+    {
+     "title": "Song of the South",
+     "year": 1946,
+     "type": "movie",
+     "wiki": "Song of the South",
+     "format": "Live-action/animation hybrid"
+    },
+    {
+     "title": "So Dear to My Heart",
+     "year": 1948,
+     "type": "movie",
+     "wiki": "So Dear to My Heart",
+     "format": "Live-action/animation hybrid"
+    },
+    {
+     "title": "Treasure Island",
+     "year": 1950,
+     "type": "movie",
+     "wiki": "Treasure Island (1950 film)"
+    },
+    {
+     "title": "The Story of Robin Hood",
+     "year": 1952,
+     "type": "movie",
+     "wiki": "The Story of Robin Hood and His Merrie Men"
+    },
+    {
+     "title": "The Sword and the Rose",
+     "year": 1953,
+     "type": "movie",
+     "wiki": "The Sword and the Rose"
+    },
+    {
+     "title": "Rob Roy: The Highland Rogue",
+     "year": 1954,
+     "type": "movie",
+     "wiki": "Rob Roy: The Highland Rogue"
+    },
+    {
+     "title": "20,000 Leagues Under the Sea",
+     "year": 1954,
+     "type": "movie",
+     "wiki": "20,000 Leagues Under the Sea (1954 film)"
+    },
+    {
+     "title": "Davy Crockett: King of the Wild Frontier",
+     "year": 1955,
+     "type": "movie",
+     "wiki": "Davy Crockett: King of the Wild Frontier",
+     "format": "Compilation film"
+    },
+    {
+     "title": "The Littlest Outlaw",
+     "year": 1955,
+     "type": "movie",
+     "wiki": "The Littlest Outlaw"
+    },
+    {
+     "title": "The Great Locomotive Chase",
+     "year": 1956,
+     "type": "movie",
+     "wiki": "The Great Locomotive Chase"
+    },
+    {
+     "title": "Davy Crockett and the River Pirates",
+     "year": 1956,
+     "type": "movie",
+     "wiki": "Davy Crockett and the River Pirates",
+     "format": "Compilation film"
+    },
+    {
+     "title": "Westward Ho the Wagons!",
+     "year": 1956,
+     "type": "movie",
+     "wiki": "Westward Ho the Wagons!"
+    },
+    {
+     "title": "Johnny Tremain",
+     "year": 1957,
+     "type": "movie",
+     "wiki": "Johnny Tremain (film)"
+    },
+    {
+     "title": "Perri",
+     "year": 1957,
+     "type": "movie",
+     "wiki": "Perri (film)",
+     "format": "True-Life Fantasy"
+    },
+    {
+     "title": "Old Yeller",
+     "year": 1957,
+     "type": "movie",
+     "wiki": "Old Yeller (film)"
+    },
+    {
+     "title": "The Light in the Forest",
+     "year": 1958,
+     "type": "movie",
+     "wiki": "The Light in the Forest (film)"
+    },
+    {
+     "title": "Tonka",
+     "year": 1958,
+     "type": "movie",
+     "wiki": "Tonka (film)"
+    },
+    {
+     "title": "The Shaggy Dog",
+     "year": 1959,
+     "type": "movie",
+     "wiki": "The Shaggy Dog (1959 film)"
+    },
+    {
+     "title": "Darby O'Gill and the Little People",
+     "year": 1959,
+     "type": "movie",
+     "wiki": "Darby O'Gill and the Little People"
+    },
+    {
+     "title": "Third Man on the Mountain",
+     "year": 1959,
+     "type": "movie",
+     "wiki": "Third Man on the Mountain"
+    },
+    {
+     "title": "Toby Tyler or 10 Weeks with a Circus",
+     "year": 1960,
+     "type": "movie",
+     "wiki": "Toby Tyler or 10 Weeks with a Circus"
+    },
+    {
+     "title": "Kidnapped",
+     "year": 1960,
+     "type": "movie",
+     "wiki": "Kidnapped (1960 film)"
+    },
+    {
+     "title": "Pollyanna",
+     "year": 1960,
+     "type": "movie",
+     "wiki": "Pollyanna (1960 film)"
+    },
+    {
+     "title": "The Sign of Zorro",
+     "year": 1960,
+     "type": "movie",
+     "format": "Compilation film"
+    },
+    {
+     "title": "Ten Who Dared",
+     "year": 1960,
+     "type": "movie",
+     "wiki": "Ten Who Dared"
+    },
+    {
+     "title": "Swiss Family Robinson",
+     "year": 1960,
+     "type": "movie",
+     "wiki": "Swiss Family Robinson (1960 film)"
+    },
+    {
+     "title": "The Absent-Minded Professor",
+     "year": 1961,
+     "type": "movie",
+     "wiki": "The Absent-Minded Professor"
+    },
+    {
+     "title": "The Parent Trap",
+     "year": 1961,
+     "type": "movie",
+     "wiki": "The Parent Trap (1961 film)"
+    },
+    {
+     "title": "Nikki: Wild Dog of the North",
+     "year": 1961,
+     "type": "movie",
+     "wiki": "Nikki: Wild Dog of the North"
+    },
+    {
+     "title": "Greyfriars Bobby",
+     "year": 1961,
+     "type": "movie",
+     "wiki": "Greyfriars Bobby (film)"
+    },
+    {
+     "title": "Babes in Toyland",
+     "year": 1961,
+     "type": "movie",
+     "wiki": "Babes in Toyland (1961 film)"
+    },
+    {
+     "title": "Moon Pilot",
+     "year": 1962,
+     "type": "movie",
+     "wiki": "Moon Pilot"
+    },
+    {
+     "title": "Bon Voyage!",
+     "year": 1962,
+     "type": "movie",
+     "wiki": "Bon Voyage! (1962 film)"
+    },
+    {
+     "title": "Big Red",
+     "year": 1962,
+     "type": "movie",
+     "wiki": "Big Red (film)"
+    },
+    {
+     "title": "Almost Angels",
+     "year": 1962,
+     "type": "movie",
+     "wiki": "Almost Angels"
+    },
+    {
+     "title": "The Legend of Lobo",
+     "year": 1962,
+     "type": "movie",
+     "wiki": "The Legend of Lobo"
+    },
+    {
+     "title": "In Search of the Castaways",
+     "year": 1962,
+     "type": "movie",
+     "wiki": "In Search of the Castaways (film)"
+    },
+    {
+     "title": "Son of Flubber",
+     "year": 1963,
+     "type": "movie",
+     "wiki": "Son of Flubber"
+    },
+    {
+     "title": "Miracle of the White Stallions",
+     "year": 1963,
+     "type": "movie",
+     "wiki": "Miracle of the White Stallions"
+    },
+    {
+     "title": "Savage Sam",
+     "year": 1963,
+     "type": "movie",
+     "wiki": "Savage Sam (film)"
+    },
+    {
+     "title": "Summer Magic",
+     "year": 1963,
+     "type": "movie",
+     "wiki": "Summer Magic (film)"
+    },
+    {
+     "title": "The Incredible Journey",
+     "year": 1963,
+     "type": "movie",
+     "wiki": "The Incredible Journey (film)"
+    },
+    {
+     "title": "A Tiger Walks",
+     "year": 1964,
+     "type": "movie",
+     "wiki": "A Tiger Walks"
+    },
+    {
+     "title": "The Misadventures of Merlin Jones",
+     "year": 1964,
+     "type": "movie",
+     "wiki": "The Misadventures of Merlin Jones"
+    },
+    {
+     "title": "The Three Lives of Thomasina",
+     "year": 1964,
+     "type": "movie",
+     "wiki": "The Three Lives of Thomasina"
+    },
+    {
+     "title": "The Moon-Spinners",
+     "year": 1964,
+     "type": "movie",
+     "wiki": "The Moon-Spinners"
+    },
+    {
+     "title": "Mary Poppins",
+     "year": 1964,
+     "type": "movie",
+     "wiki": "Mary Poppins (film)"
+    },
+    {
+     "title": "Those Calloways",
+     "year": 1964,
+     "type": "movie",
+     "wiki": "Those Calloways"
+    },
+    {
+     "title": "Emil and the Detectives",
+     "year": 1964,
+     "type": "movie",
+     "wiki": "Emil and the Detectives (1964 film)"
+    },
+    {
+     "title": "The Monkey's Uncle",
+     "year": 1965,
+     "type": "movie",
+     "wiki": "The Monkey's Uncle"
+    },
+    {
+     "title": "That Darn Cat!",
+     "year": 1965,
+     "type": "movie",
+     "wiki": "That Darn Cat!"
+    },
+    {
+     "title": "The Ugly Dachshund",
+     "year": 1966,
+     "type": "movie",
+     "wiki": "The Ugly Dachshund"
+    },
+    {
+     "title": "Lt. Robin Crusoe, U.S.N.",
+     "year": 1966,
+     "type": "movie",
+     "wiki": "Lt. Robin Crusoe, U.S.N."
+    },
+    {
+     "title": "The Fighting Prince of Donegal",
+     "year": 1966,
+     "type": "movie",
+     "wiki": "The Fighting Prince of Donegal"
+    },
+    {
+     "title": "Follow Me, Boys!",
+     "year": 1966,
+     "type": "movie",
+     "wiki": "Follow Me, Boys!"
+    },
+    {
+     "title": "Monkeys, Go Home!",
+     "year": 1967,
+     "type": "movie",
+     "wiki": "Monkeys, Go Home!"
+    },
+    {
+     "title": "The Adventures of Bullwhip Griffin",
+     "year": 1967,
+     "type": "movie",
+     "wiki": "The Adventures of Bullwhip Griffin"
+    },
+    {
+     "title": "The Gnome-Mobile",
+     "year": 1967,
+     "type": "movie",
+     "wiki": "The Gnome-Mobile"
+    },
+    {
+     "title": "Charlie, the Lonesome Cougar",
+     "year": 1967,
+     "type": "movie",
+     "wiki": "Charlie, the Lonesome Cougar"
+    },
+    {
+     "title": "The Happiest Millionaire",
+     "year": 1967,
+     "type": "movie",
+     "wiki": "The Happiest Millionaire"
+    },
+    {
+     "title": "Blackbeard's Ghost",
+     "year": 1968,
+     "type": "movie",
+     "wiki": "Blackbeard's Ghost"
+    },
+    {
+     "title": "The One and Only, Genuine, Original Family Band",
+     "year": 1968,
+     "type": "movie",
+     "wiki": "The One and Only, Genuine, Original Family Band"
+    },
+    {
+     "title": "Never a Dull Moment",
+     "year": 1968,
+     "type": "movie",
+     "wiki": "Never a Dull Moment (1968 film)"
+    },
+    {
+     "title": "The Horse in the Gray Flannel Suit",
+     "year": 1968,
+     "type": "movie",
+     "wiki": "The Horse in the Gray Flannel Suit"
+    },
+    {
+     "title": "The Love Bug",
+     "year": 1969,
+     "type": "movie",
+     "wiki": "The Love Bug"
+    },
+    {
+     "title": "Smith!",
+     "year": 1969,
+     "type": "movie",
+     "wiki": "Smith!"
+    },
+    {
+     "title": "Rascal",
+     "year": 1969,
+     "type": "movie",
+     "wiki": "Rascal (film)"
+    },
+    {
+     "title": "The Computer Wore Tennis Shoes",
+     "year": 1969,
+     "type": "movie",
+     "wiki": "The Computer Wore Tennis Shoes"
+    },
+    {
+     "title": "King of the Grizzlies",
+     "year": 1970,
+     "type": "movie",
+     "wiki": "King of the Grizzlies"
+    },
+    {
+     "title": "The Boatniks",
+     "year": 1970,
+     "type": "movie",
+     "wiki": "The Boatniks"
+    },
+    {
+     "title": "The Wild Country",
+     "year": 1970,
+     "type": "movie",
+     "wiki": "The Wild Country"
+    },
+    {
+     "title": "The Barefoot Executive",
+     "year": 1971,
+     "type": "movie",
+     "wiki": "The Barefoot Executive"
+    },
+    {
+     "title": "Scandalous John",
+     "year": 1971,
+     "type": "movie",
+     "wiki": "Scandalous John"
+    },
+    {
+     "title": "The Million Dollar Duck",
+     "year": 1971,
+     "type": "movie",
+     "wiki": "The Million Dollar Duck"
+    },
+    {
+     "title": "Bedknobs and Broomsticks",
+     "year": 1971,
+     "type": "movie",
+     "wiki": "Bedknobs and Broomsticks"
+    },
+    {
+     "title": "The Biscuit Eater",
+     "year": 1972,
+     "type": "movie",
+     "wiki": "The Biscuit Eater (1972 film)"
+    },
+    {
+     "title": "Now You See Him, Now You Don't",
+     "year": 1972,
+     "type": "movie",
+     "wiki": "Now You See Him, Now You Don't"
+    },
+    {
+     "title": "Napoleon and Samantha",
+     "year": 1972,
+     "type": "movie",
+     "wiki": "Napoleon and Samantha"
+    },
+    {
+     "title": "Run, Cougar, Run",
+     "year": 1972,
+     "type": "movie",
+     "wiki": "Run, Cougar, Run"
+    },
+    {
+     "title": "Snowball Express",
+     "year": 1972,
+     "type": "movie",
+     "wiki": "Snowball Express"
+    },
+    {
+     "title": "The World's Greatest Athlete",
+     "year": 1973,
+     "type": "movie",
+     "wiki": "The World's Greatest Athlete"
+    },
+    {
+     "title": "Charley and the Angel",
+     "year": 1973,
+     "type": "movie",
+     "wiki": "Charley and the Angel"
+    },
+    {
+     "title": "One Little Indian",
+     "year": 1973,
+     "type": "movie",
+     "wiki": "One Little Indian (film)"
+    },
+    {
+     "title": "Superdad",
+     "year": 1973,
+     "type": "movie",
+     "wiki": "Superdad"
+    },
+    {
+     "title": "Herbie Rides Again",
+     "year": 1974,
+     "type": "movie",
+     "wiki": "Herbie Rides Again"
+    },
+    {
+     "title": "The Bears and I",
+     "year": 1974,
+     "type": "movie",
+     "wiki": "The Bears and I"
+    },
+    {
+     "title": "The Castaway Cowboy",
+     "year": 1974,
+     "type": "movie",
+     "wiki": "The Castaway Cowboy"
+    },
+    {
+     "title": "The Island at the Top of the World",
+     "year": 1974,
+     "type": "movie",
+     "wiki": "The Island at the Top of the World"
+    },
+    {
+     "title": "The Strongest Man in the World",
+     "year": 1975,
+     "type": "movie",
+     "wiki": "The Strongest Man in the World"
+    },
+    {
+     "title": "Escape to Witch Mountain",
+     "year": 1975,
+     "type": "movie",
+     "wiki": "Escape to Witch Mountain (1975 film)"
+    },
+    {
+     "title": "The Apple Dumpling Gang",
+     "year": 1975,
+     "type": "movie",
+     "wiki": "The Apple Dumpling Gang (film)"
+    },
+    {
+     "title": "One of Our Dinosaurs Is Missing",
+     "year": 1975,
+     "type": "movie",
+     "wiki": "One of Our Dinosaurs Is Missing"
+    },
+    {
+     "title": "Ride a Wild Pony",
+     "year": 1975,
+     "type": "movie",
+     "wiki": "Ride a Wild Pony"
+    },
+    {
+     "title": "No Deposit, No Return",
+     "year": 1976,
+     "type": "movie",
+     "wiki": "No Deposit, No Return"
+    },
+    {
+     "title": "The Littlest Horse Thieves",
+     "year": 1976,
+     "type": "movie",
+     "wiki": "The Littlest Horse Thieves"
+    },
+    {
+     "title": "Treasure of Matecumbe",
+     "year": 1976,
+     "type": "movie",
+     "wiki": "Treasure of Matecumbe"
+    },
+    {
+     "title": "Gus",
+     "year": 1976,
+     "type": "movie",
+     "wiki": "Gus (1976 film)"
+    },
+    {
+     "title": "The Shaggy D.A.",
+     "year": 1976,
+     "type": "movie",
+     "wiki": "The Shaggy D.A."
+    },
+    {
+     "title": "Freaky Friday",
+     "year": 1976,
+     "type": "movie",
+     "wiki": "Freaky Friday (1976 film)"
+    },
+    {
+     "title": "Herbie Goes to Monte Carlo",
+     "year": 1977,
+     "type": "movie",
+     "wiki": "Herbie Goes to Monte Carlo"
+    },
+    {
+     "title": "Pete's Dragon",
+     "year": 1977,
+     "type": "movie",
+     "wiki": "Pete's Dragon (1977 film)"
+    },
+    {
+     "title": "Candleshoe",
+     "year": 1977,
+     "type": "movie",
+     "wiki": "Candleshoe"
+    },
+    {
+     "title": "Return from Witch Mountain",
+     "year": 1978,
+     "type": "movie",
+     "wiki": "Return from Witch Mountain"
+    },
+    {
+     "title": "The Cat from Outer Space",
+     "year": 1978,
+     "type": "movie",
+     "wiki": "The Cat from Outer Space"
+    },
+    {
+     "title": "Hot Lead and Cold Feet",
+     "year": 1978,
+     "type": "movie",
+     "wiki": "Hot Lead and Cold Feet"
+    },
+    {
+     "title": "The North Avenue Irregulars",
+     "year": 1979,
+     "type": "movie",
+     "wiki": "The North Avenue Irregulars"
+    },
+    {
+     "title": "The Apple Dumpling Gang Rides Again",
+     "year": 1979,
+     "type": "movie",
+     "wiki": "The Apple Dumpling Gang Rides Again"
+    },
+    {
+     "title": "Unidentified Flying Oddball",
+     "year": 1979,
+     "type": "movie",
+     "wiki": "Unidentified Flying Oddball"
+    },
+    {
+     "title": "The Black Hole",
+     "year": 1979,
+     "type": "movie",
+     "wiki": "The Black Hole (1979 film)"
+    },
+    {
+     "title": "Midnight Madness",
+     "year": 1980,
+     "type": "movie",
+     "wiki": "Midnight Madness (1980 film)"
+    },
+    {
+     "title": "The Watcher in the Woods",
+     "year": 1980,
+     "type": "movie",
+     "wiki": "The Watcher in the Woods (1980 film)"
+    },
+    {
+     "title": "Herbie Goes Bananas",
+     "year": 1980,
+     "type": "movie",
+     "wiki": "Herbie Goes Bananas"
+    },
+    {
+     "title": "The Last Flight of Noah's Ark",
+     "year": 1980,
+     "type": "movie",
+     "wiki": "The Last Flight of Noah's Ark"
+    },
+    {
+     "title": "The Devil and Max Devlin",
+     "year": 1981,
+     "type": "movie",
+     "wiki": "The Devil and Max Devlin"
+    },
+    {
+     "title": "Amy",
+     "year": 1981,
+     "type": "movie",
+     "wiki": "Amy (1981 film)"
+    },
+    {
+     "title": "Condorman",
+     "year": 1981,
+     "type": "movie",
+     "wiki": "Condorman"
+    },
+    {
+     "title": "Night Crossing",
+     "year": 1982,
+     "type": "movie",
+     "wiki": "Night Crossing"
+    },
+    {
+     "title": "Tron",
+     "year": 1982,
+     "type": "movie",
+     "wiki": "Tron"
+    },
+    {
+     "title": "Tex",
+     "year": 1982,
+     "type": "movie",
+     "wiki": "Tex (film)"
+    },
+    {
+     "title": "Something Wicked This Way Comes",
+     "year": 1983,
+     "type": "movie",
+     "wiki": "Something Wicked This Way Comes (film)"
+    },
+    {
+     "title": "Never Cry Wolf",
+     "year": 1983,
+     "type": "movie",
+     "wiki": "Never Cry Wolf (film)"
+    },
+    {
+     "title": "Return to Oz",
+     "year": 1985,
+     "type": "movie",
+     "wiki": "Return to Oz"
+    },
+    {
+     "title": "The Journey of Natty Gann",
+     "year": 1985,
+     "type": "movie",
+     "wiki": "The Journey of Natty Gann"
+    },
+    {
+     "title": "One Magic Christmas",
+     "year": 1985,
+     "type": "movie",
+     "wiki": "One Magic Christmas"
+    },
+    {
+     "title": "Flight of the Navigator",
+     "year": 1986,
+     "type": "movie",
+     "wiki": "Flight of the Navigator"
+    },
+    {
+     "title": "Benji the Hunted",
+     "year": 1987,
+     "type": "movie",
+     "wiki": "Benji the Hunted"
+    },
+    {
+     "title": "Return to Snowy River",
+     "year": 1988,
+     "type": "movie",
+     "wiki": "The Man from Snowy River II"
+    },
+    {
+     "title": "Honey, I Shrunk the Kids",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "Honey, I Shrunk the Kids"
+    },
+    {
+     "title": "Cheetah",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "Cheetah (1989 film)"
+    },
+    {
+     "title": "Honey, I Blew Up the Kid",
+     "year": 1992,
+     "type": "movie",
+     "wiki": "Honey, I Blew Up the Kid"
+    },
+    {
+     "title": "Homeward Bound: The Incredible Journey",
+     "year": 1993,
+     "type": "movie",
+     "wiki": "Homeward Bound: The Incredible Journey"
+    },
+    {
+     "title": "Homeward Bound II: Lost in San Francisco",
+     "year": 1996,
+     "type": "movie",
+     "wiki": "Homeward Bound II: Lost in San Francisco"
+    },
+    {
+     "title": "That Darn Cat",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "That Darn Cat (1997 film)"
+    },
+    {
+     "title": "Honey, We Shrunk Ourselves",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Honey, We Shrunk Ourselves",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Flubber",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Flubber (film)"
+    },
+    {
+     "title": "The Parent Trap",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "The Parent Trap (1998 film)"
+    },
+    {
+     "title": "Freaky Friday",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Freaky Friday (2003 film)"
+    },
+    {
+     "title": "Herbie: Fully Loaded",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Herbie: Fully Loaded"
+    },
+    {
+     "title": "The Shaggy Dog",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "The Shaggy Dog (2006 film)"
+    },
+    {
+     "title": "Race to Witch Mountain",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Race to Witch Mountain"
+    },
+    {
+     "title": "TRON: Legacy",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Tron: Legacy",
+     "aka": [
+      "Tron: Legacy"
+     ]
+    },
+    {
+     "title": "Tron: Uprising",
+     "year": 2012,
+     "type": "tv",
+     "wiki": "Tron: Uprising"
+    },
+    {
+     "title": "Pete's Dragon",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Pete's Dragon (2016 film)"
+    },
+    {
+     "title": "Mary Poppins Returns",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Mary Poppins Returns"
+    },
+    {
+     "title": "Freakier Friday",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Freakier Friday"
+    },
+    {
+     "title": "Tron: Ares",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Tron: Ares"
+    }
+   ]
+  },
+  {
+   "id": "cur-disney-live-action-modern",
+   "name": "Disney Live-Action (1990–Present)",
+   "kind": "Studio",
+   "items": [
+    {
+     "title": "White Fang",
+     "year": 1991,
+     "type": "movie",
+     "wiki": "White Fang (1991 film)"
+    },
+    {
+     "title": "Shipwrecked",
+     "year": 1991,
+     "type": "movie",
+     "wiki": "Shipwrecked (1990 film)"
+    },
+    {
+     "title": "Wild Hearts Can't Be Broken",
+     "year": 1991,
+     "type": "movie",
+     "wiki": "Wild Hearts Can't Be Broken"
+    },
+    {
+     "title": "The Rocketeer",
+     "year": 1991,
+     "type": "movie",
+     "wiki": "The Rocketeer (film)"
+    },
+    {
+     "title": "Newsies",
+     "year": 1992,
+     "type": "movie",
+     "wiki": "Newsies"
+    },
+    {
+     "title": "The Mighty Ducks",
+     "year": 1992,
+     "type": "movie",
+     "wiki": "The Mighty Ducks (film)"
+    },
+    {
+     "title": "A Far Off Place",
+     "year": 1993,
+     "type": "movie",
+     "wiki": "A Far Off Place"
+    },
+    {
+     "title": "The Adventures of Huck Finn",
+     "year": 1993,
+     "type": "movie",
+     "wiki": "The Adventures of Huck Finn (1993 film)"
+    },
+    {
+     "title": "Hocus Pocus",
+     "year": 1993,
+     "type": "movie",
+     "wiki": "Hocus Pocus (1993 film)"
+    },
+    {
+     "title": "Cool Runnings",
+     "year": 1993,
+     "type": "movie",
+     "wiki": "Cool Runnings"
+    },
+    {
+     "title": "The Three Musketeers",
+     "year": 1993,
+     "type": "movie",
+     "wiki": "The Three Musketeers (1993 film)"
+    },
+    {
+     "title": "Iron Will",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "Iron Will"
+    },
+    {
+     "title": "Blank Check",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "Blank Check (film)"
+    },
+    {
+     "title": "D2: The Mighty Ducks",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "D2: The Mighty Ducks"
+    },
+    {
+     "title": "White Fang 2: Myth of the White Wolf",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "White Fang 2: Myth of the White Wolf"
+    },
+    {
+     "title": "Angels in the Outfield",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "Angels in the Outfield (1994 film)"
+    },
+    {
+     "title": "Squanto: A Warrior's Tale",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "Squanto: A Warrior's Tale"
+    },
+    {
+     "title": "The Santa Clause",
+     "year": 1994,
+     "type": "movie",
+     "wiki": "The Santa Clause"
+    },
+    {
+     "title": "Heavyweights",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "Heavyweights"
+    },
+    {
+     "title": "Man of the House",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "Man of the House (1995 film)"
+    },
+    {
+     "title": "Tall Tale",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "Tall Tale (film)"
+    },
+    {
+     "title": "Operation Dumbo Drop",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "Operation Dumbo Drop"
+    },
+    {
+     "title": "A Kid in King Arthur's Court",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "A Kid in King Arthur's Court"
+    },
+    {
+     "title": "The Big Green",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "The Big Green"
+    },
+    {
+     "title": "Tom and Huck",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "Tom and Huck"
+    },
+    {
+     "title": "First Kid",
+     "year": 1996,
+     "type": "movie",
+     "wiki": "First Kid"
+    },
+    {
+     "title": "D3: The Mighty Ducks",
+     "year": 1996,
+     "type": "movie",
+     "wiki": "D3: The Mighty Ducks"
+    },
+    {
+     "title": "Jungle 2 Jungle",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Jungle 2 Jungle"
+    },
+    {
+     "title": "George of the Jungle",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "George of the Jungle (film)"
+    },
+    {
+     "title": "Air Bud",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Air Bud"
+    },
+    {
+     "title": "RocketMan",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "RocketMan (1997 film)"
+    },
+    {
+     "title": "Mr. Magoo",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Mr. Magoo (film)"
+    },
+    {
+     "title": "Meet the Deedles",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "Meet the Deedles"
+    },
+    {
+     "title": "I'll Be Home for Christmas",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "I'll Be Home for Christmas (1998 film)"
+    },
+    {
+     "title": "Mighty Joe Young",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "Mighty Joe Young (1998 film)"
+    },
+    {
+     "title": "My Favorite Martian",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "My Favorite Martian (film)"
+    },
+    {
+     "title": "Inspector Gadget",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Inspector Gadget (film)"
+    },
+    {
+     "title": "The Straight Story",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "The Straight Story"
+    },
+    {
+     "title": "The Kid",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Disney's The Kid",
+     "aka": [
+      "Disney's The Kid"
+     ]
+    },
+    {
+     "title": "Remember the Titans",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Remember the Titans"
+    },
+    {
+     "title": "The Princess Diaries",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "The Princess Diaries (film)"
+    },
+    {
+     "title": "Max Keeble's Big Move",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Max Keeble's Big Move"
+    },
+    {
+     "title": "Snow Dogs",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Snow Dogs"
+    },
+    {
+     "title": "The Rookie",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "The Rookie (2002 film)"
+    },
+    {
+     "title": "The Country Bears",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "The Country Bears"
+    },
+    {
+     "title": "Tuck Everlasting",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Tuck Everlasting (2002 film)"
+    },
+    {
+     "title": "The Santa Clause 2",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "The Santa Clause 2"
+    },
+    {
+     "title": "Inspector Gadget 2",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Inspector Gadget 2",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Holes",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Holes (film)"
+    },
+    {
+     "title": "The Lizzie McGuire Movie",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "The Lizzie McGuire Movie"
+    },
+    {
+     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Pirates of the Caribbean: The Curse of the Black Pearl"
+    },
+    {
+     "title": "George of the Jungle 2",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "George of the Jungle 2",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "The Haunted Mansion",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "The Haunted Mansion (2003 film)"
+    },
+    {
+     "title": "The Young Black Stallion",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "The Young Black Stallion"
+    },
+    {
+     "title": "Miracle",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Miracle (2004 film)"
+    },
+    {
+     "title": "Confessions of a Teenage Drama Queen",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Confessions of a Teenage Drama Queen"
+    },
+    {
+     "title": "Around the World in 80 Days",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Around the World in 80 Days (2004 film)"
+    },
+    {
+     "title": "The Princess Diaries 2: Royal Engagement",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "The Princess Diaries 2: Royal Engagement"
+    },
+    {
+     "title": "National Treasure",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "National Treasure (film)"
+    },
+    {
+     "title": "The Pacifier",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "The Pacifier"
+    },
+    {
+     "title": "Ice Princess",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Ice Princess"
+    },
+    {
+     "title": "Sky High",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Sky High (2005 film)"
+    },
+    {
+     "title": "The Greatest Game Ever Played",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "The Greatest Game Ever Played"
+    },
+    {
+     "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+    },
+    {
+     "title": "Glory Road",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Glory Road (film)"
+    },
+    {
+     "title": "Eight Below",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Eight Below"
+    },
+    {
+     "title": "Pirates of the Caribbean: Dead Man's Chest",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Pirates of the Caribbean: Dead Man's Chest"
+    },
+    {
+     "title": "Invincible",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Invincible (2006 film)"
+    },
+    {
+     "title": "The Santa Clause 3: The Escape Clause",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "The Santa Clause 3: The Escape Clause"
+    },
+    {
+     "title": "Bridge to Terabithia",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Bridge to Terabithia (2007 film)"
+    },
+    {
+     "title": "Pirates of the Caribbean: At World's End",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Pirates of the Caribbean: At World's End"
+    },
+    {
+     "title": "Underdog",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Underdog (2007 film)"
+    },
+    {
+     "title": "The Game Plan",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "The Game Plan (film)"
+    },
+    {
+     "title": "Enchanted",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Enchanted (film)"
+    },
+    {
+     "title": "National Treasure: Book of Secrets",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "National Treasure: Book of Secrets"
+    },
+    {
+     "title": "Snow Buddies",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Snow Buddies",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "College Road Trip",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "College Road Trip"
+    },
+    {
+     "title": "The Chronicles of Narnia: Prince Caspian",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "The Chronicles of Narnia: Prince Caspian"
+    },
+    {
+     "title": "Beverly Hills Chihuahua",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Beverly Hills Chihuahua"
+    },
+    {
+     "title": "Bedtime Stories",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Bedtime Stories (film)"
+    },
+    {
+     "title": "Space Buddies",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Space Buddies",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Jonas Brothers: The 3D Concert Experience",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Jonas Brothers: The 3D Concert Experience",
+     "format": "Concert film"
+    },
+    {
+     "title": "G-Force",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "G-Force (film)"
+    },
+    {
+     "title": "Santa Buddies",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Santa Buddies",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Old Dogs",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Old Dogs (film)"
+    },
+    {
+     "title": "Prince of Persia: The Sands of Time",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Prince of Persia: The Sands of Time (film)"
+    },
+    {
+     "title": "Secretariat",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Secretariat (film)"
+    },
+    {
+     "title": "The Search for Santa Paws",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "The Search for Santa Paws",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Beverly Hills Chihuahua 2",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Beverly Hills Chihuahua 2",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Prom",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Prom (film)"
+    },
+    {
+     "title": "Pirates of the Caribbean: On Stranger Tides",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Pirates of the Caribbean: On Stranger Tides"
+    },
+    {
+     "title": "Spooky Buddies",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Spooky Buddies",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Treasure Buddies",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Treasure Buddies",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "John Carter",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "John Carter (film)"
+    },
+    {
+     "title": "The Odd Life of Timothy Green",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "The Odd Life of Timothy Green"
+    },
+    {
+     "title": "Beverly Hills Chihuahua 3: Viva la Fiesta!",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Beverly Hills Chihuahua 3: Viva la Fiesta!",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Oz the Great and Powerful",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Oz the Great and Powerful"
+    },
+    {
+     "title": "The Lone Ranger",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "The Lone Ranger (2013 film)"
+    },
+    {
+     "title": "Super Buddies",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Super Buddies (film)",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "Saving Mr. Banks",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Saving Mr. Banks"
+    },
+    {
+     "title": "Million Dollar Arm",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Million Dollar Arm"
+    },
+    {
+     "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Alexander and the Terrible, Horrible, No Good, Very Bad Day (film)"
+    },
+    {
+     "title": "Into the Woods",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Into the Woods (film)"
+    },
+    {
+     "title": "McFarland, USA",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "McFarland, USA"
+    },
+    {
+     "title": "Tomorrowland",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Tomorrowland (film)"
+    },
+    {
+     "title": "The Finest Hours",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "The Finest Hours (2016 film)"
+    },
+    {
+     "title": "The BFG",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "The BFG (2016 film)"
+    },
+    {
+     "title": "Queen of Katwe",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Queen of Katwe"
+    },
+    {
+     "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Pirates of the Caribbean: Dead Men Tell No Tales"
+    },
+    {
+     "title": "Newsies",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Newsies (musical)",
+     "format": "Filmed stage production",
+     "aka": [
+      "Disney's Newsies: The Broadway Musical"
+     ]
+    },
+    {
+     "title": "A Wrinkle in Time",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "A Wrinkle in Time (2018 film)"
+    },
+    {
+     "title": "The Nutcracker and the Four Realms",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "The Nutcracker and the Four Realms"
+    },
+    {
+     "title": "Noelle",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Noelle (2019 film)",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Togo",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Togo (film)",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Timmy Failure: Mistakes Were Made",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Timmy Failure: Mistakes Were Made",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Stargirl",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Stargirl (film)",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Artemis Fowl",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Artemis Fowl (film)",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Magic Camp",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Magic Camp (film)",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "The One and Only Ivan",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "The One and Only Ivan (film)",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Godmothered",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Godmothered",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Safety",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Safety (2020 film)",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Flora & Ulysses",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Flora & Ulysses (film)",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Jungle Cruise",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Jungle Cruise (film)"
+    },
+    {
+     "title": "Better Nate Than Ever",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Better Nate Than Ever (film)",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Hollywood Stargirl",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Hollywood Stargirl",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Rise",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Rise (2022 American film)",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Hocus Pocus 2",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Hocus Pocus 2",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Disenchanted",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Disenchanted (film)",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Chang Can Dunk",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Chang Can Dunk",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "World's Best",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "World's Best",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Haunted Mansion",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Haunted Mansion (2023 film)"
+    },
+    {
+     "title": "Dashing Through the Snow",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Dashing Through the Snow",
+     "format": "Disney+ original"
+    },
+    {
+     "title": "Young Woman and the Sea",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Young Woman and the Sea"
+    },
+    {
+     "title": "Hamilton",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Hamilton (2020 film)",
+     "format": "Filmed stage production"
+    },
+    {
+     "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip",
+     "format": "Disney+ original"
+    }
+   ]
+  },
+  {
+   "id": "cur-disney-channel-original-movies",
+   "name": "Disney Channel Original Movies",
+   "kind": "Studio",
+   "items": [
+    {
+     "title": "You Lucky Dog",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "You Lucky Dog"
+    },
+    {
+     "title": "Brink!",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "Brink!"
+    },
+    {
+     "title": "Halloweentown",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "Halloweentown (film)"
+    },
+    {
+     "title": "Zenon: Girl of the 21st Century",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Zenon: Girl of the 21st Century (film)"
+    },
+    {
+     "title": "Can of Worms",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Can of Worms (film)"
+    },
+    {
+     "title": "The Thirteenth Year",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "The Thirteenth Year"
+    },
+    {
+     "title": "Smart House",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Smart House"
+    },
+    {
+     "title": "Johnny Tsunami",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Johnny Tsunami"
+    },
+    {
+     "title": "Genius",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Genius (1999 film)"
+    },
+    {
+     "title": "Don't Look Under the Bed",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Don't Look Under the Bed"
+    },
+    {
+     "title": "Horse Sense",
+     "year": 1999,
+     "type": "movie",
+     "wiki": "Horse Sense"
+    },
+    {
+     "title": "Up, Up and Away",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Up, Up and Away (film)"
+    },
+    {
+     "title": "The Color of Friendship",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "The Color of Friendship"
+    },
+    {
+     "title": "Alley Cats Strike",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Alley Cats Strike"
+    },
+    {
+     "title": "Rip Girls",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Rip Girls"
+    },
+    {
+     "title": "Miracle in Lane 2",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Miracle in Lane 2"
+    },
+    {
+     "title": "Stepsister from Planet Weird",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Stepsister from Planet Weird"
+    },
+    {
+     "title": "Ready to Run",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Ready to Run (film)"
+    },
+    {
+     "title": "Quints",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Quints"
+    },
+    {
+     "title": "The Other Me",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "The Other Me (2000 film)"
+    },
+    {
+     "title": "Mom's Got a Date with a Vampire",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Mom's Got a Date with a Vampire"
+    },
+    {
+     "title": "Phantom of the Megaplex",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Phantom of the Megaplex"
+    },
+    {
+     "title": "The Ultimate Christmas Present",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "The Ultimate Christmas Present"
+    },
+    {
+     "title": "Zenon: The Zequel",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Zenon: The Zequel"
+    },
+    {
+     "title": "Motocrossed",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Motocrossed"
+    },
+    {
+     "title": "The Luck of the Irish",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "The Luck of the Irish (2001 film)"
+    },
+    {
+     "title": "Hounded",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Hounded (2001 film)"
+    },
+    {
+     "title": "Jett Jackson: The Movie",
+     "year": 2001,
+     "type": "movie"
+    },
+    {
+     "title": "The Jennie Project",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "The Jennie Project"
+    },
+    {
+     "title": "Jumping Ship",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Jumping Ship"
+    },
+    {
+     "title": "The Poof Point",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "The Poof Point"
+    },
+    {
+     "title": "Halloweentown II: Kalabar's Revenge",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "Halloweentown II: Kalabar's Revenge"
+    },
+    {
+     "title": "'Twas the Night",
+     "year": 2001,
+     "type": "movie",
+     "wiki": "'Twas the Night (film)"
+    },
+    {
+     "title": "Double Teamed",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Double Teamed"
+    },
+    {
+     "title": "Cadet Kelly",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Cadet Kelly"
+    },
+    {
+     "title": "Tru Confessions",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Tru Confessions"
+    },
+    {
+     "title": "Get a Clue",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Get a Clue"
+    },
+    {
+     "title": "Gotta Kick It Up!",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "Gotta Kick It Up!"
+    },
+    {
+     "title": "A Ring of Endless Light",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "A Ring of Endless Light (film)"
+    },
+    {
+     "title": "The Scream Team",
+     "year": 2002,
+     "type": "movie",
+     "wiki": "The Scream Team"
+    },
+    {
+     "title": "You Wish!",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "You Wish! (film)"
+    },
+    {
+     "title": "Right on Track",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Right on Track"
+    },
+    {
+     "title": "The Even Stevens Movie",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "The Even Stevens Movie"
+    },
+    {
+     "title": "Eddie's Million Dollar Cook-Off",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Eddie's Million Dollar Cook-Off"
+    },
+    {
+     "title": "The Cheetah Girls",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "The Cheetah Girls (film)"
+    },
+    {
+     "title": "Full-Court Miracle",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Full-Court Miracle"
+    },
+    {
+     "title": "Pixel Perfect",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Pixel Perfect (film)"
+    },
+    {
+     "title": "Going to the Mat",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Going to the Mat"
+    },
+    {
+     "title": "Zenon: Z3",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Zenon: Z3"
+    },
+    {
+     "title": "Stuck in the Suburbs",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Stuck in the Suburbs"
+    },
+    {
+     "title": "Tiger Cruise",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Tiger Cruise (film)"
+    },
+    {
+     "title": "Halloweentown High",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Halloweentown High"
+    },
+    {
+     "title": "Now You See It...",
+     "year": 2005,
+     "type": "movie"
+    },
+    {
+     "title": "Buffalo Dreams",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Buffalo Dreams"
+    },
+    {
+     "title": "Kim Possible Movie: So the Drama",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Kim Possible Movie: So the Drama"
+    },
+    {
+     "title": "Go Figure",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Go Figure (film)"
+    },
+    {
+     "title": "Life Is Ruff",
+     "year": 2005,
+     "type": "movie"
+    },
+    {
+     "title": "The Proud Family Movie",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "The Proud Family Movie"
+    },
+    {
+     "title": "Twitches",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Twitches (film)"
+    },
+    {
+     "title": "High School Musical",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "High School Musical"
+    },
+    {
+     "title": "Cow Belles",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Cow Belles"
+    },
+    {
+     "title": "Wendy Wu: Homecoming Warrior",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Wendy Wu: Homecoming Warrior"
+    },
+    {
+     "title": "Read It and Weep",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Read It and Weep"
+    },
+    {
+     "title": "The Cheetah Girls 2",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "The Cheetah Girls 2"
+    },
+    {
+     "title": "Return to Halloweentown",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Return to Halloweentown"
+    },
+    {
+     "title": "Jump In!",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Jump In!"
+    },
+    {
+     "title": "Johnny Kapahala: Back on Board",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Johnny Kapahala: Back on Board"
+    },
+    {
+     "title": "High School Musical 2",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "High School Musical 2"
+    },
+    {
+     "title": "Twitches Too",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Twitches Too"
+    },
+    {
+     "title": "Minutemen",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Minutemen (film)"
+    },
+    {
+     "title": "Camp Rock",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Camp Rock"
+    },
+    {
+     "title": "The Cheetah Girls: One World",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "The Cheetah Girls: One World"
+    },
+    {
+     "title": "Dadnapped",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Dadnapped"
+    },
+    {
+     "title": "Hatching Pete",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Hatching Pete"
+    },
+    {
+     "title": "Princess Protection Program",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Princess Protection Program"
+    },
+    {
+     "title": "Wizards of Waverly Place: The Movie",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Wizards of Waverly Place: The Movie"
+    },
+    {
+     "title": "Starstruck",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Starstruck (2010 film)"
+    },
+    {
+     "title": "Harriet the Spy: Blog Wars",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Harriet the Spy: Blog Wars",
+     "format": "Later branded DCOM"
+    },
+    {
+     "title": "16 Wishes",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "16 Wishes",
+     "format": "Later branded DCOM"
+    },
+    {
+     "title": "Den Brother",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Den Brother"
+    },
+    {
+     "title": "Camp Rock 2: The Final Jam",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Camp Rock 2: The Final Jam"
+    },
+    {
+     "title": "Avalon High",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Avalon High (film)"
+    },
+    {
+     "title": "The Suite Life Movie",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "The Suite Life Movie"
+    },
+    {
+     "title": "Lemonade Mouth",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Lemonade Mouth (film)"
+    },
+    {
+     "title": "Sharpay's Fabulous Adventure",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Sharpay's Fabulous Adventure"
+    },
+    {
+     "title": "Phineas and Ferb the Movie: Across the 2nd Dimension",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Phineas and Ferb the Movie: Across the 2nd Dimension"
+    },
+    {
+     "title": "Geek Charming",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Geek Charming"
+    },
+    {
+     "title": "Good Luck Charlie, It's Christmas!",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Good Luck Charlie, It's Christmas!"
+    },
+    {
+     "title": "Frenemies",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Frenemies (film)"
+    },
+    {
+     "title": "Radio Rebel",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Radio Rebel"
+    },
+    {
+     "title": "Let It Shine",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Let It Shine (film)"
+    },
+    {
+     "title": "Girl vs. Monster",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Girl vs. Monster"
+    },
+    {
+     "title": "Teen Beach Movie",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Teen Beach Movie"
+    },
+    {
+     "title": "Cloud 9",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Cloud 9 (2014 film)"
+    },
+    {
+     "title": "Zapped",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Zapped (2014 film)"
+    },
+    {
+     "title": "How to Build a Better Boy",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "How to Build a Better Boy"
+    },
+    {
+     "title": "Bad Hair Day",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Bad Hair Day (2015 film)"
+    },
+    {
+     "title": "Teen Beach 2",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Teen Beach 2"
+    },
+    {
+     "title": "Descendants",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Descendants (2015 film)"
+    },
+    {
+     "title": "Invisible Sister",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Invisible Sister"
+    },
+    {
+     "title": "Adventures in Babysitting",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Adventures in Babysitting (2016 film)"
+    },
+    {
+     "title": "The Swap",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "The Swap (2016 film)"
+    },
+    {
+     "title": "Tangled: Before Ever After",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Tangled: Before Ever After"
+    },
+    {
+     "title": "Descendants 2",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Descendants 2"
+    },
+    {
+     "title": "Zombies",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Zombies (2018 film)"
+    },
+    {
+     "title": "Freaky Friday",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Freaky Friday (2018 film)"
+    },
+    {
+     "title": "Kim Possible",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Kim Possible (film)"
+    },
+    {
+     "title": "Descendants 3",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Descendants 3"
+    },
+    {
+     "title": "Zombies 2",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Zombies 2"
+    },
+    {
+     "title": "Upside-Down Magic",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Upside-Down Magic (film)"
+    },
+    {
+     "title": "Spin",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Spin (2021 film)"
+    },
+    {
+     "title": "Under Wraps",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Under Wraps (1997 film)"
+    },
+    {
+     "title": "Under Wraps",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Under Wraps (2021 film)"
+    },
+    {
+     "title": "Christmas...Again?!",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Christmas...Again?!"
+    },
+    {
+     "title": "Zombies 3",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Zombies 3"
+    },
+    {
+     "title": "Under Wraps 2",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Under Wraps 2"
+    },
+    {
+     "title": "Prom Pact",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Prom Pact"
+    },
+    {
+     "title": "The Slumber Party",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "The Slumber Party"
+    },
+    {
+     "title": "The Naughty Nine",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "The Naughty Nine"
+    },
+    {
+     "title": "Big City Greens the Movie: Spacecation",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Big City Greens the Movie: Spacecation"
+    },
+    {
+     "title": "Descendants: The Rise of Red",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Descendants: The Rise of Red"
+    },
+    {
+     "title": "Zombies 4: Dawn of the Vampires",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Zombies 4: Dawn of the Vampires"
+    },
+    {
+     "title": "Descendants: Wicked Wonderland",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Descendants: Wicked Wonderland"
+    },
+    {
+     "title": "Camp Rock 3",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Camp Rock 3"
+    }
+   ]
+  },
+  {
+   "id": "cur-high-school-musical",
+   "name": "High School Musical",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "High School Musical",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "High School Musical",
+     "format": "Disney Channel Original Movie"
+    },
+    {
+     "title": "High School Musical 2",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "High School Musical 2",
+     "format": "Disney Channel Original Movie"
+    },
+    {
+     "title": "High School Musical: El Desafío (Argentina)",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "High School Musical: el desafío (2008 Argentine film)",
+     "format": "International adaptation"
+    },
+    {
+     "title": "High School Musical: El Desafío (Mexico)",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "High School Musical: el desafío (2008 Mexican film)",
+     "format": "International adaptation"
+    },
+    {
+     "title": "High School Musical 3: Senior Year",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "High School Musical 3: Senior Year"
+    },
+    {
+     "title": "High School Musical: O Desafio",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "High School Musical: O Desafio",
+     "format": "International adaptation"
+    },
+    {
+     "title": "Sharpay's Fabulous Adventure",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Sharpay's Fabulous Adventure",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "High School Musical: The Musical: The Series",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "High School Musical: The Musical: The Series"
+    },
+    {
+     "title": "High School Musical: The Musical: The Holiday Special",
+     "year": 2020,
+     "type": "movie",
+     "format": "TV special"
+    }
+   ]
+  },
+  {
+   "id": "cur-hannah-montana",
+   "name": "Hannah Montana",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Hannah Montana",
+     "year": 2006,
+     "type": "tv",
+     "wiki": "Hannah Montana"
+    },
+    {
+     "title": "Hannah Montana & Miley Cyrus: Best of Both Worlds Concert",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Hannah Montana & Miley Cyrus: Best of Both Worlds Concert",
+     "format": "Concert film"
+    },
+    {
+     "title": "Hannah Montana: The Movie",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Hannah Montana: The Movie"
+    },
+    {
+     "title": "Hannah Montana 20th Anniversary Special",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Hannah Montana 20th Anniversary Special",
+     "format": "TV special"
+    }
+   ]
+  },
+  {
+   "id": "cur-wizards-of-waverly-place",
+   "name": "Wizards of Waverly Place",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Wizards of Waverly Place",
+     "year": 2007,
+     "type": "tv",
+     "wiki": "Wizards of Waverly Place"
+    },
+    {
+     "title": "Wizards of Waverly Place: The Movie",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Wizards of Waverly Place: The Movie",
+     "format": "Disney Channel Original Movie"
+    },
+    {
+     "title": "The Wizards Return: Alex vs. Alex",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "The Wizards Return: Alex vs. Alex",
+     "format": "TV special"
+    },
+    {
+     "title": "Wizards Beyond Waverly Place",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Wizards Beyond Waverly Place"
+    }
+   ]
+  },
+  {
+   "id": "cur-suite-life",
+   "name": "The Suite Life",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "The Suite Life of Zack & Cody",
+     "year": 2005,
+     "type": "tv",
+     "wiki": "The Suite Life of Zack & Cody"
+    },
+    {
+     "title": "The Suite Life on Deck",
+     "year": 2008,
+     "type": "tv",
+     "wiki": "The Suite Life on Deck"
+    },
+    {
+     "title": "The Suite Life Movie",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "The Suite Life Movie",
+     "format": "Disney Channel Original Movie"
+    }
+   ]
+  },
+  {
+   "id": "cur-disneynature",
+   "name": "Disneynature",
+   "kind": "Studio",
+   "items": [
+    {
+     "title": "Earth",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Earth (2007 film)",
+     "aka": [
+      "Disneynature Earth"
+     ]
+    },
+    {
+     "title": "The Crimson Wing: Mystery of the Flamingos",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "The Crimson Wing: Mystery of the Flamingos"
+    },
+    {
+     "title": "OceanWorld 3D",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "OceanWorld 3D"
+    },
+    {
+     "title": "Oceans",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Oceans (film)"
+    },
+    {
+     "title": "Wings of Life",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Wings of Life"
+    },
+    {
+     "title": "African Cats",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "African Cats"
+    },
+    {
+     "title": "Chimpanzee",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Chimpanzee (film)"
+    },
+    {
+     "title": "Bears",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Bears (film)"
+    },
+    {
+     "title": "Monkey Kingdom",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Monkey Kingdom"
+    },
+    {
+     "title": "Growing Up Wild",
+     "year": 2016,
+     "type": "movie",
+     "format": "Direct-to-video"
+    },
+    {
+     "title": "March of the Penguins 2: The Next Step",
+     "year": 2017,
+     "type": "movie",
+     "aka": [
+      "L'Empereur"
+     ]
+    },
+    {
+     "title": "Born in China",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Born in China"
+    },
+    {
+     "title": "Ghost Of The Mountains",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Ghost of the Mountains",
+     "format": "Companion documentary",
+     "aka": [
+      "Ghost of the Mountains"
+     ]
+    },
+    {
+     "title": "Expedition China",
+     "year": 2017,
+     "type": "movie",
+     "format": "Companion documentary"
+    },
+    {
+     "title": "Penguins",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Penguins (film)"
+    },
+    {
+     "title": "Elephant",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Elephant (2020 film)"
+    },
+    {
+     "title": "Dolphin Reef",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Dolphin Reef (film)",
+     "aka": [
+      "Blue"
+     ]
+    },
+    {
+     "title": "In the Footsteps of Elephant",
+     "year": 2020,
+     "type": "movie",
+     "format": "Companion documentary"
+    },
+    {
+     "title": "Diving with Dolphins",
+     "year": 2020,
+     "type": "movie",
+     "format": "Companion documentary"
+    },
+    {
+     "title": "Penguins: Life on the Edge",
+     "year": 2020,
+     "type": "movie",
+     "format": "Companion documentary"
+    },
+    {
+     "title": "Polar Bear",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Polar Bear (film)"
+    },
+    {
+     "title": "Bear Witness",
+     "year": 2022,
+     "type": "movie",
+     "format": "Companion documentary"
+    },
+    {
+     "title": "Tiger",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Tiger (2024 film)"
+    },
+    {
+     "title": "Tigers on the Rise",
+     "year": 2024,
+     "type": "movie",
+     "format": "Companion documentary"
+    },
+    {
+     "title": "Sea Lions of the Galapagos",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Sea Lions of the Galapagos"
+    },
+    {
+     "title": "Guardians of the Galápagos",
+     "year": 2025,
+     "type": "movie",
+     "format": "Companion documentary"
+    },
+    {
+     "title": "Orangutan",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Orangutan (film)"
+    }
+   ]
+  }
+ ]
+}

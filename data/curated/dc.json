@@ -1,0 +1,1622 @@
+{
+ "collections": [
+  {
+   "id": "cur-dc-animated-universe",
+   "name": "DC Animated Universe (DCAU)",
+   "kind": "Universe",
+   "items": [
+    {
+     "title": "Batman: The Animated Series",
+     "year": 1992,
+     "type": "tv",
+     "wiki": "Batman: The Animated Series"
+    },
+    {
+     "title": "Batman Mask Of The Phantasm",
+     "year": 1993,
+     "type": "movie",
+     "wiki": "Batman: Mask of the Phantasm",
+     "aka": [
+      "Batman: Mask of the Phantasm"
+     ]
+    },
+    {
+     "title": "Superman: The Animated Series",
+     "year": 1996,
+     "type": "tv",
+     "wiki": "Superman: The Animated Series"
+    },
+    {
+     "title": "The Batman Superman Movie: World's Finest",
+     "year": 1997,
+     "type": "movie",
+     "format": "Compilation film (STAS episodes)"
+    },
+    {
+     "title": "The New Batman Adventures",
+     "year": 1997,
+     "type": "tv",
+     "wiki": "The New Batman Adventures"
+    },
+    {
+     "title": "Batman & Mr. Freeze SubZero",
+     "year": 1998,
+     "type": "movie",
+     "wiki": "Batman & Mr. Freeze: SubZero",
+     "aka": [
+      "Batman & Mr. Freeze: SubZero"
+     ]
+    },
+    {
+     "title": "Batman Beyond",
+     "year": 1999,
+     "type": "tv",
+     "wiki": "Batman Beyond"
+    },
+    {
+     "title": "Static Shock",
+     "year": 2000,
+     "type": "tv",
+     "wiki": "Static Shock",
+     "format": "Series (DCAU via crossovers)"
+    },
+    {
+     "title": "Batman Beyond Return Of The Joker",
+     "year": 2000,
+     "type": "movie",
+     "wiki": "Batman Beyond: Return of the Joker",
+     "aka": [
+      "Batman Beyond: Return of the Joker"
+     ]
+    },
+    {
+     "title": "The Zeta Project",
+     "year": 2001,
+     "type": "tv",
+     "wiki": "The Zeta Project"
+    },
+    {
+     "title": "Justice League",
+     "year": 2001,
+     "type": "tv",
+     "wiki": "Justice League (TV series)"
+    },
+    {
+     "title": "Batman Mystery of the Batwoman",
+     "year": 2003,
+     "type": "movie",
+     "wiki": "Batman: Mystery of the Batwoman",
+     "aka": [
+      "Batman: Mystery of the Batwoman"
+     ]
+    },
+    {
+     "title": "Justice League Unlimited",
+     "year": 2004,
+     "type": "tv",
+     "wiki": "Justice League Unlimited"
+    },
+    {
+     "title": "Batman And Harley Quinn",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Batman and Harley Quinn",
+     "format": "DCAU-adjacent (Bruce Timm; continuity debated)",
+     "aka": [
+      "Batman and Harley Quinn"
+     ]
+    },
+    {
+     "title": "Justice League vs. the Fatal Five",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Justice League vs. the Fatal Five"
+    }
+   ]
+  },
+  {
+   "id": "cur-dc-universe-dcu",
+   "name": "DC Universe (DCU)",
+   "kind": "Universe",
+   "items": [
+    {
+     "title": "Creature Commandos",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Creature Commandos (TV series)"
+    },
+    {
+     "title": "Superman",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Superman (2025 film)"
+    },
+    {
+     "title": "Peacemaker",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "Peacemaker (TV series)",
+     "format": "Season 2 (2025) is DCU canon; Season 1 is DCEU"
+    },
+    {
+     "title": "Supergirl",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Supergirl (2026 film)"
+    },
+    {
+     "title": "Lanterns",
+     "year": 2026,
+     "type": "tv",
+     "wiki": "Lanterns (TV series)"
+    }
+   ]
+  },
+  {
+   "id": "cur-dc-extended-universe",
+   "name": "DC Extended Universe (DCEU)",
+   "kind": "Universe",
+   "items": [
+    {
+     "title": "Man of Steel",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Man of Steel (film)"
+    },
+    {
+     "title": "Batman v Superman: Dawn of Justice",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Batman v Superman: Dawn of Justice"
+    },
+    {
+     "title": "Suicide Squad",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Suicide Squad (2016 film)"
+    },
+    {
+     "title": "Wonder Woman",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Wonder Woman (2017 film)"
+    },
+    {
+     "title": "Justice League",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Justice League (film)"
+    },
+    {
+     "title": "Aquaman",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Aquaman (film)"
+    },
+    {
+     "title": "Shazam!",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Shazam! (film)"
+    },
+    {
+     "title": "Birds of Prey",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Birds of Prey (2020 film)",
+     "aka": [
+      "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)"
+     ]
+    },
+    {
+     "title": "Wonder Woman 1984",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Wonder Woman 1984"
+    },
+    {
+     "title": "Zack Snyder's Justice League",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Zack Snyder's Justice League"
+    },
+    {
+     "title": "The Suicide Squad",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "The Suicide Squad (film)"
+    },
+    {
+     "title": "Peacemaker",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "Peacemaker (TV series)",
+     "format": "Season 1 (2022) is DCEU"
+    },
+    {
+     "title": "Black Adam",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Black Adam (film)"
+    },
+    {
+     "title": "Shazam! Fury of the Gods",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Shazam! Fury of the Gods"
+    },
+    {
+     "title": "The Flash",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "The Flash (film)"
+    },
+    {
+     "title": "Blue Beetle",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Blue Beetle (film)"
+    },
+    {
+     "title": "Aquaman and the Lost Kingdom",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Aquaman and the Lost Kingdom"
+    }
+   ]
+  },
+  {
+   "id": "cur-dc-universe-animated-original-movies",
+   "name": "DC Universe Animated Original Movies",
+   "kind": "Film Series",
+   "items": [
+    {
+     "title": "Superman: Doomsday",
+     "year": 2007,
+     "type": "movie",
+     "wiki": "Superman: Doomsday"
+    },
+    {
+     "title": "Justice League: The New Frontier",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Justice League: The New Frontier"
+    },
+    {
+     "title": "Batman Gotham Knight",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Batman: Gotham Knight",
+     "aka": [
+      "Batman: Gotham Knight"
+     ]
+    },
+    {
+     "title": "Wonder Woman",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Wonder Woman (2009 film)"
+    },
+    {
+     "title": "Green Lantern: First Flight",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Green Lantern: First Flight"
+    },
+    {
+     "title": "Superman/Batman: Public Enemies",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Superman/Batman: Public Enemies"
+    },
+    {
+     "title": "Justice League: Crisis on Two Earths",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Justice League: Crisis on Two Earths"
+    },
+    {
+     "title": "Batman: Under the Red Hood",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Batman: Under the Red Hood"
+    },
+    {
+     "title": "Superman/Batman: Apocalypse",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Superman/Batman: Apocalypse"
+    },
+    {
+     "title": "All-Star Superman",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "All-Star Superman (film)"
+    },
+    {
+     "title": "Green Lantern: Emerald Knights",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Green Lantern: Emerald Knights"
+    },
+    {
+     "title": "Batman Year One",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Batman: Year One (film)",
+     "aka": [
+      "Batman: Year One"
+     ]
+    },
+    {
+     "title": "Justice League: Doom",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Justice League: Doom"
+    },
+    {
+     "title": "Superman vs. The Elite",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Superman vs. The Elite"
+    },
+    {
+     "title": "Batman The Dark Knight Returns Part 1",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "Batman: The Dark Knight Returns (film)",
+     "aka": [
+      "Batman: The Dark Knight Returns – Part 1"
+     ]
+    },
+    {
+     "title": "Batman The Dark Knight Returns Part 2",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Batman: The Dark Knight Returns (film)",
+     "aka": [
+      "Batman: The Dark Knight Returns – Part 2"
+     ]
+    },
+    {
+     "title": "Superman: Unbound",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Superman: Unbound"
+    },
+    {
+     "title": "Justice League: The Flashpoint Paradox",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Justice League: The Flashpoint Paradox"
+    },
+    {
+     "title": "Justice League: War",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Justice League: War"
+    },
+    {
+     "title": "Son of Batman",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Son of Batman"
+    },
+    {
+     "title": "Batman Assault on Arkham",
+     "year": 2014,
+     "type": "movie",
+     "wiki": "Batman: Assault on Arkham",
+     "aka": [
+      "Batman: Assault on Arkham"
+     ]
+    },
+    {
+     "title": "Justice League: Throne of Atlantis",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Justice League: Throne of Atlantis"
+    },
+    {
+     "title": "Batman Vs. Robin",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Batman vs. Robin",
+     "aka": [
+      "Batman vs. Robin"
+     ]
+    },
+    {
+     "title": "Justice League: Gods and Monsters",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Justice League: Gods and Monsters"
+    },
+    {
+     "title": "Batman Bad Blood",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Batman: Bad Blood",
+     "aka": [
+      "Batman: Bad Blood"
+     ]
+    },
+    {
+     "title": "Justice League vs. Teen Titans",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Justice League vs. Teen Titans"
+    },
+    {
+     "title": "Batman The Killing Joke",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Batman: The Killing Joke (film)",
+     "aka": [
+      "Batman: The Killing Joke"
+     ]
+    },
+    {
+     "title": "Justice League Dark",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Justice League Dark (film)"
+    },
+    {
+     "title": "Teen Titans: The Judas Contract",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Teen Titans: The Judas Contract"
+    },
+    {
+     "title": "Batman And Harley Quinn",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Batman and Harley Quinn",
+     "format": "DCAU-adjacent",
+     "aka": [
+      "Batman and Harley Quinn"
+     ]
+    },
+    {
+     "title": "Batman Gotham By Gaslight",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Batman: Gotham by Gaslight",
+     "aka": [
+      "Batman: Gotham by Gaslight"
+     ]
+    },
+    {
+     "title": "Suicide Squad: Hell to Pay",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Suicide Squad: Hell to Pay"
+    },
+    {
+     "title": "The Death of Superman",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "The Death of Superman (film)"
+    },
+    {
+     "title": "Constantine: City of Demons – The Movie",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Constantine: City of Demons",
+     "aka": [
+      "Constantine: City of Demons"
+     ]
+    },
+    {
+     "title": "Reign of the Supermen",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Reign of the Supermen (film)"
+    },
+    {
+     "title": "Justice League vs. the Fatal Five",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Justice League vs. the Fatal Five",
+     "format": "DCAU"
+    },
+    {
+     "title": "Batman Hush",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Batman: Hush (film)",
+     "aka": [
+      "Batman: Hush"
+     ]
+    },
+    {
+     "title": "Wonder Woman: Bloodlines",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Wonder Woman: Bloodlines"
+    },
+    {
+     "title": "Superman: Red Son",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Superman: Red Son (film)"
+    },
+    {
+     "title": "Justice League Dark: Apokolips War",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Justice League Dark: Apokolips War"
+    },
+    {
+     "title": "Superman: Man of Tomorrow",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Superman: Man of Tomorrow",
+     "format": "Tomorrowverse"
+    },
+    {
+     "title": "Batman: Soul of the Dragon",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Batman: Soul of the Dragon"
+    },
+    {
+     "title": "Justice Society: World War II",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Justice Society: World War II",
+     "format": "Tomorrowverse"
+    },
+    {
+     "title": "Batman: The Long Halloween, Part One",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Batman: The Long Halloween (film)",
+     "format": "Tomorrowverse"
+    },
+    {
+     "title": "Batman: The Long Halloween, Part Two",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Batman: The Long Halloween (film)",
+     "format": "Tomorrowverse"
+    },
+    {
+     "title": "Injustice",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Injustice (2021 film)"
+    },
+    {
+     "title": "Catwoman: Hunted",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Catwoman: Hunted"
+    },
+    {
+     "title": "Green Lantern: Beware My Power",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Green Lantern: Beware My Power",
+     "format": "Tomorrowverse"
+    },
+    {
+     "title": "Batman and Superman: Battle of the Super Sons",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Batman and Superman: Battle of the Super Sons"
+    },
+    {
+     "title": "Legion of Super-Heroes",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Legion of Super-Heroes (film)",
+     "format": "Tomorrowverse"
+    },
+    {
+     "title": "Batman: The Doom That Came to Gotham",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Batman: The Doom That Came to Gotham"
+    },
+    {
+     "title": "Justice League: Warworld",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Justice League: Warworld",
+     "format": "Tomorrowverse"
+    },
+    {
+     "title": "Justice League: Crisis on Infinite Earths – Part One",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Justice League: Crisis on Infinite Earths",
+     "format": "Tomorrowverse"
+    },
+    {
+     "title": "Justice League: Crisis on Infinite Earths – Part Two",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Justice League: Crisis on Infinite Earths",
+     "format": "Tomorrowverse"
+    },
+    {
+     "title": "Justice League: Crisis on Infinite Earths – Part Three",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Justice League: Crisis on Infinite Earths",
+     "format": "Tomorrowverse"
+    },
+    {
+     "title": "Watchmen Chapter I",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Watchmen (2024 film)"
+    },
+    {
+     "title": "Watchmen Chapter II",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Watchmen (2024 film)"
+    },
+    {
+     "title": "Aztec Batman: Clash of Empires",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Aztec Batman: Clash of Empires"
+    },
+    {
+     "title": "Batman Knightfall Part 1",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Batman: Knightfall (film)",
+     "aka": [
+      "Batman: Knightfall – Part 1: Knightfall"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur-batman-live-action",
+   "name": "Batman (All Live-Action Films)",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Batman",
+     "year": 1943,
+     "type": "tv",
+     "wiki": "Batman (serial)",
+     "format": "Film serial (15 chapters)"
+    },
+    {
+     "title": "Batman and Robin",
+     "year": 1949,
+     "type": "tv",
+     "wiki": "Batman and Robin (serial)",
+     "format": "Film serial (15 chapters)"
+    },
+    {
+     "title": "Batman",
+     "year": 1966,
+     "type": "tv",
+     "wiki": "Batman (TV series)",
+     "aka": [
+      "Batman '66"
+     ]
+    },
+    {
+     "title": "Batman",
+     "year": 1966,
+     "type": "movie",
+     "wiki": "Batman (1966 film)",
+     "aka": [
+      "Batman: The Movie"
+     ]
+    },
+    {
+     "title": "Batman",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "Batman (1989 film)"
+    },
+    {
+     "title": "Batman Returns",
+     "year": 1992,
+     "type": "movie",
+     "wiki": "Batman Returns"
+    },
+    {
+     "title": "Batman Forever",
+     "year": 1995,
+     "type": "movie",
+     "wiki": "Batman Forever"
+    },
+    {
+     "title": "Batman & Robin",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Batman & Robin (film)"
+    },
+    {
+     "title": "Birds of Prey",
+     "year": 2002,
+     "type": "tv",
+     "wiki": "Birds of Prey (TV series)"
+    },
+    {
+     "title": "Batman Begins",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Batman Begins"
+    },
+    {
+     "title": "The Dark Knight",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "The Dark Knight"
+    },
+    {
+     "title": "The Dark Knight Rises",
+     "year": 2012,
+     "type": "movie",
+     "wiki": "The Dark Knight Rises"
+    },
+    {
+     "title": "Gotham",
+     "year": 2014,
+     "type": "tv",
+     "wiki": "Gotham (TV series)",
+     "format": "Prequel series"
+    },
+    {
+     "title": "Batman v Superman: Dawn of Justice",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Batman v Superman: Dawn of Justice",
+     "format": "Batman appearance (DCEU)"
+    },
+    {
+     "title": "Justice League",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Justice League (film)",
+     "format": "Batman appearance (DCEU)"
+    },
+    {
+     "title": "Pennyworth",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "Pennyworth (TV series)",
+     "format": "Prequel series",
+     "aka": [
+      "Pennyworth: The Origin of Batman's Butler"
+     ]
+    },
+    {
+     "title": "Batwoman",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "Batwoman (TV series)",
+     "format": "Arrowverse spin-off"
+    },
+    {
+     "title": "Zack Snyder's Justice League",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Zack Snyder's Justice League",
+     "format": "Batman appearance (DCEU)"
+    },
+    {
+     "title": "The Batman",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "The Batman (film)"
+    },
+    {
+     "title": "The Flash",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "The Flash (film)",
+     "format": "Batman appearances (Keaton & Affleck)"
+    },
+    {
+     "title": "The Penguin",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "The Penguin (TV series)",
+     "format": "The Batman spin-off series"
+    }
+   ]
+  },
+  {
+   "id": "cur-batman-animated",
+   "name": "Batman Animated (non-DCAU)",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "The Adventures of Batman",
+     "year": 1968,
+     "type": "tv",
+     "wiki": "The Adventures of Batman"
+    },
+    {
+     "title": "The New Adventures of Batman",
+     "year": 1977,
+     "type": "tv",
+     "wiki": "The New Adventures of Batman"
+    },
+    {
+     "title": "The Batman",
+     "year": 2004,
+     "type": "tv",
+     "wiki": "The Batman (TV series)"
+    },
+    {
+     "title": "The Batman Vs. Dracula",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "The Batman vs. Dracula",
+     "aka": [
+      "The Batman vs. Dracula"
+     ]
+    },
+    {
+     "title": "Batman Gotham Knight",
+     "year": 2008,
+     "type": "movie",
+     "wiki": "Batman: Gotham Knight",
+     "aka": [
+      "Batman: Gotham Knight"
+     ]
+    },
+    {
+     "title": "Batman: The Brave and the Bold",
+     "year": 2008,
+     "type": "tv",
+     "wiki": "Batman: The Brave and the Bold"
+    },
+    {
+     "title": "Lego Batman: The Movie – DC Super Heroes Unite",
+     "year": 2013,
+     "type": "movie"
+    },
+    {
+     "title": "Beware the Batman",
+     "year": 2013,
+     "type": "tv",
+     "wiki": "Beware the Batman"
+    },
+    {
+     "title": "Batman Unlimited: Animal Instincts",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Batman Unlimited: Animal Instincts"
+    },
+    {
+     "title": "Batman Unlimited Monster Mayhem",
+     "year": 2015,
+     "type": "movie",
+     "wiki": "Batman Unlimited: Monster Mayhem",
+     "aka": [
+      "Batman Unlimited: Monster Mayhem"
+     ]
+    },
+    {
+     "title": "Batman Unlimited: Mechs vs. Mutants",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Batman Unlimited: Mechs vs. Mutants"
+    },
+    {
+     "title": "Batman: Return of the Caped Crusaders",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Batman: Return of the Caped Crusaders",
+     "format": "Batman '66 animated"
+    },
+    {
+     "title": "The Lego Batman Movie",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "The Lego Batman Movie"
+    },
+    {
+     "title": "Batman Vs. Two-Face",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Batman vs. Two-Face",
+     "format": "Batman '66 animated",
+     "aka": [
+      "Batman vs. Two-Face"
+     ]
+    },
+    {
+     "title": "Batman Ninja",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Batman Ninja"
+    },
+    {
+     "title": "Scooby-Doo! & Batman: The Brave and the Bold",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Scooby-Doo! & Batman: The Brave and the Bold"
+    },
+    {
+     "title": "Lego DC Batman: Family Matters",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Lego DC Batman: Family Matters"
+    },
+    {
+     "title": "Batman Vs. Teenage Mutant Ninja Turtles",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Batman vs. Teenage Mutant Ninja Turtles",
+     "aka": [
+      "Batman vs. Teenage Mutant Ninja Turtles"
+     ]
+    },
+    {
+     "title": "Batman: Death in the Family",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Batman: Death in the Family",
+     "format": "Interactive film"
+    },
+    {
+     "title": "Merry Little Batman",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Merry Little Batman"
+    },
+    {
+     "title": "Batman: Caped Crusader",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Batman: Caped Crusader"
+    },
+    {
+     "title": "Batman Ninja vs. Yakuza League",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Batman Ninja vs. Yakuza League"
+    }
+   ]
+  },
+  {
+   "id": "cur-superman",
+   "name": "Superman (All Films & Series)",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Superman",
+     "year": 1941,
+     "type": "movie",
+     "wiki": "Superman (1940s animated film series)",
+     "format": "Short",
+     "aka": [
+      "Fleischer/Famous Studios Superman cartoons"
+     ]
+    },
+    {
+     "title": "Superman",
+     "year": 1948,
+     "type": "tv",
+     "wiki": "Superman (serial)",
+     "format": "Film serial (15 chapters)"
+    },
+    {
+     "title": "Atom Man vs. Superman",
+     "year": 1950,
+     "type": "tv",
+     "wiki": "Atom Man vs. Superman",
+     "format": "Film serial (15 chapters)"
+    },
+    {
+     "title": "Superman and the Mole Men",
+     "year": 1951,
+     "type": "movie",
+     "wiki": "Superman and the Mole Men"
+    },
+    {
+     "title": "Adventures of Superman",
+     "year": 1952,
+     "type": "tv",
+     "wiki": "Adventures of Superman (TV series)"
+    },
+    {
+     "title": "The New Adventures of Superman",
+     "year": 1966,
+     "type": "tv",
+     "wiki": "The New Adventures of Superman (TV series)"
+    },
+    {
+     "title": "Superman",
+     "year": 1978,
+     "type": "movie",
+     "wiki": "Superman (1978 film)"
+    },
+    {
+     "title": "Superman II",
+     "year": 1980,
+     "type": "movie",
+     "wiki": "Superman II"
+    },
+    {
+     "title": "Superman III",
+     "year": 1983,
+     "type": "movie",
+     "wiki": "Superman III"
+    },
+    {
+     "title": "Supergirl",
+     "year": 1984,
+     "type": "movie",
+     "wiki": "Supergirl (1984 film)"
+    },
+    {
+     "title": "Superman IV: The Quest for Peace",
+     "year": 1987,
+     "type": "movie",
+     "wiki": "Superman IV: The Quest for Peace"
+    },
+    {
+     "title": "Superboy",
+     "year": 1988,
+     "type": "tv",
+     "wiki": "Superboy (TV series)"
+    },
+    {
+     "title": "Superman",
+     "year": 1988,
+     "type": "tv",
+     "wiki": "Superman (TV series)"
+    },
+    {
+     "title": "Lois & Clark: The New Adventures of Superman",
+     "year": 1993,
+     "type": "tv",
+     "wiki": "Lois & Clark: The New Adventures of Superman"
+    },
+    {
+     "title": "Superman: The Animated Series",
+     "year": 1996,
+     "type": "tv",
+     "wiki": "Superman: The Animated Series"
+    },
+    {
+     "title": "Smallville",
+     "year": 2001,
+     "type": "tv",
+     "wiki": "Smallville"
+    },
+    {
+     "title": "Superman Returns",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Superman Returns"
+    },
+    {
+     "title": "Superman II: The Richard Donner Cut",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Superman II: The Richard Donner Cut",
+     "format": "Alternate cut"
+    },
+    {
+     "title": "Superman: Brainiac Attacks",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Superman: Brainiac Attacks",
+     "format": "Animated (standalone)"
+    },
+    {
+     "title": "Man of Steel",
+     "year": 2013,
+     "type": "movie",
+     "wiki": "Man of Steel (film)"
+    },
+    {
+     "title": "Supergirl",
+     "year": 2015,
+     "type": "tv",
+     "wiki": "Supergirl (TV series)"
+    },
+    {
+     "title": "Batman v Superman: Dawn of Justice",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Batman v Superman: Dawn of Justice"
+    },
+    {
+     "title": "Justice League",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Justice League (film)"
+    },
+    {
+     "title": "Krypton",
+     "year": 2018,
+     "type": "tv",
+     "wiki": "Krypton (TV series)",
+     "format": "Prequel series"
+    },
+    {
+     "title": "Zack Snyder's Justice League",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Zack Snyder's Justice League"
+    },
+    {
+     "title": "Superman & Lois",
+     "year": 2021,
+     "type": "tv",
+     "wiki": "Superman & Lois"
+    },
+    {
+     "title": "My Adventures with Superman",
+     "year": 2023,
+     "type": "tv",
+     "wiki": "My Adventures with Superman"
+    },
+    {
+     "title": "Superman",
+     "year": 2025,
+     "type": "movie",
+     "wiki": "Superman (2025 film)"
+    },
+    {
+     "title": "Supergirl",
+     "year": 2026,
+     "type": "movie",
+     "wiki": "Supergirl (2026 film)"
+    }
+   ]
+  },
+  {
+   "id": "cur-arrowverse",
+   "name": "Arrowverse",
+   "kind": "TV Universe",
+   "items": [
+    {
+     "title": "Arrow",
+     "year": 2012,
+     "type": "tv",
+     "wiki": "Arrow (TV series)"
+    },
+    {
+     "title": "The Flash",
+     "year": 2014,
+     "type": "tv",
+     "wiki": "The Flash (2014 TV series)"
+    },
+    {
+     "title": "Vixen",
+     "year": 2015,
+     "type": "tv",
+     "wiki": "Vixen (web series)",
+     "format": "Animated web series"
+    },
+    {
+     "title": "Supergirl",
+     "year": 2015,
+     "type": "tv",
+     "wiki": "Supergirl (TV series)",
+     "format": "Moved from CBS to The CW in season 2; Earth-38 until Crisis"
+    },
+    {
+     "title": "Legends of Tomorrow",
+     "year": 2016,
+     "type": "tv",
+     "wiki": "Legends of Tomorrow"
+    },
+    {
+     "title": "Freedom Fighters: The Ray",
+     "year": 2017,
+     "type": "tv",
+     "wiki": "Freedom Fighters: The Ray",
+     "format": "Animated web series"
+    },
+    {
+     "title": "Black Lightning",
+     "year": 2018,
+     "type": "tv",
+     "wiki": "Black Lightning (TV series)",
+     "format": "Separate world, merged post-Crisis"
+    },
+    {
+     "title": "Batwoman",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "Batwoman (TV series)"
+    },
+    {
+     "title": "Stargirl",
+     "year": 2020,
+     "type": "tv",
+     "wiki": "Stargirl (TV series)",
+     "format": "Separate Earth (Crisis cameo); loosely connected"
+    },
+    {
+     "title": "Superman & Lois",
+     "year": 2021,
+     "type": "tv",
+     "wiki": "Superman & Lois",
+     "format": "Arrowverse spin-off; later revealed as separate Earth"
+    }
+   ]
+  },
+  {
+   "id": "cur-wonder-woman",
+   "name": "Wonder Woman",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Wonder Woman",
+     "year": 1974,
+     "type": "movie",
+     "wiki": "Wonder Woman (1974 film)",
+     "format": "TV film"
+    },
+    {
+     "title": "Wonder Woman",
+     "year": 1975,
+     "type": "tv",
+     "wiki": "Wonder Woman (TV series)"
+    },
+    {
+     "title": "Wonder Woman",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Wonder Woman (2009 film)",
+     "format": "Animated (DCUAOM)"
+    },
+    {
+     "title": "Batman v Superman: Dawn of Justice",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Batman v Superman: Dawn of Justice",
+     "format": "Appearance"
+    },
+    {
+     "title": "Wonder Woman",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Wonder Woman (2017 film)"
+    },
+    {
+     "title": "Justice League",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Justice League (film)"
+    },
+    {
+     "title": "Wonder Woman: Bloodlines",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Wonder Woman: Bloodlines",
+     "format": "Animated (DCUAOM)"
+    },
+    {
+     "title": "Wonder Woman 1984",
+     "year": 2020,
+     "type": "movie",
+     "wiki": "Wonder Woman 1984"
+    },
+    {
+     "title": "Zack Snyder's Justice League",
+     "year": 2021,
+     "type": "movie",
+     "wiki": "Zack Snyder's Justice League"
+    }
+   ]
+  },
+  {
+   "id": "cur-teen-titans",
+   "name": "Teen Titans",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Teen Titans",
+     "year": 2003,
+     "type": "tv",
+     "wiki": "Teen Titans (TV series)"
+    },
+    {
+     "title": "Teen Titans: Trouble in Tokyo",
+     "year": 2006,
+     "type": "movie",
+     "wiki": "Teen Titans: Trouble in Tokyo"
+    },
+    {
+     "title": "Teen Titans Go!",
+     "year": 2013,
+     "type": "tv",
+     "wiki": "Teen Titans Go!"
+    },
+    {
+     "title": "Justice League vs. Teen Titans",
+     "year": 2016,
+     "type": "movie",
+     "wiki": "Justice League vs. Teen Titans"
+    },
+    {
+     "title": "Teen Titans: The Judas Contract",
+     "year": 2017,
+     "type": "movie",
+     "wiki": "Teen Titans: The Judas Contract"
+    },
+    {
+     "title": "Teen Titans Go! To the Movies",
+     "year": 2018,
+     "type": "movie",
+     "wiki": "Teen Titans Go! To the Movies"
+    },
+    {
+     "title": "Titans",
+     "year": 2018,
+     "type": "tv",
+     "wiki": "Titans (2018 TV series)"
+    },
+    {
+     "title": "Teen Titans Go! vs. Teen Titans",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Teen Titans Go! vs. Teen Titans"
+    },
+    {
+     "title": "Teen Titans Go! See Space Jam",
+     "year": 2021,
+     "type": "movie",
+     "format": "TV film"
+    },
+    {
+     "title": "Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse"
+    }
+   ]
+  },
+  {
+   "id": "cur-dc-animated-other",
+   "name": "DC Animated (Other Series & Films)",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Super Friends",
+     "year": 1973,
+     "type": "tv",
+     "wiki": "Super Friends"
+    },
+    {
+     "title": "Krypto the Superdog",
+     "year": 2005,
+     "type": "tv"
+    },
+    {
+     "title": "Legion of Super Heroes",
+     "year": 2006,
+     "type": "tv",
+     "wiki": "Legion of Super Heroes (TV series)"
+    },
+    {
+     "title": "Young Justice",
+     "year": 2010,
+     "type": "tv",
+     "wiki": "Young Justice (TV series)"
+    },
+    {
+     "title": "Green Lantern: The Animated Series",
+     "year": 2011,
+     "type": "tv",
+     "wiki": "Green Lantern: The Animated Series"
+    },
+    {
+     "title": "Justice League Action",
+     "year": 2016,
+     "type": "tv",
+     "wiki": "Justice League Action"
+    },
+    {
+     "title": "DC Super Hero Girls",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "DC Super Hero Girls (TV series)"
+    },
+    {
+     "title": "Harley Quinn",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "Harley Quinn (TV series)"
+    },
+    {
+     "title": "DC League of Super-Pets",
+     "year": 2022,
+     "type": "movie",
+     "wiki": "DC League of Super-Pets"
+    },
+    {
+     "title": "Justice League x RWBY: Super Heroes & Huntsmen, Part One",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Justice League x RWBY: Super Heroes & Huntsmen"
+    },
+    {
+     "title": "Justice League x RWBY: Super Heroes & Huntsmen, Part Two",
+     "year": 2023,
+     "type": "movie",
+     "wiki": "Justice League x RWBY: Super Heroes & Huntsmen"
+    },
+    {
+     "title": "Kite Man: Hell Yeah!",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Kite Man: Hell Yeah!",
+     "format": "Harley Quinn spin-off"
+    },
+    {
+     "title": "Suicide Squad Isekai",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Suicide Squad Isekai"
+    },
+    {
+     "title": "Creature Commandos",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Creature Commandos (TV series)",
+     "format": "DCU"
+    }
+   ]
+  },
+  {
+   "id": "cur-dc-elseworlds-live-action",
+   "name": "DC Elseworlds & Other Live-Action",
+   "kind": "Franchise",
+   "items": [
+    {
+     "title": "Shazam!",
+     "year": 1974,
+     "type": "tv",
+     "wiki": "Shazam! (TV series)"
+    },
+    {
+     "title": "Swamp Thing",
+     "year": 1982,
+     "type": "movie",
+     "wiki": "Swamp Thing (1982 film)"
+    },
+    {
+     "title": "The Return of Swamp Thing",
+     "year": 1989,
+     "type": "movie",
+     "wiki": "The Return of Swamp Thing"
+    },
+    {
+     "title": "Swamp Thing",
+     "year": 1990,
+     "type": "tv",
+     "wiki": "Swamp Thing (1990 TV series)"
+    },
+    {
+     "title": "The Flash",
+     "year": 1990,
+     "type": "tv",
+     "wiki": "The Flash (1990 TV series)"
+    },
+    {
+     "title": "Steel",
+     "year": 1997,
+     "type": "movie",
+     "wiki": "Steel (1997 film)"
+    },
+    {
+     "title": "Catwoman",
+     "year": 2004,
+     "type": "movie",
+     "wiki": "Catwoman (film)"
+    },
+    {
+     "title": "Constantine",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "Constantine (film)"
+    },
+    {
+     "title": "V for Vendetta",
+     "year": 2005,
+     "type": "movie",
+     "wiki": "V for Vendetta (film)"
+    },
+    {
+     "title": "Watchmen",
+     "year": 2009,
+     "type": "movie",
+     "wiki": "Watchmen (2009 film)"
+    },
+    {
+     "title": "Jonah Hex",
+     "year": 2010,
+     "type": "movie",
+     "wiki": "Jonah Hex (film)"
+    },
+    {
+     "title": "Green Lantern",
+     "year": 2011,
+     "type": "movie",
+     "wiki": "Green Lantern (film)"
+    },
+    {
+     "title": "Constantine",
+     "year": 2014,
+     "type": "tv",
+     "wiki": "Constantine (TV series)"
+    },
+    {
+     "title": "Lucifer",
+     "year": 2016,
+     "type": "tv",
+     "wiki": "Lucifer (TV series)"
+    },
+    {
+     "title": "Preacher",
+     "year": 2016,
+     "type": "tv",
+     "wiki": "Preacher (TV series)"
+    },
+    {
+     "title": "Doom Patrol",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "Doom Patrol (TV series)"
+    },
+    {
+     "title": "Swamp Thing",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "Swamp Thing (2019 TV series)"
+    },
+    {
+     "title": "Watchmen",
+     "year": 2019,
+     "type": "tv",
+     "wiki": "Watchmen (TV series)",
+     "format": "Limited series"
+    },
+    {
+     "title": "Joker",
+     "year": 2019,
+     "type": "movie",
+     "wiki": "Joker (2019 film)"
+    },
+    {
+     "title": "Sweet Tooth",
+     "year": 2021,
+     "type": "tv",
+     "wiki": "Sweet Tooth (TV series)"
+    },
+    {
+     "title": "The Sandman",
+     "year": 2022,
+     "type": "tv",
+     "wiki": "The Sandman (TV series)"
+    },
+    {
+     "title": "Joker: Folie à Deux",
+     "year": 2024,
+     "type": "movie",
+     "wiki": "Joker: Folie à Deux"
+    },
+    {
+     "title": "Dead Boy Detectives",
+     "year": 2024,
+     "type": "tv",
+     "wiki": "Dead Boy Detectives (TV series)"
+    }
+   ]
+  }
+ ]
+}

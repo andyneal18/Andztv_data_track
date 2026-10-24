@@ -1,0 +1,1332 @@
+{
+  "collections": [
+    {
+      "id": "cur-marvel-cinematic-universe",
+      "name": "Marvel Cinematic Universe",
+      "kind": "Universe",
+      "items": [
+        {
+          "title": "Iron Man",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "Iron Man (2008 film)"
+        },
+        {
+          "title": "The Incredible Hulk",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "The Incredible Hulk (film)"
+        },
+        {
+          "title": "Iron Man 2",
+          "year": 2010,
+          "type": "movie",
+          "wiki": "Iron Man 2"
+        },
+        {
+          "title": "Thor",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Thor (film)"
+        },
+        {
+          "title": "Captain America: The First Avenger",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Captain America: The First Avenger"
+        },
+        {
+          "title": "The Consultant",
+          "year": 2011,
+          "type": "movie",
+          "format": "Short",
+          "aka": [
+            "Marvel One-Shot: The Consultant"
+          ]
+        },
+        {
+          "title": "A Funny Thing Happened on the Way to Thor's Hammer",
+          "year": 2011,
+          "type": "movie",
+          "format": "Short"
+        },
+        {
+          "title": "The Avengers",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "The Avengers (2012 film)"
+        },
+        {
+          "title": "Item 47",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "Item 47",
+          "format": "Short"
+        },
+        {
+          "title": "Iron Man 3",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Iron Man 3"
+        },
+        {
+          "title": "Agent Carter",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Agent Carter (film)",
+          "format": "Short",
+          "aka": [
+            "Marvel One-Shot: Agent Carter"
+          ]
+        },
+        {
+          "title": "Thor: The Dark World",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Thor: The Dark World"
+        },
+        {
+          "title": "All Hail the King",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "All Hail the King",
+          "format": "Short"
+        },
+        {
+          "title": "Captain America: The Winter Soldier",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "Captain America: The Winter Soldier"
+        },
+        {
+          "title": "Guardians of the Galaxy",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "Guardians of the Galaxy (film)"
+        },
+        {
+          "title": "Avengers: Age of Ultron",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Avengers: Age of Ultron"
+        },
+        {
+          "title": "Ant-Man",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Ant-Man (film)"
+        },
+        {
+          "title": "Captain America: Civil War",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Captain America: Civil War"
+        },
+        {
+          "title": "Doctor Strange",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Doctor Strange (2016 film)"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 2",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "Guardians of the Galaxy Vol. 2"
+        },
+        {
+          "title": "Spider-Man: Homecoming",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "Spider-Man: Homecoming"
+        },
+        {
+          "title": "Thor: Ragnarok",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "Thor: Ragnarok"
+        },
+        {
+          "title": "Black Panther",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Black Panther (film)"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Avengers: Infinity War"
+        },
+        {
+          "title": "Ant-Man and the Wasp",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Ant-Man and the Wasp"
+        },
+        {
+          "title": "Captain Marvel",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "Captain Marvel (film)"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "Avengers: Endgame"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "Spider-Man: Far From Home"
+        },
+        {
+          "title": "WandaVision",
+          "year": 2021,
+          "type": "tv",
+          "wiki": "WandaVision"
+        },
+        {
+          "title": "The Falcon and the Winter Soldier",
+          "year": 2021,
+          "type": "tv",
+          "wiki": "The Falcon and the Winter Soldier"
+        },
+        {
+          "title": "Loki",
+          "year": 2021,
+          "type": "tv",
+          "wiki": "Loki (TV series)"
+        },
+        {
+          "title": "Black Widow",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Black Widow (2021 film)"
+        },
+        {
+          "title": "What If...?",
+          "year": 2021,
+          "type": "tv",
+          "wiki": "What If...? (TV series)"
+        },
+        {
+          "title": "Shang-Chi and the Legend of the Ten Rings",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Shang-Chi and the Legend of the Ten Rings"
+        },
+        {
+          "title": "Eternals",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Eternals (film)"
+        },
+        {
+          "title": "Hawkeye",
+          "year": 2021,
+          "type": "tv",
+          "wiki": "Hawkeye (miniseries)"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Spider-Man: No Way Home"
+        },
+        {
+          "title": "Moon Knight",
+          "year": 2022,
+          "type": "tv",
+          "wiki": "Moon Knight (miniseries)"
+        },
+        {
+          "title": "Doctor Strange in the Multiverse of Madness",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Doctor Strange in the Multiverse of Madness"
+        },
+        {
+          "title": "Ms. Marvel",
+          "year": 2022,
+          "type": "tv",
+          "wiki": "Ms. Marvel (miniseries)"
+        },
+        {
+          "title": "Thor: Love and Thunder",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Thor: Love and Thunder"
+        },
+        {
+          "title": "I Am Groot",
+          "year": 2022,
+          "type": "tv",
+          "wiki": "I Am Groot"
+        },
+        {
+          "title": "She-Hulk: Attorney at Law",
+          "year": 2022,
+          "type": "tv",
+          "wiki": "She-Hulk: Attorney at Law"
+        },
+        {
+          "title": "Werewolf by Night",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Werewolf by Night (TV special)",
+          "format": "Special"
+        },
+        {
+          "title": "Black Panther: Wakanda Forever",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Black Panther: Wakanda Forever"
+        },
+        {
+          "title": "The Guardians of the Galaxy Holiday Special",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "The Guardians of the Galaxy Holiday Special",
+          "format": "Special"
+        },
+        {
+          "title": "Ant-Man and the Wasp: Quantumania",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "Ant-Man and the Wasp: Quantumania"
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "Guardians of the Galaxy Vol. 3"
+        },
+        {
+          "title": "Secret Invasion",
+          "year": 2023,
+          "type": "tv",
+          "wiki": "Secret Invasion (miniseries)"
+        },
+        {
+          "title": "The Marvels",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "The Marvels"
+        },
+        {
+          "title": "Echo",
+          "year": 2024,
+          "type": "tv",
+          "wiki": "Echo (miniseries)"
+        },
+        {
+          "title": "Deadpool & Wolverine",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Deadpool & Wolverine"
+        },
+        {
+          "title": "Agatha All Along",
+          "year": 2024,
+          "type": "tv",
+          "wiki": "Agatha All Along"
+        },
+        {
+          "title": "Your Friendly Neighborhood Spider-Man",
+          "year": 2025,
+          "type": "tv",
+          "wiki": "Your Friendly Neighborhood Spider-Man"
+        },
+        {
+          "title": "Captain America: Brave New World",
+          "year": 2025,
+          "type": "movie",
+          "wiki": "Captain America: Brave New World"
+        },
+        {
+          "title": "Daredevil: Born Again",
+          "year": 2025,
+          "type": "tv",
+          "wiki": "Daredevil: Born Again"
+        },
+        {
+          "title": "Thunderbolts*",
+          "year": 2025,
+          "type": "movie",
+          "wiki": "Thunderbolts*",
+          "aka": [
+            "Thunderbolts",
+            "The New Avengers"
+          ]
+        },
+        {
+          "title": "Ironheart",
+          "year": 2025,
+          "type": "tv",
+          "wiki": "Ironheart (miniseries)"
+        },
+        {
+          "title": "The Fantastic 4: First Steps",
+          "year": 2025,
+          "type": "movie",
+          "wiki": "The Fantastic Four: First Steps",
+          "aka": [
+            "The Fantastic Four: First Steps"
+          ]
+        },
+        {
+          "title": "Eyes of Wakanda",
+          "year": 2025,
+          "type": "tv",
+          "wiki": "Eyes of Wakanda"
+        },
+        {
+          "title": "Marvel Zombies",
+          "year": 2025,
+          "type": "tv",
+          "wiki": "Marvel Zombies (TV series)"
+        },
+        {
+          "title": "Wonder Man",
+          "year": 2026,
+          "type": "tv",
+          "wiki": "Wonder Man (TV series)"
+        },
+        {
+          "title": "The Punisher: One Last Kill",
+          "year": 2026,
+          "type": "movie",
+          "wiki": "The Punisher: One Last Kill",
+          "format": "Special"
+        },
+        {
+          "title": "Spider-Man- Brand New Day",
+          "year": 2026,
+          "type": "movie",
+          "wiki": "Spider-Man: Brand New Day",
+          "aka": [
+            "Spider-Man: Brand New Day"
+          ]
+        },
+        {
+          "title": "VisionQuest",
+          "year": 2026,
+          "type": "tv",
+          "wiki": "VisionQuest"
+        }
+      ]
+    },
+    {
+      "id": "cur-marvel-television",
+      "name": "Marvel Television (ABC / Netflix / Hulu)",
+      "kind": "TV Universe",
+      "items": [
+        {
+          "title": "Agents of S.H.I.E.L.D.",
+          "year": 2013,
+          "type": "tv",
+          "wiki": "Agents of S.H.I.E.L.D.",
+          "aka": [
+            "Marvel's Agents of S.H.I.E.L.D."
+          ]
+        },
+        {
+          "title": "Agent Carter",
+          "year": 2015,
+          "type": "tv",
+          "wiki": "Agent Carter (TV series)",
+          "aka": [
+            "Marvel's Agent Carter"
+          ]
+        },
+        {
+          "title": "Marvel's Daredevil",
+          "year": 2015,
+          "type": "tv",
+          "wiki": "Daredevil (TV series)",
+          "aka": [
+            "Daredevil"
+          ]
+        },
+        {
+          "title": "Jessica Jones",
+          "year": 2015,
+          "type": "tv",
+          "wiki": "Jessica Jones (TV series)",
+          "aka": [
+            "Marvel's Jessica Jones"
+          ]
+        },
+        {
+          "title": "Luke Cage",
+          "year": 2016,
+          "type": "tv",
+          "wiki": "Luke Cage (TV series)",
+          "aka": [
+            "Marvel's Luke Cage"
+          ]
+        },
+        {
+          "title": "Legion",
+          "year": 2017,
+          "type": "tv",
+          "wiki": "Legion (TV series)"
+        },
+        {
+          "title": "Iron Fist",
+          "year": 2017,
+          "type": "tv",
+          "wiki": "Iron Fist (TV series)",
+          "aka": [
+            "Marvel's Iron Fist"
+          ]
+        },
+        {
+          "title": "The Defenders",
+          "year": 2017,
+          "type": "tv",
+          "wiki": "The Defenders (miniseries)",
+          "aka": [
+            "Marvel's The Defenders"
+          ]
+        },
+        {
+          "title": "Inhumans",
+          "year": 2017,
+          "type": "tv",
+          "wiki": "Inhumans (TV series)",
+          "aka": [
+            "Marvel's Inhumans"
+          ]
+        },
+        {
+          "title": "The Gifted",
+          "year": 2017,
+          "type": "tv",
+          "wiki": "The Gifted (American TV series)"
+        },
+        {
+          "title": "The Punisher",
+          "year": 2017,
+          "type": "tv",
+          "wiki": "The Punisher (TV series)",
+          "aka": [
+            "Marvel's The Punisher"
+          ]
+        },
+        {
+          "title": "Runaways",
+          "year": 2017,
+          "type": "tv",
+          "wiki": "Runaways (TV series)",
+          "aka": [
+            "Marvel's Runaways"
+          ]
+        },
+        {
+          "title": "Marvel's Cloak & Dagger",
+          "year": 2018,
+          "type": "tv",
+          "wiki": "Cloak & Dagger (TV series)",
+          "aka": [
+            "Cloak & Dagger"
+          ]
+        },
+        {
+          "title": "Helstrom",
+          "year": 2020,
+          "type": "tv",
+          "wiki": "Helstrom (TV series)"
+        },
+        {
+          "title": "M.O.D.O.K.",
+          "year": 2021,
+          "type": "tv",
+          "wiki": "M.O.D.O.K. (TV series)",
+          "aka": [
+            "Marvel's M.O.D.O.K."
+          ]
+        },
+        {
+          "title": "Hit-Monkey",
+          "year": 2021,
+          "type": "tv",
+          "wiki": "Hit-Monkey (TV series)",
+          "aka": [
+            "Marvel's Hit-Monkey"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cur-spider-man",
+      "name": "Spider-Man (All Films & Series)",
+      "kind": "Franchise",
+      "items": [
+        {
+          "title": "Spider-Man",
+          "year": 1967,
+          "type": "tv",
+          "wiki": "Spider-Man (1967 TV series)"
+        },
+        {
+          "title": "Spider-Man",
+          "year": 1977,
+          "type": "movie",
+          "wiki": "Spider-Man (1977 film)",
+          "aka": [
+            "The Amazing Spider-Man (pilot)"
+          ]
+        },
+        {
+          "title": "The Amazing Spider-Man",
+          "year": 1977,
+          "type": "tv",
+          "wiki": "The Amazing Spider-Man (TV series)"
+        },
+        {
+          "title": "Spider-Man Strikes Back",
+          "year": 1978,
+          "type": "movie",
+          "wiki": "Spider-Man Strikes Back"
+        },
+        {
+          "title": "Spider-Man",
+          "year": 1978,
+          "type": "tv",
+          "wiki": "Spider-Man (Japanese TV series)",
+          "aka": [
+            "Supaidāman (Toei)"
+          ]
+        },
+        {
+          "title": "Japanese Spiderman: Episode 0",
+          "year": 1978,
+          "type": "movie",
+          "aka": [
+            "Spider-Man (1978 Toei film)",
+            "Supaidāman (Toei Manga Matsuri film)"
+          ]
+        },
+        {
+          "title": "Spider-Man: The Dragon's Challenge",
+          "year": 1981,
+          "type": "movie",
+          "wiki": "Spider-Man: The Dragon's Challenge"
+        },
+        {
+          "title": "Spider-Man",
+          "year": 1981,
+          "type": "tv",
+          "wiki": "Spider-Man (1981 TV series)"
+        },
+        {
+          "title": "Spider-Man and His Amazing Friends",
+          "year": 1981,
+          "type": "tv",
+          "wiki": "Spider-Man and His Amazing Friends"
+        },
+        {
+          "title": "Spider-Man",
+          "year": 1994,
+          "type": "tv",
+          "wiki": "Spider-Man: The Animated Series",
+          "aka": [
+            "Spider-Man: The Animated Series"
+          ]
+        },
+        {
+          "title": "Spider-Man Unlimited",
+          "year": 1999,
+          "type": "tv",
+          "wiki": "Spider-Man Unlimited"
+        },
+        {
+          "title": "Spider-Man",
+          "year": 2002,
+          "type": "movie",
+          "wiki": "Spider-Man (2002 film)"
+        },
+        {
+          "title": "Spider-Man: The New Animated Series",
+          "year": 2003,
+          "type": "tv",
+          "wiki": "Spider-Man: The New Animated Series"
+        },
+        {
+          "title": "Spider-Man 2",
+          "year": 2004,
+          "type": "movie",
+          "wiki": "Spider-Man 2"
+        },
+        {
+          "title": "Spider-Man 3",
+          "year": 2007,
+          "type": "movie",
+          "wiki": "Spider-Man 3"
+        },
+        {
+          "title": "The Spectacular Spider-Man",
+          "year": 2008,
+          "type": "tv",
+          "wiki": "The Spectacular Spider-Man"
+        },
+        {
+          "title": "Marvel's Ultimate Spider-Man",
+          "year": 2012,
+          "type": "tv",
+          "wiki": "Ultimate Spider-Man (TV series)",
+          "aka": [
+            "Ultimate Spider-Man"
+          ]
+        },
+        {
+          "title": "The Amazing Spider-Man",
+          "year": 2012,
+          "type": "movie",
+          "wiki": "The Amazing Spider-Man (film)"
+        },
+        {
+          "title": "The Amazing Spider-Man 2",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "The Amazing Spider-Man 2"
+        },
+        {
+          "title": "Spider-Man: Homecoming",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "Spider-Man: Homecoming"
+        },
+        {
+          "title": "Spider-Man",
+          "year": 2017,
+          "type": "tv",
+          "wiki": "Spider-Man (2017 TV series)",
+          "aka": [
+            "Marvel's Spider-Man"
+          ]
+        },
+        {
+          "title": "Venom",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Venom (2018 film)"
+        },
+        {
+          "title": "Spider-Man: Into the Spider-Verse",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Spider-Man: Into the Spider-Verse"
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "Spider-Man: Far From Home"
+        },
+        {
+          "title": "Spidey and His Amazing Friends",
+          "year": 2021,
+          "type": "tv",
+          "wiki": "Spidey and His Amazing Friends"
+        },
+        {
+          "title": "Venom: Let There Be Carnage",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Venom: Let There Be Carnage"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Spider-Man: No Way Home"
+        },
+        {
+          "title": "Morbius",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Morbius (film)"
+        },
+        {
+          "title": "Spider-Man: Across the Spider-Verse",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "Spider-Man: Across the Spider-Verse"
+        },
+        {
+          "title": "The Spider Within: A Spider-Verse Story",
+          "year": 2023,
+          "type": "movie",
+          "wiki": "The Spider Within: A Spider-Verse Story",
+          "format": "Short"
+        },
+        {
+          "title": "Spider-Man: Lotus",
+          "year": 2023,
+          "type": "movie",
+          "aka": [
+            "Fan film (official Blu-ray release exception)"
+          ]
+        },
+        {
+          "title": "Madame Web",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Madame Web (film)"
+        },
+        {
+          "title": "Venom: The Last Dance",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Venom: The Last Dance"
+        },
+        {
+          "title": "Kraven the Hunter",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Kraven the Hunter (film)"
+        },
+        {
+          "title": "Your Friendly Neighborhood Spider-Man",
+          "year": 2025,
+          "type": "tv",
+          "wiki": "Your Friendly Neighborhood Spider-Man"
+        },
+        {
+          "title": "Spider-Noir",
+          "year": 2026,
+          "type": "tv",
+          "wiki": "Spider-Noir"
+        },
+        {
+          "title": "Spider-Man- Brand New Day",
+          "year": 2026,
+          "type": "movie",
+          "wiki": "Spider-Man: Brand New Day",
+          "aka": [
+            "Spider-Man: Brand New Day"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cur-sony-spider-man-universe",
+      "name": "Sony's Spider-Man Universe",
+      "kind": "Universe",
+      "items": [
+        {
+          "title": "Venom",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Venom (2018 film)"
+        },
+        {
+          "title": "Venom: Let There Be Carnage",
+          "year": 2021,
+          "type": "movie",
+          "wiki": "Venom: Let There Be Carnage"
+        },
+        {
+          "title": "Morbius",
+          "year": 2022,
+          "type": "movie",
+          "wiki": "Morbius (film)"
+        },
+        {
+          "title": "Madame Web",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Madame Web (film)"
+        },
+        {
+          "title": "Venom: The Last Dance",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Venom: The Last Dance"
+        },
+        {
+          "title": "Kraven the Hunter",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Kraven the Hunter (film)"
+        }
+      ]
+    },
+    {
+      "id": "cur-x-men-fox",
+      "name": "X-Men (Fox)",
+      "kind": "Franchise",
+      "items": [
+        {
+          "title": "Pryde of the X-Men",
+          "year": 1989,
+          "type": "tv",
+          "wiki": "X-Men: Pryde of the X-Men",
+          "format": "TV Pilot"
+        },
+        {
+          "title": "X-Men: The Animated Series",
+          "year": 1992,
+          "type": "tv",
+          "wiki": "X-Men: The Animated Series",
+          "aka": [
+            "X-Men"
+          ]
+        },
+        {
+          "title": "Generation X",
+          "year": 1996,
+          "type": "movie",
+          "wiki": "Generation X (film)",
+          "format": "TV Movie"
+        },
+        {
+          "title": "X-Men",
+          "year": 2000,
+          "type": "movie",
+          "wiki": "X-Men (film)"
+        },
+        {
+          "title": "X-Men: Evolution",
+          "year": 2000,
+          "type": "tv",
+          "wiki": "X-Men: Evolution"
+        },
+        {
+          "title": "X2",
+          "year": 2003,
+          "type": "movie",
+          "wiki": "X2 (film)",
+          "aka": [
+            "X2: X-Men United"
+          ]
+        },
+        {
+          "title": "X-Men: The Last Stand",
+          "year": 2006,
+          "type": "movie",
+          "wiki": "X-Men: The Last Stand"
+        },
+        {
+          "title": "Wolverine and the X-Men",
+          "year": 2009,
+          "type": "tv",
+          "wiki": "Wolverine and the X-Men (TV series)"
+        },
+        {
+          "title": "X-Men Origins: Wolverine",
+          "year": 2009,
+          "type": "movie",
+          "wiki": "X-Men Origins: Wolverine"
+        },
+        {
+          "title": "Wolverine",
+          "year": 2011,
+          "type": "tv",
+          "aka": [
+            "Marvel Anime: Wolverine"
+          ]
+        },
+        {
+          "title": "X-Men",
+          "year": 2011,
+          "type": "tv",
+          "aka": [
+            "Marvel Anime: X-Men"
+          ]
+        },
+        {
+          "title": "X-Men: First Class",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "X-Men: First Class"
+        },
+        {
+          "title": "The Wolverine",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "The Wolverine (film)"
+        },
+        {
+          "title": "X-Men: Days of Future Past",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "X-Men: Days of Future Past"
+        },
+        {
+          "title": "Deadpool",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Deadpool (film)"
+        },
+        {
+          "title": "X-Men: Apocalypse",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "X-Men: Apocalypse"
+        },
+        {
+          "title": "Legion",
+          "year": 2017,
+          "type": "tv",
+          "wiki": "Legion (TV series)"
+        },
+        {
+          "title": "Logan",
+          "year": 2017,
+          "type": "movie",
+          "wiki": "Logan (film)"
+        },
+        {
+          "title": "The Gifted",
+          "year": 2017,
+          "type": "tv",
+          "wiki": "The Gifted (American TV series)"
+        },
+        {
+          "title": "Deadpool 2",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Deadpool 2"
+        },
+        {
+          "title": "Once Upon a Deadpool",
+          "year": 2018,
+          "type": "movie",
+          "aka": [
+            "PG-13 recut of Deadpool 2"
+          ]
+        },
+        {
+          "title": "Dark Phoenix",
+          "year": 2019,
+          "type": "movie",
+          "wiki": "Dark Phoenix (film)"
+        },
+        {
+          "title": "The New Mutants",
+          "year": 2020,
+          "type": "movie",
+          "wiki": "The New Mutants (film)"
+        },
+        {
+          "title": "X-Men '97",
+          "year": 2024,
+          "type": "tv",
+          "wiki": "X-Men '97"
+        },
+        {
+          "title": "Deadpool & Wolverine",
+          "year": 2024,
+          "type": "movie",
+          "wiki": "Deadpool & Wolverine"
+        }
+      ]
+    },
+    {
+      "id": "cur-fantastic-four",
+      "name": "Fantastic Four",
+      "kind": "Franchise",
+      "items": [
+        {
+          "title": "Fantastic Four",
+          "year": 1967,
+          "type": "tv",
+          "wiki": "The Fantastic Four (1967 TV series)"
+        },
+        {
+          "title": "The New Fantastic Four",
+          "year": 1978,
+          "type": "tv",
+          "wiki": "The New Fantastic Four"
+        },
+        {
+          "title": "Fantastic Four",
+          "year": 1994,
+          "type": "tv",
+          "wiki": "Fantastic Four (1994 TV series)",
+          "aka": [
+            "Fantastic Four: The Animated Series"
+          ]
+        },
+        {
+          "title": "Fantastic Four",
+          "year": 2005,
+          "type": "movie",
+          "wiki": "Fantastic Four (2005 film)"
+        },
+        {
+          "title": "Fantastic Four: World's Greatest Heroes",
+          "year": 2006,
+          "type": "tv",
+          "wiki": "Fantastic Four: World's Greatest Heroes"
+        },
+        {
+          "title": "Fantastic Four: Rise of the Silver Surfer",
+          "year": 2007,
+          "type": "movie",
+          "wiki": "Fantastic Four: Rise of the Silver Surfer"
+        },
+        {
+          "title": "Fantastic Four",
+          "year": 2015,
+          "type": "movie",
+          "wiki": "Fantastic Four (2015 film)"
+        },
+        {
+          "title": "The Fantastic 4: First Steps",
+          "year": 2025,
+          "type": "movie",
+          "wiki": "The Fantastic Four: First Steps",
+          "aka": [
+            "The Fantastic Four: First Steps"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cur-marvel-animated-films",
+      "name": "Marvel Animated Films",
+      "kind": "Film Series",
+      "items": [
+        {
+          "title": "Ultimate Avengers",
+          "year": 2006,
+          "type": "movie",
+          "wiki": "Ultimate Avengers"
+        },
+        {
+          "title": "Ultimate Avengers 2",
+          "year": 2006,
+          "type": "movie",
+          "aka": [
+            "Ultimate Avengers 2: Rise of the Panther"
+          ]
+        },
+        {
+          "title": "The Invincible Iron Man",
+          "year": 2007,
+          "type": "movie"
+        },
+        {
+          "title": "Doctor Strange: The Sorcerer Supreme",
+          "year": 2007,
+          "type": "movie"
+        },
+        {
+          "title": "Next Avengers: Heroes of Tomorrow",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "Next Avengers: Heroes of Tomorrow"
+        },
+        {
+          "title": "Hulk Vs",
+          "year": 2009,
+          "type": "movie"
+        },
+        {
+          "title": "Planet Hulk",
+          "year": 2010,
+          "type": "movie"
+        },
+        {
+          "title": "Thor: Tales of Asgard",
+          "year": 2011,
+          "type": "movie"
+        },
+        {
+          "title": "Iron Man: Rise of Technovore",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Iron Man: Rise of Technovore"
+        },
+        {
+          "title": "Iron Man & Hulk: Heroes United",
+          "year": 2013,
+          "type": "movie",
+          "wiki": "Heroes United"
+        },
+        {
+          "title": "Avengers Confidential: Black Widow & Punisher",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "Avengers Confidential: Black Widow & Punisher"
+        },
+        {
+          "title": "Iron Man & Captain America: Heroes United",
+          "year": 2014,
+          "type": "movie",
+          "wiki": "Heroes United"
+        },
+        {
+          "title": "Hulk: Where Monsters Dwell",
+          "year": 2016,
+          "type": "movie",
+          "wiki": "Hulk: Where Monsters Dwell"
+        },
+        {
+          "title": "Marvel Rising: Secret Warriors",
+          "year": 2018,
+          "type": "movie",
+          "wiki": "Marvel Rising: Secret Warriors"
+        }
+      ]
+    },
+    {
+      "id": "cur-marvel-live-action-pre-mcu",
+      "name": "Marvel Live-Action (pre-MCU)",
+      "kind": "Film Series",
+      "items": [
+        {
+          "title": "The Incredible Hulk",
+          "year": 1978,
+          "type": "tv",
+          "wiki": "The Incredible Hulk (1978 TV series)"
+        },
+        {
+          "title": "Dr. Strange",
+          "year": 1978,
+          "type": "movie",
+          "wiki": "Dr. Strange (1978 film)",
+          "format": "TV Movie"
+        },
+        {
+          "title": "Captain America",
+          "year": 1979,
+          "type": "movie",
+          "wiki": "Captain America (1979 film)",
+          "format": "TV Movie"
+        },
+        {
+          "title": "Captain America II: Death Too Soon",
+          "year": 1979,
+          "type": "movie",
+          "wiki": "Captain America II: Death Too Soon",
+          "format": "TV Movie"
+        },
+        {
+          "title": "Howard the Duck",
+          "year": 1986,
+          "type": "movie",
+          "wiki": "Howard the Duck (film)"
+        },
+        {
+          "title": "The Incredible Hulk Returns",
+          "year": 1988,
+          "type": "movie",
+          "wiki": "The Incredible Hulk Returns",
+          "format": "TV Movie"
+        },
+        {
+          "title": "The Trial of the Incredible Hulk",
+          "year": 1989,
+          "type": "movie",
+          "wiki": "The Trial of the Incredible Hulk",
+          "format": "TV Movie"
+        },
+        {
+          "title": "The Punisher",
+          "year": 1989,
+          "type": "movie",
+          "wiki": "The Punisher (1989 film)"
+        },
+        {
+          "title": "The Death of the Incredible Hulk",
+          "year": 1990,
+          "type": "movie",
+          "wiki": "The Death of the Incredible Hulk",
+          "format": "TV Movie"
+        },
+        {
+          "title": "Captain America",
+          "year": 1990,
+          "type": "movie",
+          "wiki": "Captain America (1990 film)"
+        },
+        {
+          "title": "Nick Fury: Agent of S.H.I.E.L.D.",
+          "year": 1998,
+          "type": "movie",
+          "format": "TV Movie"
+        },
+        {
+          "title": "Blade",
+          "year": 1998,
+          "type": "movie",
+          "wiki": "Blade (1998 film)"
+        },
+        {
+          "title": "Blade II",
+          "year": 2002,
+          "type": "movie",
+          "wiki": "Blade II"
+        },
+        {
+          "title": "Daredevil",
+          "year": 2003,
+          "type": "movie",
+          "wiki": "Daredevil (film)"
+        },
+        {
+          "title": "Hulk",
+          "year": 2003,
+          "type": "movie",
+          "wiki": "Hulk (film)"
+        },
+        {
+          "title": "The Punisher",
+          "year": 2004,
+          "type": "movie",
+          "wiki": "The Punisher (2004 film)"
+        },
+        {
+          "title": "Blade: Trinity",
+          "year": 2004,
+          "type": "movie",
+          "wiki": "Blade: Trinity"
+        },
+        {
+          "title": "Elektra",
+          "year": 2005,
+          "type": "movie",
+          "wiki": "Elektra (2005 film)"
+        },
+        {
+          "title": "Man-Thing",
+          "year": 2005,
+          "type": "movie",
+          "wiki": "Man-Thing (film)"
+        },
+        {
+          "title": "Blade: The Series",
+          "year": 2006,
+          "type": "tv",
+          "wiki": "Blade: The Series"
+        },
+        {
+          "title": "Ghost Rider",
+          "year": 2007,
+          "type": "movie",
+          "wiki": "Ghost Rider (2007 film)"
+        },
+        {
+          "title": "Punisher: War Zone",
+          "year": 2008,
+          "type": "movie",
+          "wiki": "Punisher: War Zone"
+        },
+        {
+          "title": "Ghost Rider: Spirit of Vengeance",
+          "year": 2011,
+          "type": "movie",
+          "wiki": "Ghost Rider: Spirit of Vengeance"
+        }
+      ]
+    }
+  ]
+}
