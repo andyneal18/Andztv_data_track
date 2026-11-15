@@ -60,6 +60,9 @@ Don't Have has its own filters: **Requests** (from friends and family),
 
 ## Pages
 
+- **↻ Refresh** (top corner): catches everything up. It checks for new releases (Laika's next film, a new Snoopy Presents special, a director's new movie…), refreshes Wikidata collections, fetches posters, and updates networks. Takes a few minutes; edits are paused while it runs. A finished collection that gets a new title goes back to incomplete.
+  It also runs by itself **every night at 4am** (set `ANDZTV_REFRESH_HOUR=0`–`23` in the service to change the hour, or `off`).
+- **🔔 What's new** (next to ↻): every title a refresh added to a collection, with its poster, grouped by collection. The badge counts ones you haven't seen.
 - **Collections** (home): one card per series or franchise, showing how much you have (e.g. *The Godfather: 2 of 3, 67%*). Click any status pill to change it. ✏️ opens the title, 🗑 removes it from that collection (with Undo). The ⋯ menu renames, reorders, adds a title, or deletes the collection. **+ New collection** makes your own.
 - **Up Next**: what to rip next. **Ripping now** (check each rip, then mark it ✓ On Jellyfin or Rip failed), **Priority requests**, then **Finish a collection** (missing pieces, closest-to-complete first).
 - **Failed**: rips that went wrong ("Rip failed" in Up Next, the status menu, or a title's page). "Try again" puts it back to In Progress; ✕ clears it off the list.
@@ -68,7 +71,14 @@ Don't Have has its own filters: **Requests** (from friends and family),
 - **Masterlist**: every title as posters in the three sections. Click a counter to show just that section.
 
 Press `/` to jump to search. Search also finds networks, streamers and studios: "disney channel", "netflix",
-"hbo", "pixar", "a24"… (looked up by `tools/find_networks.py`, which ↻ Find collections runs too).
+"hbo", "pixar", "a24"… (looked up by `tools/find_networks.py`, which ↻ Refresh runs too).
+
+## New releases
+
+Curated lists (`data/curated/*.json`) don't grow on their own, so a list can say where to watch
+for new titles with a `"watch"` entry (Wikidata production company/series/franchise, Wikipedia
+categories, or rows in a Wikipedia list page). Director lists are watched automatically. See the top of
+`tools/find_new_releases.py`. Finds are kept in `data/discovered.json`. Removing one with ✕ keeps it gone.
 
 ## Data
 
@@ -91,7 +101,7 @@ Press `/` to jump to search. Search also finds networks, streamers and studios: 
 
 Smaller collections that fit inside a broader one get folded in (Toy Story → Pixar,
 Frozen → Walt Disney Animation Studios). To add or fix a curated list, edit its JSON file and
-press **↻ Find collections** (or run the tools below).
+press **↻** (top corner) (or run the tools below).
 
 ## Tools (optional)
 
@@ -101,7 +111,7 @@ python3 tools/apply_curated.py      # apply data/curated/*.json
 python3 tools/enrich.py             # match new titles and fetch posters
 ```
 
-The **↻ Find collections** button runs all three. Collections you've edited, and titles or
+The **↻** button runs these (after checking for new releases). Collections you've edited, and titles or
 collections you've deleted, are left alone on re-runs.
 
 Artwork and matching come from Wikipedia/Wikidata (movies) and TVmaze (TV).

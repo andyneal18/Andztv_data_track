@@ -121,6 +121,24 @@ svg.i { width: 18px; height: 18px; flex: none; stroke: currentColor; fill: none;
 .icon-btn.pin.on { color: var(--accent); }
 .icon-btn.pin.on svg.i { fill: currentColor; }
 .top-icon { color: var(--muted); }
+/* ↻ refresh + 🔔 what's new */
+#refresh-btn.spinning { color: var(--accent); }
+#refresh-btn.spinning svg.i { animation: spin 1s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.bell { position: relative; }
+.bell.has-new { color: var(--text); }
+.bell .count { position: absolute; top: 0; right: -2px; height: 16px; min-width: 16px; font-size: 9.5px; padding: 0 4px; pointer-events: none; }
+.badge.new { color: var(--accent); background: var(--accent-soft); border-color: transparent; }
+.news-top { display: flex; align-items: center; gap: 12px; padding-right: 40px; }
+.news-top [data-confirm-slot] { margin-left: auto; }
+.news-when { margin: 22px 0 10px; font-size: 12px; letter-spacing: 1.4px; text-transform: uppercase; color: var(--muted); display: flex; gap: 8px; align-items: center; }
+.news-coll { border: 1px solid var(--line); border-radius: var(--radius); padding: 14px; margin-bottom: 14px; background: var(--panel-2); }
+.news-head { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 12px; }
+.news-head > div:first-child { flex: 1; min-width: 0; }
+.news-head h4 { margin: 0; font-size: 17px; font-family: var(--serif); }
+.news-head .small { font-size: 12.5px; margin-top: 2px; }
+.news .grid { grid-template-columns: repeat(auto-fill, minmax(110px, 140px)); }
+.news .card.s-missing .poster img { filter: none; } /* new titles: show the real poster */
 .linkbtn {
   border: 0; background: none; color: var(--accent); font-weight: 650; cursor: pointer;
   display: inline-flex; gap: 5px; align-items: center; padding: 5px 7px; border-radius: 7px; font-size: 13.5px;
@@ -450,6 +468,10 @@ select, .input, textarea {
   .mfilter { gap: 6px; }
   .mchip { padding: 6px 10px; font-size: 12.5px; }
   .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px 9px; }
+  .news .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .news-coll { padding: 12px; }
+  .news-head > div:first-child { flex-basis: 100%; }
+  .news-head .linkbtn { margin-left: auto; }
   .section-head .seg { overflow-x: auto; max-width: 100%; }
 
   .modal-backdrop { padding: 0; place-items: end stretch; }

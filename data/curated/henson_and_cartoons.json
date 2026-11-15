@@ -2243,6 +2243,7 @@
     },
     {
       "id": "cur-peanuts",
+      "watch": {"categories": ["Category:Peanuts specials", "Category:Peanuts television specials", "Category:Peanuts films", "Category:Peanuts television series"], "lists": [{"page": "List of Apple TV original programming", "match": "^Snoopy Presents", "format": "TV special"}, {"page": "Peanuts filmography", "match": "Snoopy|Charlie Brown|Peanuts"}]},
       "name": "Peanuts",
       "kind": "Franchise",
       "items": [

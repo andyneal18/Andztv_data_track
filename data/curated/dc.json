@@ -116,6 +116,7 @@
   },
   {
    "id": "cur-dc-universe-dcu",
+   "watch": {"wikidata": [["P179", "Q116545465"]]},
    "name": "DC Universe (DCU)",
    "kind": "Universe",
    "items": [
@@ -267,6 +268,7 @@
   },
   {
    "id": "cur-dc-universe-animated-original-movies",
+   "watch": {"wikidata": [["P179", "Q2405799"]]},
    "name": "DC Universe Animated Original Movies",
    "kind": "Film Series",
    "items": [

@@ -71,6 +71,7 @@ async function load() {
   lib.collections ||= [];
   lib.dismissedItems ||= [];
   lib.dismissedCollections ||= [];
+  lib.news ||= [];
   reindex();
   render(true);
 }
@@ -307,6 +308,7 @@ function render(full = false) {
   $("#page-title").textContent = { collections: "Collections", next: "Up next", failed: "Failed rips", requests: "Requests", library: "Masterlist" }[ui.tab];
   if (full) renderFilters();
   renderStats();
+  renderNewsBadge();
   const y = window.scrollY;
   const view = $("#view");
   if (ui.tab === "library") view.innerHTML = renderLibrary();
@@ -363,7 +365,6 @@ function renderCollections() {
       <span class="muted">${list.length + pinned.length} collection${list.length + pinned.length === 1 ? "" : "s"}${ui.collShow === "incomplete" ? " still missing something" : ""}</span>
       ${stale ? `<button class="linkbtn" data-act="resort" title="Your edits changed the order; cards stay put until you re-sort">↻ Re-sort</button>` : ""}
       <span style="flex:1"></span>
-      <button class="btn small" data-act="refresh-colls" title="Look up series & franchises for your titles on Wikidata">↻ Find collections</button>
       <button class="btn small soft" data-act="new-coll">${icon("plus")} New collection</button></div>`;
   const pinnedHtml = pinned.length ? `<button class="coll-sec toggle ${ui.pinnedCollapsed ? "collapsed" : ""}" data-act="pinned-toggle" aria-expanded="${!ui.pinnedCollapsed}">
       <span class="chev">${icon("chev")}</span>${icon("pin")} Pinned <span class="dim">${pinned.length}</span></button>
@@ -987,6 +988,107 @@ function collapseCard(id) {
   if (top < 0) window.scrollBy({ top, behavior: "smooth" });
 }
 
+
+// ---------------------------------------------------------------- refresh + what's new
+
+// ↻ in the header: the server checks every collection for new releases, finds new
+// collections, fetches posters… (a few minutes, in the background). Titles that joined
+// a collection land in lib.news and show under the 🔔.
+let refreshPoll = null;
+function showRefresh(st) {
+  const b = $("#refresh-btn");
+  b.classList.toggle("spinning", !!st.running);
+  b.title = st.running ? `Refreshing: ${st.step || "starting"}… (${st.stepIndex || 1} of ${st.steps})` : "Refresh: check for new releases and update every collection";
+  const s = $("#save-state");
+  if (st.running) s.textContent = `Refreshing ${st.stepIndex || 1}/${st.steps}…`;
+  else if (s.textContent.startsWith("Refreshing")) s.textContent = "";
+}
+async function startRefresh() {
+  if ($("#refresh-btn").classList.contains("spinning")) return toast("Already refreshing. Hang tight.");
+  clearTimeout(saveTimer);
+  try {
+    // Send any edit that's still waiting to save first; the server pauses saves while it runs.
+    const r = await fetch("/api/library", { method: "PUT", headers: { "Content-Type": "application/json", "X-Lib-Version": libVersion || "" }, body: JSON.stringify(lib) });
+    const j = await r.json();
+    if (j.stale) { toast("Your library was updated on another device. Reloaded — press ↻ again."); return load(); }
+    if (r.ok) libVersion = j.version;
+    showRefresh(await (await fetch("/api/refresh", { method: "POST" })).json());
+    toast("Refreshing: checking for new releases. Takes a few minutes; edits are paused until it's done.");
+    watchRefresh();
+  } catch (e) { toast("Refresh failed: " + e.message); }
+}
+function watchRefresh() {
+  clearInterval(refreshPoll);
+  refreshPoll = setInterval(async () => {
+    let st;
+    try { st = await (await fetch("/api/refresh")).json(); } catch { return; }
+    showRefresh(st);
+    if (st.running) return;
+    clearInterval(refreshPoll); refreshPoll = null;
+    await load();
+    if (st.error) toast("Refresh hit a problem: " + st.error);
+    else if (st.added) toast(`${st.added} new title${st.added === 1 ? "" : "s"} in your collections`, "See what's new", openNews);
+    else toast("All caught up. Nothing new in your collections.");
+  }, 3000);
+}
+async function checkRefresh() { // another device may have started one
+  try {
+    const st = await (await fetch("/api/refresh")).json();
+    showRefresh(st);
+    if (st.running && !refreshPoll) watchRefresh();
+  } catch {}
+}
+
+const newsSeen = () => localGet("newsSeen") || "";
+// Only entries whose title is still in that collection.
+const liveNews = () => (lib.news || []).filter((n) => byId.has(n.item) && lib.collections.some((c) => c.id === n.cid && c.items.includes(n.item)));
+function renderNewsBadge() {
+  const unread = liveNews().filter((n) => n.at > newsSeen()).length;
+  $("#news-count").textContent = unread ? (unread > 99 ? "99+" : unread) : "";
+  $("#news-btn").classList.toggle("has-new", unread > 0);
+}
+
+function openNews() {
+  const news = liveNews();
+  const seen = newsSeen();
+  localSet("newsSeen", news[0]?.at || new Date().toISOString());
+  renderNewsBadge();
+  const when = (at) => {
+    const d = new Date(at), days = Math.floor((Date.now() - d) / 864e5);
+    const label = d.toLocaleDateString(undefined, { month: "short", day: "numeric", year: d.getFullYear() === new Date().getFullYear() ? undefined : "numeric" });
+    return days < 1 && d.getDate() === new Date().getDate() ? `Today · ${label}` : label;
+  };
+  // Grouped by refresh, then by collection.
+  const runs = [];
+  for (const n of news) {
+    let run = runs.at(-1);
+    if (!run || run.at !== n.at) runs.push((run = { at: n.at, colls: new Map() }));
+    (run.colls.get(n.cid) || run.colls.set(n.cid, []).get(n.cid)).push(n);
+  }
+  const body = runs.map((run) => `<h3 class="news-when">${esc(when(run.at))}${run.at > seen ? ` <span class="badge new">New</span>` : ""}</h3>
+    ${[...run.colls].map(([cid, ns]) => {
+      const c = lib.collections.find((x) => x.id === cid);
+      const { n, total, pct } = collStats(c);
+      const complete = total > 0 && n.downloaded === total;
+      const reopened = ns[0].wasComplete && !complete;
+      return `<section class="news-coll">
+        <div class="news-head">
+          <div><h4>${esc(c.name)}</h4>
+            <div class="muted small">+${ns.length} new · ${n.downloaded} of ${total} downloaded (${pct}%)</div></div>
+          ${reopened ? `<span class="badge missing">No longer complete</span>` : complete ? `<span class="badge done">✓ Complete</span>` : ""}
+          <button class="linkbtn" data-act="news-goto" data-name="${esc(c.name)}">View collection</button>
+        </div>
+        <div class="grid">${ns.map((x) => cardHtml(byId.get(x.item))).join("")}</div>
+      </section>`;
+    }).join("")}`).join("");
+  openModal(`<div class="news">
+    <div class="news-top"><h2 style="margin:0">New in your collections</h2>
+      ${news.length ? `<span data-confirm-slot><button class="btn small ghost" data-act="news-clear">Clear</button></span>` : ""}</div>
+    <p class="muted" style="margin:6px 0 18px">Titles added to your collections by ↻ Refresh, newest first.</p>
+    ${body || `<div class="empty">Nothing new yet. Press ↻ (top corner) to check for new releases.</div>`}
+  </div>`);
+}
+
 // ---------------------------------------------------------------- events
 
 document.addEventListener("click", (e) => {
@@ -1080,16 +1182,12 @@ document.addEventListener("click", (e) => {
         save(); renderFilters();
         openAdd({ forCollection: lib.collections.at(-1).id });
       });
-    case "refresh-colls": {
-      t.disabled = true; t.textContent = "Looking up… (a few minutes)";
-      clearTimeout(saveTimer);
-      fetch("/api/library", { method: "PUT", headers: { "Content-Type": "application/json", "X-Lib-Version": libVersion || "" }, body: JSON.stringify(lib) })
-        .then(() => fetch("/api/refresh-collections", { method: "POST" }))
-        .then((r) => r.json())
-        .then((j) => { if (j.error) throw new Error(j.error); toast(j.log.split("\n").filter((l) => /collections|matched/.test(l)).join(" · ") || "Done"); return load(); })
-        .catch((err) => { toast("Refresh failed: " + err.message); render(); });
-      return;
-    }
+    case "news-clear":
+      return confirmInline(t, "Clear the list?", () => { lib.news = []; save(); openNews(); });
+    case "news-goto":
+      ui.search = t.dataset.name; ui.collShow = "all"; localSet("collShow", "all");
+      $("#modal").hidden = true; $("#modal-body").innerHTML = "";
+      return goTab("collections");
     case "next-more": ui.nextMore = !ui.nextMore; return render();
     case "resort": ui.frozen = null; return render();
     case "titles-more": ui.titlesMore = !ui.titlesMore; return render();
@@ -1185,6 +1283,8 @@ for (const nav of ["#tabs", "#bottomnav"]) {
 }
 $(".brand").addEventListener("click", (e) => { e.preventDefault(); goTab("collections"); });
 $("#add-btn").onclick = () => openAdd();
+$("#refresh-btn").onclick = startRefresh;
+$("#news-btn").onclick = openNews;
 $("#modal-close").onclick = closeModal;
 $("#modal").addEventListener("mousedown", (e) => { if (e.target.id === "modal") closeModal(); });
 document.addEventListener("keydown", (e) => {
@@ -1203,9 +1303,11 @@ document.addEventListener("keydown", (e) => {
   };
 })();
 
-load();
+load().then(checkRefresh);
 document.addEventListener("visibilitychange", () => {
-  if (document.visibilityState !== "visible" || !$("#modal").hidden) return;
+  if (document.visibilityState !== "visible") return;
+  checkRefresh();
+  if (!$("#modal").hidden) return;
   fetch("/api/library", { method: "HEAD" }).then((r) => {
     const v = r.headers.get("X-Lib-Version");
     if (v && libVersion && v !== libVersion) load();

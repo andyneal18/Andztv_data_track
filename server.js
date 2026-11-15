@@ -161,24 +161,97 @@ async function lookup(q, type) {
 }
 
 let toolRunning = false;
-function runTools() {
+// "↻ Refresh": catch every collection up with what's come out. Runs in the background
+// (it takes a few minutes); the page polls GET /api/refresh for progress.
+const STEPS = [
+  ["Checking for new releases", "find_new_releases.py", 15],
+  ["Finding collections", "find_collections.py", 15],
+  ["Updating collections", "apply_curated.py", 5],
+  ["Fetching posters", "enrich.py", 30],
+  ["Looking up networks & studios", "find_networks.py", 15], // so search finds "disney channel", "netflix"…
+];
+const refresh = { running: false, step: null, stepIndex: 0, steps: STEPS.length, startedAt: null, finishedAt: null, error: null, added: 0 };
+
+function runPy(script, minutes) {
   return new Promise((resolve, reject) => {
     const py = process.env.PYTHON || "python3";
-    execFile(py, [path.join(ROOT, "tools", "find_collections.py")], { cwd: ROOT, timeout: 15 * 60e3 }, (err, out1, e1) => {
-      if (err) return reject(new Error(e1 || err.message));
-      execFile(py, [path.join(ROOT, "tools", "apply_curated.py")], { cwd: ROOT, timeout: 5 * 60e3 }, (errC, outC, eC) => {
-        if (errC) return reject(new Error(eC || errC.message));
-        execFile(py, [path.join(ROOT, "tools", "enrich.py")], { cwd: ROOT, timeout: 30 * 60e3 }, (err2, out2, e2) => {
-          if (err2) return reject(new Error(e2 || err2.message));
-          // Networks & studios, so search finds "disney channel", "netflix"…
-          execFile(py, [path.join(ROOT, "tools", "find_networks.py")], { cwd: ROOT, timeout: 15 * 60e3 }, (err3, out3, e3) => {
-            if (err3) return reject(new Error(e3 || err3.message));
-            resolve((out1 + outC + out2 + out3).trim());
-          });
-        });
-      });
+    execFile(py, [path.join(ROOT, "tools", script)], { cwd: ROOT, timeout: minutes * 60e3, maxBuffer: 20e6 }, (err, out, e) => {
+      if (err) return reject(new Error(`${script}: ${(e || err.message).trim().split("\n").pop()}`));
+      resolve(out);
     });
   });
+}
+
+const normTitle = (t) => String(t || "").toLowerCase().replace(/^(the|a|an) /, "").replace(/[^a-z0-9]+/g, "");
+
+// Titles that joined a collection during a refresh go on the 🔔 list (lib.news).
+function recordNews(before) {
+  const lib = JSON.parse(fs.readFileSync(LIB));
+  const byId = new Map(lib.items.map((i) => [i.id, i]));
+  const at = new Date().toISOString();
+  const news = [];
+  for (const c of lib.collections) {
+    const prev = before.get(c.id);
+    if (!prev) continue; // a whole new collection, not new titles in one you follow
+    const gone = new Set([...prev.items].filter((id) => !c.items.includes(id)).map((id) => prev.titles.get(id)));
+    for (const id of c.items) {
+      const i = byId.get(id);
+      // Skip ids that only changed (a gap merged into the copy you own).
+      if (prev.items.has(id) || !i || gone.has(normTitle(i.title))) continue;
+      news.push({ at, cid: c.id, collection: c.name, item: id, title: i.title, year: i.year || null, wasComplete: prev.complete });
+    }
+  }
+  if (news.length) {
+    lib.news = [...news, ...(lib.news || [])].slice(0, 300);
+    const tmp = LIB + ".tmp";
+    fs.writeFileSync(tmp, JSON.stringify(lib, null, 1));
+    fs.renameSync(tmp, LIB);
+  }
+  return news.length;
+}
+
+async function runRefresh() {
+  Object.assign(refresh, { running: true, startedAt: new Date().toISOString(), finishedAt: null, error: null, added: 0 });
+  toolRunning = true;
+  backup();
+  const lib = JSON.parse(fs.readFileSync(LIB));
+  const status = new Map(lib.items.map((i) => [i.id, i]));
+  const before = new Map(lib.collections.map((c) => [c.id, {
+    items: new Set(c.items),
+    titles: new Map(c.items.map((id) => [id, normTitle(status.get(id)?.title)])),
+    complete: c.items.length > 0 && c.items.every((id) => status.get(id)?.status === "downloaded"),
+  }]));
+  let log = "";
+  try {
+    for (const [n, [label, script, minutes]] of STEPS.entries()) {
+      Object.assign(refresh, { step: label, stepIndex: n + 1 });
+      log += await runPy(script, minutes);
+    }
+  } catch (e) {
+    refresh.error = e.message;
+  } finally {
+    try { refresh.added = recordNews(before); } catch (e) { refresh.error ||= e.message; }
+    Object.assign(refresh, { running: false, step: null, finishedAt: new Date().toISOString() });
+    toolRunning = false;
+    console.log(`refresh ${refresh.error ? "failed: " + refresh.error : "done"}; ${refresh.added} new in collections\n${log.trim()}`);
+  }
+}
+
+// Nightly refresh, so the 🔔 is already up to date in the morning. Runs at 4am (server's
+// local time). ANDZTV_REFRESH_HOUR=0–23 picks another hour; "off" turns it off.
+const NIGHTLY = (process.env.ANDZTV_REFRESH_HOUR || "4").trim();
+let lastNightly = null;
+if (NIGHTLY !== "off") {
+  setInterval(() => {
+    const now = new Date(), day = now.toDateString();
+    if (now.getHours() !== +NIGHTLY || lastNightly === day || refresh.running) return;
+    lastNightly = day;
+    console.log("nightly refresh starting");
+    runRefresh().catch((e) => {
+      Object.assign(refresh, { running: false, step: null, error: e.message });
+      toolRunning = false;
+    });
+  }, 5 * 60e3);
 }
 
 function authorized(req) {
@@ -239,16 +312,16 @@ const server = http.createServer(async (req, res) => {
       }
       return send(res, 200, { poster: file });
     }
-    if (p === "/api/refresh-collections" && req.method === "POST") {
-      if (toolRunning) return send(res, 409, { error: "already running" });
-      toolRunning = true;
-      backup();
-      try {
-        return send(res, 200, { ok: true, log: await runTools() });
-      } finally {
-        toolRunning = false;
+    if (p === "/api/refresh" && req.method === "POST") {
+      if (!refresh.running) {
+        runRefresh().catch((e) => {
+          Object.assign(refresh, { running: false, step: null, error: e.message });
+          toolRunning = false;
+        });
       }
+      return send(res, 202, refresh);
     }
+    if (p === "/api/refresh") return send(res, 200, refresh);
     if (p === "/api/export.csv") {
       const lib = JSON.parse(fs.readFileSync(LIB));
       const colOf = {};

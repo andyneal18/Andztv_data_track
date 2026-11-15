@@ -233,6 +233,8 @@ def enrich(item, retry):
 
     dest = POSTERS / f'{item["id"]}.jpg'
     url = item.pop("_posterUrl", None)
+    if item.get("posterSource") and not item.get("poster"):
+        url = item["posterSource"]  # exact IMDb match saved by find_new_releases.py (new titles)
     if not url and item.get("wiki") and not item.get("poster") and not dest.exists():
         try:
             url = wiki_poster(item["wiki"])

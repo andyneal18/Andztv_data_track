@@ -2,6 +2,7 @@
   "collections": [
     {
       "id": "cur-marvel-cinematic-universe",
+      "watch": {"wikidata": [["P179", "Q642878"]]},
       "name": "Marvel Cinematic Universe",
       "kind": "Universe",
       "items": [

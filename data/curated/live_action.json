@@ -2,6 +2,7 @@
  "collections": [
   {
    "id": "cur-star-wars",
+   "watch": {"wikidata": [["P8345", "Q462"]]},
    "name": "Star Wars",
    "kind": "Franchise",
    "items": [
@@ -1138,6 +1139,7 @@
   },
   {
    "id": "cur-star-trek",
+   "watch": {"wikidata": [["P8345", "Q1092"]]},
    "name": "Star Trek",
    "kind": "Franchise",
    "items": [
@@ -1620,6 +1622,7 @@
   },
   {
    "id": "cur-monsterverse",
+   "watch": {"wikidata": [["P8345", "Q21527684"]]},
    "name": "MonsterVerse",
    "kind": "Universe",
    "items": [

@@ -2,6 +2,7 @@
   "collections": [
     {
       "id": "cur-pixar",
+      "watch": {"wikidata": [["P272", "Q127552"]]},
       "name": "Pixar",
       "kind": "Studio",
       "items": [
@@ -294,6 +295,7 @@
     },
     {
       "id": "cur-dreamworks-animation",
+      "watch": {"wikidata": [["P272", "Q500088"]]},
       "name": "DreamWorks Animation",
       "kind": "Studio",
       "items": [
@@ -1016,6 +1018,7 @@
     },
     {
       "id": "cur-illumination",
+      "watch": {"wikidata": [["P272", "Q1189512"]]},
       "name": "Illumination",
       "kind": "Studio",
       "items": [
@@ -1151,6 +1154,7 @@
     },
     {
       "id": "cur-sony-pictures-animation",
+      "watch": {"wikidata": [["P272", "Q1416835"]]},
       "name": "Sony Pictures Animation",
       "kind": "Studio",
       "items": [
@@ -1612,6 +1616,7 @@
     },
     {
       "id": "cur-studio-ghibli",
+      "watch": {"wikidata": [["P272", "Q182950"]]},
       "name": "Studio Ghibli",
       "kind": "Studio",
       "items": [
@@ -1804,6 +1809,7 @@
     },
     {
       "id": "cur-laika",
+      "watch": {"wikidata": [["P272", "Q1314323"]]},
       "name": "Laika",
       "kind": "Studio",
       "items": [
@@ -1841,6 +1847,7 @@
     },
     {
       "id": "cur-aardman",
+      "watch": {"wikidata": [["P272", "Q301092"]]},
       "name": "Aardman",
       "kind": "Studio",
       "items": [
@@ -2003,6 +2010,7 @@
     },
     {
       "id": "cur-warner-bros-pictures-animation",
+      "watch": {"wikidata": [["P272", "Q47517081"]]},
       "name": "Warner Bros. Pictures Animation",
       "kind": "Studio",
       "items": [

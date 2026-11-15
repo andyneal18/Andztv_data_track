@@ -9,7 +9,8 @@ Smaller auto-found collections that mostly sit inside a curated one
 (e.g. "Toy Story" inside "Pixar") are removed so the list stays broad.
 
 Curated collections you've edited in the app (renamed, reordered, removed a
-title...) are left alone on re-runs, as are ones you deleted.
+title...) are left alone on re-runs, as are ones you deleted. New releases found
+by find_new_releases.py (data/discovered.json) are still added to edited ones.
 """
 import json
 import re
@@ -18,6 +19,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 LIB = ROOT / "data" / "library.json"
 CURATED = ROOT / "data" / "curated"
+DISCOVERED = ROOT / "data" / "discovered.json"  # new releases (tools/find_new_releases.py)
 
 # A collection is folded into a broader one when this share of it is already there.
 OVERLAP = 0.7
@@ -121,7 +123,11 @@ def main():
             by_wiki.setdefault(i["wiki"].lower(), i)
         by_title.setdefault(norm(i["title"]), []).append(i)
 
+    by_qid = {i["wikidata"]: i for i in items if i.get("wikidata")}
+
     def find(e):
+        if e.get("qid") in by_qid:
+            return by_qid[e["qid"]]
         w = by_wiki.get((e.get("wiki") or "").lower())
         # Some articles cover several films, so the year must agree too.
         if w and (w.get("year") == e.get("year") or norm(w["title"]) in {norm(t) for t in [e["title"], *e.get("aka", [])]}):
@@ -141,42 +147,66 @@ def main():
                     best, best_s = i, s
         return best
 
+    def resolve(e):
+        """The library title for a curated entry, added as Don't Have if new.
+        None when there's nothing to add (no year, or you deleted it)."""
+        nonlocal added, matched
+        item = find(e)
+        if item:
+            matched += 1
+        else:
+            if not e.get("year"):
+                return None
+            base = iid = f"{'tv' if e['type'] == 'tv' else 'm'}-{slug(e['title'])}-{e['year']}"
+            if "id:" + base in dismissed_items:
+                return None  # you deleted this one in the app
+            n = 2
+            while iid in used_ids:
+                iid, n = f"{base}-{n}", n + 1
+            used_ids.add(iid)
+            item = {"id": iid, "title": e["title"], "year": e["year"], "type": e["type"],
+                    "status": "missing", "addedBy": "collection"}
+            if e.get("wiki"):
+                item["wiki"] = e["wiki"]
+            for k, to in (("qid", "wikidata"), ("imdb", "imdb"), ("date", "released")):
+                if e.get(k):
+                    item[to] = e[k]
+            items.append(item)
+            by_title.setdefault(norm(item["title"]), []).append(item)
+            if e.get("wiki"):
+                by_wiki[e["wiki"].lower()] = item
+            if e.get("qid"):
+                by_qid[e["qid"]] = item
+            added += 1
+        if e.get("format") and not item.get("format"):
+            item["format"] = e["format"]
+        if e.get("posterUrl") and not item.get("poster"):
+            item["posterSource"] = e["posterUrl"]  # enrich.py downloads it
+        if item.get("wikidata") in dismissed_items:
+            return None
+        return item
+
+    discovered = json.loads(DISCOVERED.read_text()) if DISCOVERED.exists() else {}
     existing = {c["id"]: c for c in lib["collections"]}
     added = matched = 0
     for f in sorted(CURATED.glob("*.json")):
         for col in json.loads(f.read_text())["collections"]:
             cid = col["id"]
-            if cid in lib["dismissedCollections"] or existing.get(cid, {}).get("manual"):
+            if cid in lib["dismissedCollections"]:
+                continue
+            new_releases = discovered.get(cid, [])
+            if existing.get(cid, {}).get("manual"):
+                # You've edited this one: leave it as is, apart from adding new releases at the end.
+                c = existing[cid]
+                for e in new_releases:
+                    item = resolve(e)
+                    if item and item["id"] not in c["items"] and f"{cid}|{item['id']}" not in excluded:
+                        c["items"].append(item["id"])
                 continue
             ids = []
-            for e in col["items"]:
-                item = find(e)
-                if item:
-                    matched += 1
-                else:
-                    if not e.get("year"):
-                        continue
-                    base = iid = f"{'tv' if e['type'] == 'tv' else 'm'}-{slug(e['title'])}-{e['year']}"
-                    if "id:" + base in dismissed_items:
-                        continue  # you deleted this one in the app
-                    n = 2
-                    while iid in used_ids:
-                        iid, n = f"{base}-{n}", n + 1
-                    used_ids.add(iid)
-                    item = {"id": iid, "title": e["title"], "year": e["year"], "type": e["type"],
-                            "status": "missing", "addedBy": "collection"}
-                    if e.get("wiki"):
-                        item["wiki"] = e["wiki"]
-                    items.append(item)
-                    by_title.setdefault(norm(item["title"]), []).append(item)
-                    if e.get("wiki"):
-                        by_wiki[e["wiki"].lower()] = item
-                    added += 1
-                if e.get("format") and not item.get("format"):
-                    item["format"] = e["format"]
-                if item.get("wikidata") in dismissed_items:
-                    continue
-                if item["id"] not in ids and f"{cid}|{item['id']}" not in excluded:
+            for e in col["items"] + new_releases:
+                item = resolve(e)
+                if item and item["id"] not in ids and f"{cid}|{item['id']}" not in excluded:
                     ids.append(item["id"])
             prev = existing.get(cid) or {}
             existing[cid] = {"id": cid, "name": col["name"], "source": "curated",
