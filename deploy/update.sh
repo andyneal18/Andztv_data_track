@@ -8,18 +8,35 @@ set -euo pipefail
 REPO=https://github.com/andyneal18/Andztv_data_track.git
 is_app() { [ -f "$1/server.js" ] && [ -f "$1/data/library.json" ]; }
 
-# 1. Find the app: the folder given, else the one the service runs from, else search.
+# 1. Find the app: the folder given, else the one the service runs from, else a running
+#    "node server.js", else search the disk.
 DIR="${1:-}"
+HOW=""
 if [ -z "$DIR" ]; then
   DIR=$(systemctl show -p WorkingDirectory --value andztv 2>/dev/null || true)
+  [ -n "$DIR" ] && HOW=systemd
 fi
 if [ -z "$DIR" ] || ! is_app "$DIR"; then
-  echo "Looking for the andztv folder…"
-  FOUND=$( { find "$HOME" -path "*/data/library.json" -not -path "*/backups/*" 2>/dev/null
-             find / -xdev -path "*/data/library.json" -not -path "*/backups/*" -not -path "$HOME/*" 2>/dev/null; } |
-           while read -r f; do d=$(dirname "$(dirname "$f")"); is_app "$d" && echo "$d"; done | sort -u)
+  for pid in $(pgrep -f "server\.js" 2>/dev/null || true); do
+    d=$(readlink "/proc/$pid/cwd" 2>/dev/null || true)
+    if [ -n "$d" ] && is_app "$d"; then DIR="$d"; HOW=process; break; fi
+  done
+fi
+if [ -z "$DIR" ] || ! is_app "$DIR"; then
+  echo "Looking for the andztv folder (can take a minute)…"
+  FOUND=$( { find "$HOME" -path "*/data/library.json" -not -path "*/backups/*" 2>/dev/null || true
+             find / -xdev -path "*/data/library.json" -not -path "*/backups/*" -not -path "$HOME/*" 2>/dev/null || true; } |
+           while read -r f; do d=$(dirname "$(dirname "$f")"); if is_app "$d"; then echo "$d"; fi; done | sort -u || true)
   COUNT=$(printf "%s" "$FOUND" | grep -c . || true)
-  if [ "$COUNT" -eq 0 ]; then echo "Couldn't find andztv on this machine (no folder with server.js and data/library.json)."; exit 1; fi
+  if [ "$COUNT" -eq 0 ]; then
+    echo
+    echo "Couldn't find andztv on this machine (no folder with server.js and data/library.json)."
+    echo "What's running that might be it:"
+    pgrep -af "node|server\.js" 2>/dev/null | grep -v pgrep || echo "  (no node processes)"
+    command -v docker >/dev/null && docker ps --format '  docker: {{.Names}}  {{.Image}}  {{.Ports}}' 2>/dev/null || true
+    systemctl list-units --type=service --no-pager 2>/dev/null | grep -i -E "andz|node|tv" || true
+    exit 1
+  fi
   if [ "$COUNT" -gt 1 ]; then
     echo "Found more than one andztv folder:"; echo "$FOUND"
     echo "Run again with the right one at the end:  curl -fsSL …/update.sh | bash -s /path/to/folder"; exit 1
@@ -45,8 +62,12 @@ mkdir -p "$DIR/data" && cp -r "$S/data/curated" "$DIR/data/"
 echo "Code updated to: $(git -C "$S" log -1 --format='%h %s')"
 
 # 4. Restart.
-if systemctl list-unit-files andztv.service >/dev/null 2>&1 && systemctl cat andztv >/dev/null 2>&1; then
+if [ "$HOW" = systemd ] || systemctl cat andztv >/dev/null 2>&1; then
   sudo systemctl restart andztv && echo "andztv restarted. Open the app and refresh the page."
 else
-  echo "Done. Restart andztv the way you usually start it (e.g. stop it and run: node \"$DIR/server.js\")."
+  echo
+  echo "Code is updated, but andztv isn't set up as a service here, so restart it yourself:"
+  echo "  stop the old one (Ctrl+C in its window, or: pkill -f \"$DIR/server.js\"), then run"
+  echo "  cd \"$DIR\" && node server.js"
+  echo "Or make it a proper service that restarts by itself:  cd \"$DIR\" && ./deploy/install.sh"
 fi
